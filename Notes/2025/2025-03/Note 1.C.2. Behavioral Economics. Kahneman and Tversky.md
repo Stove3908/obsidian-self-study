@@ -1,0 +1,20 @@
+- University of Chicago Professors: Offered a different angle on economics and negotiation
+- Amos Tversky and Daniel Kahneman: Launched the field of behavioral economics
+- Kahneman's Nobel Prize: Awarded for his work in behavioral economics
+- **Irrationality of Humans:**
+	- Man is a very irrational beast
+	- Feeling is a form of thinking
+	- People are neither fully rational nor completely selfish
+- **Cognitive Biases:**
+	- Unconscious and irrational brain processes that distort our view of the world
+	- Identified over 150 cognitive biases
+	- **Examples:**
+		- Framing Effect: Responses differ based on how choices are framed
+		- Prospect Theory: Taking unwarranted risks in the face of uncertain losses
+		- Loss Aversion: Avoiding a loss is more powerful than achieving an equal gain
+- **System 1 vs. System 2 Thinking (Kahneman's "Thinking, Fast and Slow"):**
+	- System 1: Fast, instinctive, emotional (animal mind)
+	- System 2: Slow, deliberative, logical
+	- System 1 Dominance: Guides and steers rational thoughts
+	- Influence on System 2: System 1 reactions inform and create System 2 answers
+	- Implications for Negotiation: Affecting System 1 can modify System 2 responses

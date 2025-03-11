@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fba71aa25dac8c31","type":"text","text":"Never Split The Difference","x":-106,"y":-5,"width":305,"height":44},
+		{"id":"a0a3277c4fbad730","type":"text","text":"Chapter 1","x":297,"y":-5,"width":184,"height":44},
+		{"id":"69d841ac03bcc216","type":"text","text":"[[1. The New Rules|1. The New Rules]]","x":639,"y":-5,"width":348,"height":92},
+		{"id":"c36adbf3ad4a1c3f","type":"text","text":"[[2. Old-School Negotiation|Old-School Negotiation]]","x":639,"y":105,"width":241,"height":55}
+	],
+	"edges":[
+		{"id":"68a260d792f102e6","fromNode":"fba71aa25dac8c31","fromSide":"right","toNode":"a0a3277c4fbad730","toSide":"left"},
+		{"id":"f80d3b537b87fbfb","fromNode":"a0a3277c4fbad730","fromSide":"right","toNode":"69d841ac03bcc216","toSide":"left"},
+		{"id":"393a2422b040996e","fromNode":"a0a3277c4fbad730","fromSide":"right","toNode":"c36adbf3ad4a1c3f","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+Chapter 2: Variables, Operators, and Decisions - Animating Sprites

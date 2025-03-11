@@ -1,0 +1,7 @@
+- Overcoming Aversion to Negotiation: Accepting negotiation as a part of how the world works
+- Negotiation is Not Browbeating: It's playing the emotional game of human society
+- Claiming Your Prerogative: Asking for what you think is right
+- Psychologically Aware Approach: Using emotions, instincts, and insights
+- Connecting Better with Others: Building rapport and understanding
+- Influencing Others: Persuading others to see your point of view
+- Achieving More: Getting what you want in a psychologically aware way

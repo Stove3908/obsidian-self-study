@@ -1,0 +1,3 @@
+- Experimentation with Therapeutic Techniques: Counseling skills aimed at developing positive relationships through understanding
+- Negotiation World Split: Rational problem-solving vs. psychology, counseling, and crisis intervention
+- Ivy League vs. FBI: Math and economics vs. empathy

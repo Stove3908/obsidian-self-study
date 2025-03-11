@@ -1,0 +1,4 @@
+{
+  "autoRefreshIntervalInSeconds": 60,
+  "autoRefreshOnFileChange": true
+}

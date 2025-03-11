@@ -1,0 +1,577 @@
+{
+  "edges": [
+    {
+      "fromNode": "d895f34814173488",
+      "fromSide": "right",
+      "id": "2e7c011876c02f2e",
+      "toNode": "62c4961c56fea031",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "62c4961c56fea031",
+      "fromSide": "right",
+      "id": "b67e7ec39d5f2d52",
+      "toNode": "aa81fe7c25244ab3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "62c4961c56fea031",
+      "fromSide": "right",
+      "id": "fb9dd865a70b07dc",
+      "toNode": "b8e128748d211e2e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b8e128748d211e2e",
+      "fromSide": "right",
+      "id": "f30588eb8af3cfcc",
+      "toNode": "163d8a1d7b12a0f0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b8e128748d211e2e",
+      "fromSide": "right",
+      "id": "c267cadc5ab5cb03",
+      "toNode": "7ae79f59578260ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b8e128748d211e2e",
+      "fromSide": "right",
+      "id": "034899100cb09f70",
+      "toNode": "0db5613697956791",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d895f34814173488",
+      "fromSide": "right",
+      "id": "46f8a1e62acf3ae2",
+      "toNode": "421b8478c15eb639",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "421b8478c15eb639",
+      "fromSide": "right",
+      "id": "1cb4f446f36dd39d",
+      "toNode": "088b329f5b13a970",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "421b8478c15eb639",
+      "fromSide": "right",
+      "id": "d316ecce3effb67a",
+      "toNode": "12e9674266b9dddb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d895f34814173488",
+      "fromSide": "right",
+      "id": "20973897a26f480d",
+      "toNode": "c444195b9322de89",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c444195b9322de89",
+      "fromSide": "right",
+      "id": "56a705bae55c7b35",
+      "toNode": "4fc0cc2e9e51dc0c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4fc0cc2e9e51dc0c",
+      "fromSide": "right",
+      "id": "6ce7d1556ecd0cd0",
+      "toNode": "19f3be5f3952f279",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4fc0cc2e9e51dc0c",
+      "fromSide": "right",
+      "id": "5e0f04b8abb17223",
+      "toNode": "97a6fea826c08c3d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c444195b9322de89",
+      "fromSide": "right",
+      "id": "9b477b09c30a07c3",
+      "toNode": "a324ef1b5fd293ad",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a324ef1b5fd293ad",
+      "fromSide": "right",
+      "id": "1108d7bcbec59ec2",
+      "toNode": "0bb922863bd00a78",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a324ef1b5fd293ad",
+      "fromSide": "right",
+      "id": "fe995cb2b6ad9e6f",
+      "toNode": "1d11e25fe274d07f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a324ef1b5fd293ad",
+      "fromSide": "right",
+      "id": "f093b78d22aafe78",
+      "styleAttributes": {
+      },
+      "toNode": "bc96053008e9f4c9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d895f34814173488",
+      "fromSide": "right",
+      "id": "6284c0912259b90f",
+      "styleAttributes": {
+      },
+      "toNode": "3a7f0275f17c4eab",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a7f0275f17c4eab",
+      "fromSide": "right",
+      "id": "d6d5d41afee57cad",
+      "styleAttributes": {
+      },
+      "toNode": "b7af3181668057d0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a7f0275f17c4eab",
+      "fromSide": "right",
+      "id": "859999eabe970857",
+      "styleAttributes": {
+      },
+      "toNode": "59dfc98caf303eda",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a7f0275f17c4eab",
+      "fromSide": "right",
+      "id": "1e70a88ececf1676",
+      "styleAttributes": {
+      },
+      "toNode": "45eaf51c2350b3f4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3a7f0275f17c4eab",
+      "fromSide": "right",
+      "id": "61e4f76536f33c49",
+      "styleAttributes": {
+      },
+      "toNode": "64f289ec3f5e1939",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d895f34814173488",
+      "fromSide": "left",
+      "id": "dd98c0a8e7456b3b",
+      "styleAttributes": {
+      },
+      "toNode": "df5b74a7ddf444f7",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "4562b547f5101327",
+      "fromSide": "bottom",
+      "id": "44d7880c33ea8d96",
+      "styleAttributes": {
+      },
+      "toNode": "79dfb11c3f90b641",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "df5b74a7ddf444f7",
+      "fromSide": "top",
+      "id": "49c3169222322129",
+      "styleAttributes": {
+      },
+      "toNode": "c824749be43df226",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "d895f34814173488",
+      "fromSide": "left",
+      "id": "57a0f0601ff47c97",
+      "styleAttributes": {
+      },
+      "toNode": "4562b547f5101327",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "f2a4240197e0b2d7",
+      "fromSide": "right",
+      "id": "372160c1e999479e",
+      "styleAttributes": {
+      },
+      "toNode": "d895f34814173488",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 2217,
+      "id": "3edfb374dce13998",
+      "label": "C++ Variables",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3253,
+      "x": 800,
+      "y": -1440
+    },
+    {
+      "height": 60,
+      "id": "62c4961c56fea031",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Definition",
+      "type": "text",
+      "width": 140,
+      "x": 2858,
+      "y": -737
+    },
+    {
+      "height": 50,
+      "id": "421b8478c15eb639",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Importance",
+      "type": "text",
+      "width": 200,
+      "x": 2858,
+      "y": -370
+    },
+    {
+      "height": 68,
+      "id": "3a7f0275f17c4eab",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Strong Typing",
+      "type": "text",
+      "width": 180,
+      "x": 2918,
+      "y": 504
+    },
+    {
+      "height": 50,
+      "id": "c444195b9322de89",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "User-Defined Types",
+      "type": "text",
+      "width": 248,
+      "x": 2918,
+      "y": -64
+    },
+    {
+      "height": 68,
+      "id": "19f3be5f3952f279",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "**Explanation**: Blueprints for creating objects (instances of a class).",
+      "type": "text",
+      "width": 385,
+      "x": 3653,
+      "y": -250
+    },
+    {
+      "height": 44,
+      "id": "97a6fea826c08c3d",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "**Covered in detail:** Chapter 6.",
+      "type": "text",
+      "width": 305,
+      "x": 3653,
+      "y": -118
+    },
+    {
+      "height": 68,
+      "id": "0bb922863bd00a78",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "**Explanation:** Way to define custom types with a limited set of values.",
+      "type": "text",
+      "width": 365,
+      "x": 3653,
+      "y": -4
+    },
+    {
+      "height": 92,
+      "id": "1d11e25fe274d07f",
+      "styleAttributes": {
+        "border": null,
+        "shape": null
+      },
+      "text": "**Example**: enum class ZombieType { Basic, Tank, Runner };\n",
+      "type": "text",
+      "width": 365,
+      "x": 3653,
+      "y": 176
+    },
+    {
+      "height": 68,
+      "id": "bc96053008e9f4c9",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "**Covered in detail:** Chapter 4.",
+      "type": "text",
+      "width": 260,
+      "x": 3653,
+      "y": 278
+    },
+    {
+      "height": 50,
+      "id": "12e9674266b9dddb",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Allow for dynamic behavior and interaction",
+      "type": "text",
+      "width": 450,
+      "x": 3218,
+      "y": -310
+    },
+    {
+      "height": 60,
+      "id": "59dfc98caf303eda",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": " The compiler enforces strict type checking.",
+      "type": "text",
+      "width": 380,
+      "x": 3238,
+      "y": 434
+    },
+    {
+      "height": 80,
+      "id": "45eaf51c2350b3f4",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Reduces unexpected behavior by ensuring variables are used consistently with their declared types.",
+      "type": "text",
+      "width": 440,
+      "x": 3238,
+      "y": 582
+    },
+    {
+      "height": 80,
+      "id": "64f289ec3f5e1939",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Requires explicit type conversions when operating between different data types.",
+      "type": "text",
+      "width": 360,
+      "x": 3238,
+      "y": 669
+    },
+    {
+      "height": 44,
+      "id": "4fc0cc2e9e51dc0c",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Classes",
+      "type": "text",
+      "width": 170,
+      "x": 3318,
+      "y": -172
+    },
+    {
+      "height": 60,
+      "id": "163d8a1d7b12a0f0",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "player health",
+      "type": "text",
+      "width": 160,
+      "x": 3658,
+      "y": -807
+    },
+    {
+      "height": 50,
+      "id": "7ae79f59578260ee",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "score",
+      "type": "text",
+      "width": 160,
+      "x": 3658,
+      "y": -590
+    },
+    {
+      "height": 50,
+      "id": "0db5613697956791",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": " etc",
+      "type": "text",
+      "width": 160,
+      "x": 3658,
+      "y": -530
+    },
+    {
+      "height": 90,
+      "id": "088b329f5b13a970",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Essential for tracking game state",
+      "type": "text",
+      "width": 240,
+      "x": 3218,
+      "y": -470
+    },
+    {
+      "height": 68,
+      "id": "b7af3181668057d0",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "C++ is a strongly typed language.",
+      "type": "text",
+      "width": 340,
+      "x": 3238,
+      "y": 356
+    },
+    {
+      "height": 60,
+      "id": "aa81fe7c25244ab3",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Named identifiers for memory locations",
+      "type": "text",
+      "width": 250,
+      "x": 3258,
+      "y": -877
+    },
+    {
+      "height": 67,
+      "id": "b8e128748d211e2e",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": " Used to store and manipulate data in games",
+      "type": "text",
+      "width": 250,
+      "x": 3258,
+      "y": -667
+    },
+    {
+      "height": 92,
+      "id": "a324ef1b5fd293ad",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Enumerations (Enums)",
+      "type": "text",
+      "width": 170,
+      "x": 3318,
+      "y": 74
+    },
+    {
+      "file": "CS/Operators.md",
+      "height": 140,
+      "id": "668a7c73b95c8909",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 140,
+      "y": 400
+    },
+    {
+      "file": "Chapter 2.md",
+      "height": 314,
+      "id": "f2a4240197e0b2d7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 804,
+      "x": -1120,
+      "y": 90
+    },
+    {
+      "height": 63,
+      "id": "df5b74a7ddf444f7",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Types of Variables",
+      "type": "text",
+      "width": 310,
+      "x": 1434,
+      "y": -629
+    },
+    {
+      "height": 60,
+      "id": "4562b547f5101327",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Declaring & Initialization",
+      "type": "text",
+      "width": 310,
+      "x": 1434,
+      "y": -341
+    },
+    {
+      "collapsed": true,
+      "file": "CS/Types of variable table.md",
+      "height": 574,
+      "id": "c824749be43df226",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1037,
+      "x": 825,
+      "y": -1428
+    },
+    {
+      "collapsed": true,
+      "file": "CS/Variable Declaration and Initialization in C++.md",
+      "height": 532,
+      "id": "79dfb11c3f90b641",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 947,
+      "x": 870,
+      "y": -57
+    },
+    {
+      "collapsed": false,
+      "file": "CS/C++ Variables.md",
+      "height": 139,
+      "id": "d895f34814173488",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 294,
+      "x": 2260,
+      "y": -460
+    }
+  ]
+}

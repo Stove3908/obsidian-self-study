@@ -1,0 +1,3 @@
+- First in the Country: NYPD was the first police force to create a dedicated team of specialists
+- Process Design: Focused on designing a process for handling crisis negotiations
+- FBI and Others Followed: Other law enforcement agencies adopted similar approaches
