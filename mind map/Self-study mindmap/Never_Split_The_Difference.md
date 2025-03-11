@@ -12,6 +12,8 @@ markmap:
 - [[1.B. Old-School Negotiation]]
 - [[1.C. Heart vs. Mind]]
 - [[1.D. The FBI Gets Emotional]]
+- [[1.E. Life is Negotiation]]
+- [[1.F. The Book's Structure]]
 ## Chapter 2. Be a Mirrow
 ```
  
