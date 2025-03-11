@@ -2,7 +2,9 @@
 ---
 markmap:
   height: 618
-  maxWidth: 200
+  maxWidth: 300
+  coloring: branch
+  initialExpandLevel: 2
 ---
 
 ```

@@ -245,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,8 +263,11 @@
   "lastOpenFiles": [
     "template/Template_Note.md",
     "Notes/2025/2025-03/Chapter 1.The New Rules.md",
-    "Notes/2025/2025-03/Topic 1.A. The New Rules.md",
+    "Notes/2025/2025-03/1.B. Old-School Negotiation.md",
+    "Notes/2025/2025-03/1.A. The New Rules.md",
     "mind map/Self-study mindmap/Never_Split_The_Difference.md",
+    "Notes/2025/2025-03/Chapter 2. Be a Mirrow.md",
+    "Notes/2025/2025-03/Topic 1.A. The New Rules.md",
     "Notes/2025/2025-03/Note 2.B.1. Assumptions. The Negative Side.md",
     "mind map/COS10025/COS10025. Lecture 9.md",
     "kanbanTask.md",
@@ -282,12 +284,9 @@
     "mind map/Self-study mindmap/Beginning C++ Game Programming.md",
     "mind map/Self-study mindmap/The Self-driven Child mindmap.md",
     "Notes/2025/2025-03/20250310212505.md",
-    "Notes/2025/2025-03/Chapter 2. Be a Mirrow.md",
     "Notes/2025/2025-03/Note 1.A.4. Calibrated Questions. How am I supposed to do that.md",
     "Notes/2025/2025-03/Note 1.A.3. Mnookin and Blum Challenge.md",
     "Notes/2025/2025-03/Note 1.A.2. Harvard Negotiation Course.md",
-    "Notes/2025/2025-03/Note 1.A.1. FBI Hostage Negotiation Experience.md",
-    "Notes/2025/2025-03/Topic 1.B. Old-School Negotiation.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
