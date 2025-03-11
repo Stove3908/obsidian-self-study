@@ -1,13 +1,12 @@
 ```markmap
 ---
 markmap:
-  height: 562
-  coloring: depth
-  maxWidth: 200
+  height: 618
+  maxWidth: 300
+  coloring: branch
+  initialExpandLevel: 2
 ---
-#Never Split The Difference
-	- [[Chapter 1.The New Rules|Chapter 1.The New Rules]]
-	 - [[Chapter 2. Be a Mirrow|Chapter 2. Be a Mirrow]]
+# Never Split The Difference
 ## Chapter 1.The New Rules
 - [[1.A. The New Rules]]
 - [[1.B. Old-School Negotiation]]

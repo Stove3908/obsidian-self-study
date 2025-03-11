@@ -44,17 +44,17 @@
             }
           },
           {
-            "id": "9172620bce6353dd",
+            "id": "5dd67e3dea111490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mind map/Self-study mindmap/Never_Split_The_Difference.md",
+                "file": "Notes/2025/2025-03/1.D. The FBI Gets Emotional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Never_Split_The_Difference"
+              "title": "1.D. The FBI Gets Emotional"
             }
           }
         ],
@@ -261,16 +261,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9172620bce6353dd",
+  "active": "5dd67e3dea111490",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Chapter 1.The New Rules.md",
-    "Notes/2025/2025-03/1.D. The FBI Gets Emotional.md",
-    "Notes/2025/2025-03/1.C. Heart vs. Mind.md",
-    "template/Template_Note.md",
-    "Notes/2025/2025-03/1.A. The New Rules.md",
-    "Notes/2025/2025-03/1.B. Old-School Negotiation.md",
     "mind map/Self-study mindmap/Never_Split_The_Difference.md",
+    "Notes/2025/2025-03/1.C. Heart vs. Mind.md",
+    "Notes/2025/2025-03/1.B. Old-School Negotiation.md",
+    "Notes/2025/2025-03/1.A. The New Rules.md",
+    "template/Template_Note.md",
     "Notes/2025/2025-03/Chapter 2. Be a Mirrow.md",
+    "Notes/2025/2025-03/Chapter 1.The New Rules.md",
+    "1.D. Initial Actions/Violence.md",
+    "Notes/2025/2025-03/1.D. The FBI Gets Emotional.md",
     "Notes/2025/2025-03/Topic 1.A. The New Rules.md",
     "Notes/2025/2025-03/Note 2.B.1. Assumptions. The Negative Side.md",
     "mind map/COS10025/COS10025. Lecture 9.md",
@@ -278,7 +279,6 @@
     "Chapter 2.md",
     "Untitled 1.md",
     "constants.md",
-    "1.D. Initial Actions/Violence.md",
     "Notes/2025/Note_Viewer.md",
     "Notes/2025/2025-03/20250310212606.md",
     "excalibrain.md",
