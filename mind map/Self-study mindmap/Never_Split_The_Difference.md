@@ -15,5 +15,6 @@ markmap:
 - [[1.E. Life is Negotiation]]
 - [[1.F. The Book's Structure]]
 ## Chapter 2. Be a Mirrow
+- [[2.A. The Bank Robbery Incident (Context)]]
 ```
  
