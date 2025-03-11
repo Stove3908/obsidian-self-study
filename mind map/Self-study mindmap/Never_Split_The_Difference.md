@@ -16,5 +16,8 @@ markmap:
 - [[1.F. The Book's Structure]]
 ## Chapter 2. Be a Mirrow
 - [[2.A. The Bank Robbery Incident (Context)]]
+- [[2.B. Assumptions vs. Hypotheses]]
+- [[2.C. The Problem with Traditional Negotiation (and Thinking)]]
+- [[2.D. Active Listening, The Solution]]
 ```
  
