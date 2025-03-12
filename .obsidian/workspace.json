@@ -28,65 +28,31 @@
             }
           },
           {
-            "id": "e1186ff16c61cc09",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mind map/Self-study mindmap/Adult Children of Emotionally Immature Parents.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Adult Children of Emotionally Immature Parents"
-            }
-          },
-          {
-            "id": "8a4bb20e3eb84d8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/20250310220941.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250310220941"
-            }
-          },
-          {
-            "id": "9c20ced65438a44d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives"
-            }
-          },
-          {
             "id": "c11339178fc61378",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "It Didn't Start With You"
+            }
+          },
+          {
+            "id": "d6b758733856cba5",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
               "title": "Chapter 2. Three Generations of Shared Family History"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 2. Three Generations of Shared Family History"
+              "title": "Backlinks for It Didn't Start With You"
             }
           },
           {
@@ -179,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 2. Three Generations of Shared Family History"
+              "title": "Outgoing links from It Didn't Start With You"
             }
           },
           {
@@ -208,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2. Three Generations of Shared Family History"
+              "title": "Outline of It Didn't Start With You"
             }
           },
           {
@@ -293,15 +259,15 @@
   },
   "active": "c11339178fc61378",
   "lastOpenFiles": [
-    "mind map/Self-study mindmap/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
-    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "kanbanTask.md",
-    "template/Template_Note.md",
+    "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/20250310220941.md",
+    "mind map/Self-study mindmap/It Didn't Start With You.md",
+    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
+    "template/Template_Note.md",
     "mind map/Self-study mindmap/Beginning C++ Game Programming.md",
     "Notes/2025/2025-03/Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
-    "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "mind map/Self-study mindmap/Adult Children of Emotionally Immature Parents.md",
     "Notes/2025/2025-03/20250312093554.md",
     "Notes/2025/2025-03/20250312093550.md",
