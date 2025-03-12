@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1. Traumas Lost and Found"
+              "title": "It Didn't Start With You"
             }
           },
           {
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1. Traumas Lost and Found"
+              "title": "Backlinks for It Didn't Start With You"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 1. Traumas Lost and Found"
+              "title": "Outgoing links from It Didn't Start With You"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
+                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1. Traumas Lost and Found"
+              "title": "Outline of It Didn't Start With You"
             }
           },
           {
@@ -257,12 +257,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ab126806687dbed",
+  "active": "c11339178fc61378",
   "lastOpenFiles": [
-    "mind map/Self-study mindmap/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
-    "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
+    "mind map/Self-study mindmap/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
+    "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
     "kanbanTask.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/20250310220941.md",
