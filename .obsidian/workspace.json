@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It Didn't Start With You"
+              "title": "Chapter 2. Three Generations of Shared Family History"
             }
           },
           {
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for Chapter 2. Three Generations of Shared Family History"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from It Didn't Start With You"
+              "title": "Outgoing links from Chapter 2. Three Generations of Shared Family History"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of Chapter 2. Three Generations of Shared Family History"
             }
           },
           {
@@ -257,12 +257,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c11339178fc61378",
+  "active": "9ab126806687dbed",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
     "mind map/Self-study mindmap/It Didn't Start With You.md",
-    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
+    "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "kanbanTask.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/20250310220941.md",
