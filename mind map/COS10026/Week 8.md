@@ -195,7 +195,6 @@ if (isset($_GET['logout'])) {
 
 ### Server-Side Sessions
 
-
 - **Definition**: Storing session data on the server rather than on the client's browser
     
 - **How They Work**:
@@ -261,6 +260,86 @@ if (isset($_GET['logout'])) {
     - Implement proper session cleanup
 
 ### Local Storage
+# Maintaining Session Information Mind Map
+
+## Main Topic: Maintaining Session Information
+
+### Main Branches
+
+#### 1. Technology Stack Options
+   - [As previously detailed]
+
+#### 2. Cookies vs Session Storage
+   - [As previously detailed]
+
+#### 3. Server-Side Sessions
+   - [As previously detailed]
+
+#### 4. Local Storage
+##### - **Definition**: Client-side storage mechanism with persistent data storage
+##### - **Characteristics**:
+     - Part of the Web Storage API
+     - Stores data as key-value pairs
+     - Data persists across sessions and browser restarts
+     - Larger storage capacity (typically 5-10MB)
+     - Data is not automatically sent to the server
+   - **Implementation**:
+     - Accessed via JavaScript using the `localStorage` object
+     - Simple API for storing, retrieving, and removing data
+     - Example: `localStorage.setItem('key', 'value')`
+     - Data is stored as strings; complex data requires serialization
+   - **Advantages**:
+     - Persistent storage without server round-trips
+     - Larger storage capacity than cookies
+     - Simple API for client-side storage
+     - Data survives browser restarts
+     - Reduces server load for certain types of data
+   - **Limitations**:
+     - Data is stored as plain text
+     - No expiration mechanism (must be managed manually)
+     - Limited to same-origin policy
+     - No automatic data synchronization between tabs/windows
+   - **Security Considerations**:
+     - Vulnerable to XSS attacks if not properly secured
+     - Data is accessible across all tabs/windows for the same origin
+     - Should not be used for sensitive information
+     - Implement proper input validation and sanitization
+   - **Use Cases**:
+     - Storing user preferences and settings
+     - Caching frequently accessed data
+     - Offline web applications
+     - Form auto-fill and draft saving
+     - Personalizing user experience
+   - **Comparison to Cookies**:
+     - Larger storage capacity
+     - Data not sent with every request
+     - Persistent storage without expiration dates
+     - Not accessible server-side without explicit transmission
+   - **Comparison to Session Storage**:
+     - Data persists beyond session
+     - Shared across all tabs/windows for the same origin
+     - Larger storage capacity
+   - **Example Implementation**:
+     ```javascript
+     // Storing data
+     localStorage.setItem('username', 'john_doe');
+     localStorage.theme = 'dark'; // Alternative syntax
+     
+     // Retrieving data
+     const username = localStorage.getItem('username');
+     const theme = localStorage.theme;
+     
+     // Removing data
+     localStorage.removeItem('username');
+     
+     // Clearing all data
+     localStorage.clear();
+     ```
+
+#### 5. Databases
+   - [As previously detailed]
+
+#### 6. Example of Local Session Storage using JavaScript
    - [As previously detailed]
 
 ### Databases
