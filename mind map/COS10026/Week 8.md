@@ -125,6 +125,7 @@
  - Data is not automatically sent to the server
  - More secure than cookies for certain use cases
  - Example implementation in JavaScript
+ ##### Example
 ```
 sessionStorage.setItem("username", "John");  
 const username = sessionStorage.getItem("username");
@@ -141,15 +142,17 @@ const username = sessionStorage.getItem("username");
  - Session data is stored in memory or databases
  - Example: PHP sessions using `session_start()`
 
-   - **Databases**
-     - Persistent storage for session data
-     - Can be relational (e.g., MySQL) or NoSQL (e.g., MongoDB)
-     - Requires server-side implementation
-     - Suitable for complex data structures and long-term storage
-     - Often used in conjunction with server-side sessions
-     - Provides durability and data integrity
-     - Can be scaled for high-traffic applications
-     - Example: Storing session data in a MySQL database table
+#### **Databases**
+ - Persistent storage for session data
+ - Can be relational (e.g., MySQL) or NoSQL (e.g., MongoDB)
+ - Requires server-side implementation
+ - Suitable for complex data structures and long-term storage
+ - Often used in conjunction with server-side sessions
+ - Provides durability and data integrity
+ - Can be scaled for high-traffic applications
+
+ ##### Example
+ - Storing session data in a MySQL database table
 
 ### Cookies vs Session Storage
 
