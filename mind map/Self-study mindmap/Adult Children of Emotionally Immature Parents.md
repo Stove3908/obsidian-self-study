@@ -12,5 +12,7 @@ markmap:
 - [[Emotional Intimacy]]
 - [[Emotional Loneliness in Childhood]]
 - [[Coping Mechanisms]]
+- [[Repetition of Past Patterns]]
+- [[Feeling Guilty for Being Unhappy]]
 
 ```
