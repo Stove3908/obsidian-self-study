@@ -93,49 +93,53 @@
 ## Maintaining Session Information
 
 ### Technology Stack Options
-   - **Cookies**
-     - Small text files stored in the user's browser
-     - Sent with every HTTP request to the server
-     - Can be persistent (with expiration date) or session-based
-     - Limited to about 4KB per cookie
-     - Accessible via JavaScript and server-side code
-     - Commonly used for authentication tokens and user preferences
-     - Security considerations: Vulnerable to XSS and CSRF attacks if not properly secured
-     - Can be marked as HTTP-only to prevent JavaScript access
-     - Supports domain and path specifications
+#### **Cookies**
+ - Small text files stored in the user's browser
+ - Sent with every HTTP request to the server
+ - Can be persistent (with expiration date) or session-based
+ - Limited to about 4KB per cookie
+ - Accessible via JavaScript and server-side code
+ - Commonly used for authentication tokens and user preferences
+ - Security considerations: Vulnerable to XSS and CSRF attacks if not properly secured
+ - Can be marked as HTTP-only to prevent JavaScript access
+ - Supports domain and path specifications
 
-   - **Session Storage**
-     - Part of the Web Storage API
-     - Stores data only for the duration of a page session
-     - Isolated to a single tab/window
-     - Data is not automatically sent to the server
-     - Larger storage capacity than cookies (typically 5-10MB)
-     - Accessed via JavaScript
-     - Best for temporary data needed during a single session
-     - Automatically cleared when the tab/window is closed
-     - Simpler to use in client-side scripts
+#### **Session Storage**
+ - Part of the Web Storage API
+ - Stores data only for the duration of a page session
+ - Isolated to a single tab/window
+ - Data is not automatically sent to the server
+ - Larger storage capacity than cookies (typically 5-10MB)
+ - Accessed via JavaScript
+ - Best for temporary data needed during a single session
+ - Automatically cleared when the tab/window is closed
+ - Simpler to use in client-side scripts
 
-   - **Local Storage**
-     - Also part of the Web Storage API
-     - Stores data with no expiration date
-     - Data persists across sessions and browser restarts
-     - Larger storage capacity (typically 5-10MB)
-     - Accessed via JavaScript
-     - Suitable for storing user preferences, application state, etc.
-     - Data is not automatically sent to the server
-     - More secure than cookies for certain use cases
-     - Example implementation in JavaScript
+#### **Local Storage**
+ - Also part of the Web Storage API
+ - Stores data with no expiration date
+ - Data persists across sessions and browser restarts
+ - Larger storage capacity (typically 5-10MB)
+ - Accessed via JavaScript
+ - Suitable for storing user preferences, application state, etc.
+ - Data is not automatically sent to the server
+ - More secure than cookies for certain use cases
+ - Example implementation in JavaScript
+```
+sessionStorage.setItem("username", "John");  
+const username = sessionStorage.getItem("username");
+```
 
-   - **Server-side Sessions**
-     - Data stored on the server
-     - Associated with a unique session ID sent to the client
-     - Typically managed by server frameworks/libraries
-     - More secure for sensitive data
-     - Can be combined with cookies to store the session ID
-     - Requires server resources to maintain session data
-     - Commonly used for user authentication and personalized content
-     - Session data is stored in memory or databases
-     - Example: PHP sessions using `session_start()`
+#### **Server-side Sessions**
+ - Data stored on the server
+ - Associated with a unique session ID sent to the client
+ - Typically managed by server frameworks/libraries
+ - More secure for sensitive data
+ - Can be combined with cookies to store the session ID
+ - Requires server resources to maintain session data
+ - Commonly used for user authentication and personalized content
+ - Session data is stored in memory or databases
+ - Example: PHP sessions using `session_start()`
 
    - **Databases**
      - Persistent storage for session data
@@ -148,7 +152,15 @@
      - Example: Storing session data in a MySQL database table
 
 ### Cookies vs Session Storage
-   - [As previously detailed]
+
+| Aspect               | Cookies                                                                 | Session Storage                                                                 |
+|----------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **Scope of Data**    | Sent with every HTTP request to same domain; accessible client/server-side; can specify domain/path | Isolated to single tab/window; not sent with HTTP requests; restricted to same origin/tab |
+| **Storage Limitations** | ~4KB per cookie; total cookies per domain limited                      | ~5-10MB total; no per-item limitations                                          |
+| **Lifetime**         | Can persist beyond session with expiration date; session cookies last until browser closes | Data cleared when tab/window closes; only available during page session         |
+| **Use Cases**        | Authentication tokens, tracking, preferences across sessions/tabs       | Temporary data during single session; form data; short-term application state   |
+| **Access and Manipulation** | Accessed via JavaScript (document.cookie) and server-side HTTP headers; built-in security options | Accessed via JavaScript (sessionStorage object); simpler API; no server-side access |
+| **Security**         | Vulnerable to XSS/CSRF; can be marked HTTP-only; secure flag prevents HTTP transmission | More secure; data not sent to server; isolated to origin/tab; not vulnerable to CSRF |
 
 ### Server-Side Sessions
    - [As previously detailed]
