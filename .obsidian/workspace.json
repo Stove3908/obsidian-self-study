@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "38aa2e361051a19c",
+            "id": "e91b1a2975b70664",
             "type": "leaf",
             "state": {
               "type": "mindmap-nextgen-plugin",
@@ -242,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {

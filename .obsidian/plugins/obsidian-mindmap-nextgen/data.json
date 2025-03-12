@@ -16,7 +16,7 @@
     "spacingHorizontal": 80,
     "paddingX": 8,
     "initialExpandLevel": -1,
-    "colorFreezeLevel": 5,
+    "colorFreezeLevel": 0,
     "animationDuration": 500,
     "maxWidth": 500,
     "highlight": true,
