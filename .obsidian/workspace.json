@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,7 +256,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b5b109e129e37218",
+  "active": "e91b1a2975b70664",
   "lastOpenFiles": [
     "kanbanTask.md",
     "mind map/COS10026/Week 8.md",
