@@ -33,22 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It Didn't Start With You"
-            }
-          },
-          {
-            "id": "d6b758733856cba5",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Chapter 2. Three Generations of Shared Family History"
+              "title": "Chapter 3. The Family Mind"
             }
           }
         ],
@@ -126,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for Chapter 3. The Family Mind"
             }
           },
           {
@@ -145,12 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from It Didn't Start With You"
+              "title": "Outgoing links from Chapter 3. The Family Mind"
             }
           },
           {
@@ -174,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of Chapter 3. The Family Mind"
             }
           },
           {
@@ -259,11 +249,12 @@
   },
   "active": "c11339178fc61378",
   "lastOpenFiles": [
+    "mind map/Self-study mindmap/It Didn't Start With You.md",
+    "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
     "kanbanTask.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/20250310220941.md",
-    "mind map/Self-study mindmap/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "template/Template_Note.md",
     "mind map/Self-study mindmap/Beginning C++ Game Programming.md",
@@ -284,7 +275,6 @@
     "Notes/2025/2025-03/2.B. Assumptions vs. Hypotheses.md",
     "Notes/2025/2025-03/1.F. The Book's Structure.md",
     "Notes/2025/2025-03/1.E. Life is Negotiation.md",
-    "Notes/2025/2025-03/1.D. The FBI Gets Emotional.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",

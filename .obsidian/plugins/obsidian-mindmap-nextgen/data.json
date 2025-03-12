@@ -2,11 +2,7 @@
   "version": "2.0",
   "layout": [
     null,
-    null,
-    {
-      "type": "pinned",
-      "path": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md"
-    }
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",
