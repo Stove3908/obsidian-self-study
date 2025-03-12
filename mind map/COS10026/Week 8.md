@@ -194,7 +194,71 @@ if (isset($_GET['logout'])) {
 | **Security**         | Vulnerable to XSS/CSRF; can be marked HTTP-only; secure flag prevents HTTP transmission | More secure; data not sent to server; isolated to origin/tab; not vulnerable to CSRF |
 
 ### Server-Side Sessions
-   - [As previously detailed]
+
+
+- **Definition**: Storing session data on the server rather than on the client's browser
+    
+- **How They Work**:
+    
+    - Server generates a unique session ID for each user
+        
+    - Session ID is typically stored in a cookie, URL parameter, or form field
+        
+    - Server associates the session ID with session data stored in memory or a database
+        
+    - Each subsequent request from the client includes the session ID, allowing the server to retrieve the associated session data
+        
+- **Implementation**:
+    
+    - Most server-side frameworks provide built-in session management (e.g., PHP sessions, Express.js session middleware)
+        
+    - Requires configuring session storage (memory, file system, database)
+        
+    - Session data is typically serialized and stored
+        
+    - Example PHP implementation using `session_start()`
+        
+- **Advantages**:
+    
+    - More secure for sensitive data as it's never exposed to the client
+        
+    - Larger storage capacity compared to cookies
+        
+    - Better control over session expiration and security
+        
+    - Data is not transmitted with every request (only the session ID)
+        
+- **Considerations**:
+    
+    - Server resources required to maintain session data
+        
+    - Session management for scalability and fault tolerance
+        
+    - Session persistence across server restarts
+        
+    - Security measures to prevent session hijacking
+        
+- **Use Cases**:
+    
+    - User authentication and personalized content
+        
+    - Shopping cart implementation
+        
+    - Multi-step form processing
+        
+    - Storing temporary user-specific data
+        
+- **Security Best Practices**:
+    
+    - Use secure cookies to transmit session IDs
+        
+    - Implement session timeout
+        
+    - Regenerate session IDs after privilege changes (e.g., login)
+        
+    - Store minimal sensitive information
+        
+    - Implement proper session cleanup
 
 ### Local Storage
    - [As previously detailed]
