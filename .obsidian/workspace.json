@@ -40,9 +40,19 @@
               "icon": "lucide-file",
               "title": "Chapter 3. The Family Mind"
             }
+          },
+          {
+            "id": "4e030b5727361ad8",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Chapter 3. The Family Mind"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c11339178fc61378",
+  "active": "4e030b5727361ad8",
   "lastOpenFiles": [
     "mind map/Self-study mindmap/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
