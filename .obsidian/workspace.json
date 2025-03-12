@@ -18,6 +18,7 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false
                   ]
                 }
@@ -28,20 +29,6 @@
             }
           },
           {
-            "id": "c11339178fc61378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2. Three Generations of Shared Family History"
-            }
-          },
-          {
             "id": "9ab126806687dbed",
             "type": "leaf",
             "state": {
@@ -49,6 +36,20 @@
               "state": {},
               "icon": "dot-network",
               "title": "Mindmap"
+            }
+          },
+          {
+            "id": "b5b109e129e37218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mind map/COS10026/Week 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 8"
             }
           }
         ],
@@ -109,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+                "file": "mind map/COS10026/Week 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 2. Three Generations of Shared Family History"
+              "title": "Backlinks for Week 8"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+                "file": "mind map/COS10026/Week 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 2. Three Generations of Shared Family History"
+              "title": "Outgoing links from Week 8"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+                "file": "mind map/COS10026/Week 8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2. Three Generations of Shared Family History"
+              "title": "Outline of Week 8"
             }
           },
           {
@@ -257,13 +257,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ab126806687dbed",
+  "active": "b5b109e129e37218",
   "lastOpenFiles": [
+    "kanbanTask.md",
+    "mind map/COS10026/Week 8.md",
+    "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+    "mind map/COS10026",
     "mind map/Self-study mindmap/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
-    "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
-    "kanbanTask.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/20250310220941.md",
     "template/Template_Note.md",
@@ -284,7 +286,6 @@
     "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
     "Notes/2025/2025-03/2.B. Assumptions vs. Hypotheses.md",
     "Notes/2025/2025-03/1.F. The Book's Structure.md",
-    "Notes/2025/2025-03/1.E. Life is Negotiation.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
@@ -296,7 +297,6 @@
     "mind map/COS10025",
     "mind map",
     "CS/Beginning C++ Game.canvas",
-    "Excalidraw",
     "CS/Untitled 1.canvas"
   ]
 }
