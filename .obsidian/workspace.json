@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
+                "file": "Notes/2025/2025-03/20250310220941.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives"
+              "title": "20250310220941"
             }
           },
           {
@@ -96,9 +96,19 @@
               "icon": "dot-network",
               "title": "(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives"
             }
+          },
+          {
+            "id": "02ab4e0b471f894d",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
+              "title": "20250310220941"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -155,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -172,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
+                "file": "Notes/2025/2025-03/20250310220941.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives"
+              "title": "Backlinks for 20250310220941"
             }
           },
           {
@@ -191,12 +200,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
+                "file": "Notes/2025/2025-03/20250310220941.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives"
+              "title": "Outgoing links from 20250310220941"
             }
           },
           {
@@ -220,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
+                "file": "Notes/2025/2025-03/20250310220941.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives"
+              "title": "Outline of 20250310220941"
             }
           },
           {
@@ -283,13 +292,11 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,8 +310,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "816680db69d0c12c",
+  "active": "83485c302d023531",
   "lastOpenFiles": [
+    "mind map/Self-study mindmap/Beginning C++ Game Programming.md",
     "Notes/2025/2025-03/Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "mind map/Self-study mindmap/Adult Children of Emotionally Immature Parents.md",
@@ -330,7 +338,6 @@
     "Notes/2025/2025-03/1.A. The New Rules.md",
     "Notes/2025/2025-03/Chapter 2. Be a Mirrow.md",
     "Notes/2025/2025-03/Chapter 1.The New Rules.md",
-    "1.D. Initial Actions/Violence.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
