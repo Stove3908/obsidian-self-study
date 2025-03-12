@@ -116,6 +116,7 @@
  - Simpler to use in client-side scripts
 
 #### **Local Storage**
+##### Local Storage. Info
  - Also part of the Web Storage API
  - Stores data with no expiration date
  - Data persists across sessions and browser restarts
@@ -125,13 +126,15 @@
  - Data is not automatically sent to the server
  - More secure than cookies for certain use cases
  - Example implementation in JavaScript
- ##### Example
+ 
+##### Local Storage. Example
 ```
 sessionStorage.setItem("username", "John");  
 const username = sessionStorage.getItem("username");
 ```
 
 #### **Server-side Sessions**
+##### Server-side Sessions. Info
  - Data stored on the server
  - Associated with a unique session ID sent to the client
  - Typically managed by server frameworks/libraries
@@ -140,7 +143,32 @@ const username = sessionStorage.getItem("username");
  - Requires server resources to maintain session data
  - Commonly used for user authentication and personalized content
  - Session data is stored in memory or databases
- - Example: PHP sessions using `session_start()`
+##### Server-side Sessions. Example
+```js
+// Simulate a login (for demonstration purposes)
+if (isset($_GET['login'])) {
+	$userId = 123; // Replace with your user authentication logic
+	$_SESSION['user_id'] = $userId;
+	echo "You are now logged in as User ID: $userId";
+}
+
+// Simulate a logout (for demonstration purposes)
+if (isset($_GET['logout'])) {
+	session_unset(); // Unset all session variables
+	session destroy(); // Destroy the session
+	echo "You are now logged out.";
+}
+?>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Server-side Sessions Example</title>
+</head>
+<body>
+	<a href="login">Log In</a> | <a href="?logout">Log Out</a>
+</body>
+</html>
+```
 
 #### **Databases**
  - Persistent storage for session data
