@@ -1,4 +1,5 @@
 # Emotional Loneliness
+
 ```markmap
 ---
 markmap:
@@ -32,6 +33,7 @@ Sure! Here are the detailed points for the first branch, **Emotional Loneliness*
 
 ---
 # Emotional Intimacy
+
 ```markmap
 ---
 markmap:
