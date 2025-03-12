@@ -90,3 +90,15 @@
      - Validate and sanitize all incoming state information
      - Handle session expiration and cleanup appropriately
 
+<center></center>
+# HTTP Methods Table
+
+| <center>HTTP Method</center> | Purpose                                          | <center>Safe</center> | <center>Idempotent</center> | Examples                                                                               |
+| ---------------------------- | ------------------------------------------------ | --------------------- | --------------------------- | -------------------------------------------------------------------------------------- |
+| <center>GET</center>         | Retrieve data from the server                    | <center>Yes</center>  | <center>Yes</center>        | - Fetching a web page,<br>- Retrieving user information<br>- Querying data from an API |
+| <center>POST</center>        | Submit data to be processed by the server        | <center>No</center>   | <center>No</center>         | - Submitting a form<br>- Creating a new user account<br>- Adding data to a database    |
+| <center>PUT</center>         | Update or replace an existing resource           | <center>No</center>   | <center>Yes</center>        | - Updating a user's profile<br>- Replacing a file on a server                          |
+| <center>PATCH</center>       | Partially update an existing resource            | <center>No</center>   | <center>Yes</center>        | - Changing a password<br>- Updating specific fields of an entity                       |
+| <center>DELETE</center>      | Remove a resource from the server                | <center>No</center>   | <center>Yes</center>        | - Deleting a user account<br>- Removing a file from a server                           |
+| <center>OPTIONS</center>     | Retrieve information about communication options | <center>Yes</center>  | <center>Yes</center>        | - Checking CORS policies<br>- Determining allowed methods and headers                  |
+| <center>HEAD</center>        | Retrieve metadata about a resource               | <center>Yes</center>  | <center>Yes</center>        | - Checking if a resource has been modified without fetching content                    |
