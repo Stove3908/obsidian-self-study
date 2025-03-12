@@ -1,24 +1,33 @@
 {
   "version": "2.0",
   "layout": [
-    null,
-    null,
-    null,
-    null
+    [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      {
+        "type": "pinned",
+        "path": "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md"
+      }
+    ]
   ],
   "settings": {
-    "splitDirection": "vertical",
-    "nodeMinHeight": 16,
+    "splitDirection": "horizontal",
+    "nodeMinHeight": 32,
     "lineHeight": "1em",
-    "spacingVertical": 5,
+    "spacingVertical": 10,
     "spacingHorizontal": 80,
     "paddingX": 8,
     "initialExpandLevel": -1,
-    "colorFreezeLevel": 0,
+    "colorFreezeLevel": 5,
     "animationDuration": 500,
-    "maxWidth": 0,
+    "maxWidth": 1000,
     "highlight": true,
-    "coloring": "depth",
+    "coloring": "branch",
     "depth1Color": "#cb4b16",
     "depth1Thickness": "3",
     "depth2Color": "#fbff05",

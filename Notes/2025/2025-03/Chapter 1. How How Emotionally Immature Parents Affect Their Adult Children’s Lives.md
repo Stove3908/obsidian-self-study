@@ -7,7 +7,6 @@ markmap:
   coloring: branch
   initialExpandLevel: 3
 ---
-Sure! Here are the detailed points for the first branch, **Emotional Loneliness**:
 # Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives
 - **Emotional Loneliness**
     - **Definition and Causes**: 
@@ -157,14 +156,13 @@ Sure! Here are the detailed points for the first branch, **Emotional Loneliness*
 	    - The painful feeling of aloneness is not just a result of individual history but also comes from human genetic memory. 
 	    - Just like our distant ancestors, we have a strong need for emotional closeness. 
 	    - Our need for attention and connection is as old as the human race, and we have prehistoric reasons for not liking to be lonely.
-
-```
-
 - **Summary**
     - **Recap of Key Points**: 
 	    - A lack of emotional intimacy creates emotional loneliness in both children and adults. 
 	    - Attentive and reliable emotional relationships are the basis of a child's sense of security. 
 	    - Unfortunately, emotionally immature parents are usually too uncomfortable with closeness to give their children the deep emotional connection they need. 
-	    - Parental neglect and rejection in childhood can adversely affect self-confidence and relationships in adulthood, as people repeat old, frustrating patterns and then blame themselves for not being happy. Even adult success doesn't completely erase the effects of parental disconnection earlier in life. Understanding how your parent's emotional immaturity has affected you is the best way to avoid repeating the past in your adult relationships.
+	    - Parental neglect and rejection in childhood can adversely affect self-confidence and relationships in adulthood, as people repeat old, frustrating patterns and then blame themselves for not being happy. 
+	    - Even adult success doesn't completely erase the effects of parental disconnection earlier in life. 
+	    - Understanding how your parent's emotional immaturity has affected you is the best way to avoid repeating the past in your adult relationships.
+```
 
-Would you like to proceed with creating the mind map now?

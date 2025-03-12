@@ -1,0 +1,5 @@
+---
+markmap:
+  maxWidth: 800
+---
+
