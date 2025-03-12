@@ -7,12 +7,6 @@ markmap:
   initialExpandLevel: 2
 ---
 # Adult Children of Emotionally Immature Parents
-## Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives
-- [[Emotional Loneliness]]
-- [[Emotional Intimacy]]
-- [[Emotional Loneliness in Childhood]]
-- [[Coping Mechanisms]]
-- [[Repetition of Past Patterns]]
-- [[Feeling Guilty for Being Unhappy]]
+
 
 ```
