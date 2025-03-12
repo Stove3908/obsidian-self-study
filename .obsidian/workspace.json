@@ -84,9 +84,19 @@
               "icon": "lucide-file",
               "title": "It Didn't Start With You"
             }
+          },
+          {
+            "id": "b228d4bdd806d35b",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Chapter 1. Traumas Lost and Found"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -270,11 +281,13 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,11 +301,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c11339178fc61378",
+  "active": "b228d4bdd806d35b",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
+    "mind map/Self-study mindmap/It Didn't Start With You.md",
     "kanbanTask.md",
     "template/Template_Note.md",
-    "mind map/Self-study mindmap/It Didn't Start With You.md",
     "Notes/2025/2025-03/20250310220941.md",
     "mind map/Self-study mindmap/Beginning C++ Game Programming.md",
     "Notes/2025/2025-03/Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
@@ -315,7 +329,6 @@
     "Notes/2025/2025-03/1.E. Life is Negotiation.md",
     "Notes/2025/2025-03/1.D. The FBI Gets Emotional.md",
     "Notes/2025/2025-03/1.C. Heart vs. Mind.md",
-    "Notes/2025/2025-03/1.B. Old-School Negotiation.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
