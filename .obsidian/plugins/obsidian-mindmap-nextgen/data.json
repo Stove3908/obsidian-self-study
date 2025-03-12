@@ -2,10 +2,11 @@
   "version": "2.0",
   "layout": [
     null,
+    null,
     {
-      "type": "unpinned"
-    },
-    null
+      "type": "pinned",
+      "path": "mind map/COS10026/Week 8.md"
+    }
   ],
   "settings": {
     "splitDirection": "horizontal",

@@ -29,16 +29,6 @@
             }
           },
           {
-            "id": "9ab126806687dbed",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mindmap"
-            }
-          },
-          {
             "id": "b5b109e129e37218",
             "type": "leaf",
             "state": {
@@ -49,6 +39,16 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Week 8"
+            }
+          },
+          {
+            "id": "38aa2e361051a19c",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
               "title": "Week 8"
             }
           }
@@ -257,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ab126806687dbed",
+  "active": "b5b109e129e37218",
   "lastOpenFiles": [
     "kanbanTask.md",
     "mind map/COS10026/Week 8.md",
