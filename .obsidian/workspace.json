@@ -77,26 +77,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It Didn't Start With You"
-            }
-          },
-          {
-            "id": "b228d4bdd806d35b",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Chapter 1. Traumas Lost and Found"
+              "title": "Chapter 2. Three Generations of Shared Family History"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for Chapter 2. Three Generations of Shared Family History"
             }
           },
           {
@@ -189,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from It Didn't Start With You"
+              "title": "Outgoing links from Chapter 2. Three Generations of Shared Family History"
             }
           },
           {
@@ -218,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mind map/Self-study mindmap/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of Chapter 2. Three Generations of Shared Family History"
             }
           },
           {
@@ -301,10 +291,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b228d4bdd806d35b",
+  "active": "c11339178fc61378",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "mind map/Self-study mindmap/It Didn't Start With You.md",
+    "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
+    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "kanbanTask.md",
     "template/Template_Note.md",
     "Notes/2025/2025-03/20250310220941.md",
@@ -328,7 +319,6 @@
     "Notes/2025/2025-03/1.F. The Book's Structure.md",
     "Notes/2025/2025-03/1.E. Life is Negotiation.md",
     "Notes/2025/2025-03/1.D. The FBI Gets Emotional.md",
-    "Notes/2025/2025-03/1.C. Heart vs. Mind.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
