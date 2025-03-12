@@ -44,37 +44,37 @@
             }
           },
           {
-            "id": "5dd67e3dea111490",
+            "id": "e1186ff16c61cc09",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/2.A. The Bank Robbery Incident (Context).md",
+                "file": "mind map/Self-study mindmap/Adult Children of Emotionally Immature Parents.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2.A. The Bank Robbery Incident (Context)"
+              "title": "Adult Children of Emotionally Immature Parents"
             }
           },
           {
-            "id": "48c6126194165eaa",
+            "id": "8cbf086f9e25f686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
+                "file": "Notes/2025/2025-03/Coping Mechanisms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.D. Active Listening, The Solution"
+              "title": "Coping Mechanisms"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,20 +277,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a832bf1d53ced37c",
+  "active": "8cbf086f9e25f686",
   "lastOpenFiles": [
+    "mind map/Self-study mindmap/Adult Children of Emotionally Immature Parents.md",
+    "Notes/2025/2025-03/Coping Mechanisms.md",
+    "Notes/2025/2025-03/Emotional Loneliness in Childhood.md",
+    "Notes/2025/2025-03/Emotional Intimacy.md",
+    "Notes/2025/2025-03/Emotional Loneliness.md",
+    "template/Template_Note.md",
+    "Notes/2025/2025-03/2.A. The Bank Robbery Incident (Context).md",
     "mind map/Self-study mindmap/Never_Split_The_Difference.md",
     "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
     "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
     "Notes/2025/2025-03/2.B. Assumptions vs. Hypotheses.md",
-    "Notes/2025/2025-03/2.A. The Bank Robbery Incident (Context).md",
     "Notes/2025/2025-03/1.F. The Book's Structure.md",
     "Notes/2025/2025-03/1.E. Life is Negotiation.md",
     "Notes/2025/2025-03/1.D. The FBI Gets Emotional.md",
     "Notes/2025/2025-03/1.C. Heart vs. Mind.md",
     "Notes/2025/2025-03/1.B. Old-School Negotiation.md",
     "Notes/2025/2025-03/1.A. The New Rules.md",
-    "template/Template_Note.md",
     "Notes/2025/2025-03/Chapter 2. Be a Mirrow.md",
     "Notes/2025/2025-03/Chapter 1.The New Rules.md",
     "1.D. Initial Actions/Violence.md",
@@ -300,11 +305,6 @@
     "kanbanTask.md",
     "Chapter 2.md",
     "Untitled 1.md",
-    "constants.md",
-    "Notes/2025/Note_Viewer.md",
-    "Notes/2025/2025-03/20250310212606.md",
-    "excalibrain.md",
-    "Notes/2025/2025-03/20250308160314.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
