@@ -4,7 +4,7 @@
 - [[1.B. Harvard Negotiation Experience]]
 - [[1.C. Evolution of Negotiation Techniques]]
 - [[1.D. Key Negotiation Concepts]]
-- [[1.E. Life is Negotiation]]
+- [[1.E. lication Beyond Hostage Situations]]
 - [[1.F. The Book's Structure]]
 ## Chapter 2. Be a Mirrow
 - [[2.A. The Bank Robbery Incident (Context)]]
