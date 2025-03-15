@@ -3,7 +3,7 @@
 - [[1.A. Introduction to the Author's Experience]]
 - [[1.B. Harvard Negotiation Experience]]
 - [[1.C. Evolution of Negotiation Techniques]]
-- [[1.D. The FBI Gets Emotional]]
+- [[1.D. Key Negotiation Concepts]]
 - [[1.E. Life is Negotiation]]
 - [[1.F. The Book's Structure]]
 ## Chapter 2. Be a Mirrow

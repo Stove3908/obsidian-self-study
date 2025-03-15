@@ -29,31 +29,33 @@
             }
           },
           {
-            "id": "b5b109e129e37218",
+            "id": "2980135fe0d49fec",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mind map/COS10026/Week 8.md",
+                "file": "mind map/Self-study mindmap/Never_Split_The_Difference.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Week 8"
+              "title": "Never_Split_The_Difference"
             }
           },
           {
-            "id": "2980135fe0d49fec",
+            "id": "4df5c7ed71e81efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
+                "file": "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.C. Evolution of Negotiation Techniques"
+              "title": "1.D. Key Negotiation Concepts"
             }
           },
           {
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mind map/COS10026/Week 8.md",
+                "file": "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 8"
+              "title": "Backlinks for 1.D. Key Negotiation Concepts"
             }
           },
           {
@@ -188,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
+                "file": "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.C. Evolution of Negotiation Techniques"
+              "title": "Outline of 1.D. Key Negotiation Concepts"
             }
           },
           {
@@ -251,12 +253,12 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,16 +269,19 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2980135fe0d49fec",
+  "active": "4df5c7ed71e81efa",
   "lastOpenFiles": [
-    "mind map/Self-study mindmap/Never_Split_The_Difference.md",
-    "Notes/2025/2025-03/1.B. Harvard Negotiation Experience.md",
-    "Notes/2025/2025-03/1.A. Introduction to the Author's Experience.md",
-    "mind map/COS10026/Week 8.md",
     "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
+    "Notes/2025/2025-03/1.B. Harvard Negotiation Experience.md",
+    "mind map/Self-study mindmap/Never_Split_The_Difference.md",
+    "Notes/2025/2025-03/1.A. Introduction to the Author's Experience.md",
+    "template/Chapter_Note..md",
+    "mind map/COS10026/Week 8.md",
+    "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
     "Notes/2025/2025-03/Untitled.md",
     "kanbanTask.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
@@ -286,7 +291,6 @@
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/20250310220941.md",
-    "template/Template_Note.md",
     "mind map/Self-study mindmap/Beginning C++ Game Programming.md",
     "Notes/2025/2025-03/Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "mind map/Self-study mindmap/Adult Children of Emotionally Immature Parents.md",
@@ -298,7 +302,6 @@
     "Notes/2025/2025-03/Repetition of Past Patterns.md",
     "Notes/2025/2025-03/Emotional Loneliness in Childhood.md",
     "Notes/2025/2025-03/Emotional Intimacy.md",
-    "Notes/2025/2025-03/2.A. The Bank Robbery Incident (Context).md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
