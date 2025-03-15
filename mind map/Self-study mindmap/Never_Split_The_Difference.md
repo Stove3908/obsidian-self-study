@@ -1,8 +1,8 @@
 # Never Split The Difference
 ## Chapter 1.The New Rules
 - [[1.A. Introduction to the Author's Experience]]
-- [[1.B. Old-School Negotiation]]
-- [[1.C. Heart vs. Mind]]
+- [[1.B. Harvard Negotiation Experience]]
+- [[1.C. Evolution of Negotiation Techniques]]
 - [[1.D. The FBI Gets Emotional]]
 - [[1.E. Life is Negotiation]]
 - [[1.F. The Book's Structure]]
