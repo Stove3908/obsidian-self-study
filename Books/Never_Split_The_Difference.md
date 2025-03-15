@@ -7,8 +7,8 @@
 - [[1.E. Application Beyond Hostage Situations]]
 - [[1.F. Critique of Traditional Methods]]
 ## Chapter 2. Be a Mirrow
-- [[2.A. The Bank Robbery Incident]]
-- [[2.B. Negotiation Principles]]
+- [[2.A. Core Concepts]]
+- [[2.B. Key Techniques]]
 - [[2.C. The Problem with Traditional Negotiation (and Thinking)]]
 - [[2.D. Active Listening, The Solution]]
 
