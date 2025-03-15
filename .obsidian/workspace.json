@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mind map/Self-study mindmap/Never_Split_The_Difference.md",
+                "file": "Books/Never_Split_The_Difference.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
+                "file": "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.C. Evolution of Negotiation Techniques"
+              "title": "1.D. Key Negotiation Concepts"
             }
           },
           {
@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
+                "file": "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.C. Evolution of Negotiation Techniques"
+              "title": "Backlinks for 1.D. Key Negotiation Concepts"
             }
           },
           {
@@ -190,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
+                "file": "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.C. Evolution of Negotiation Techniques"
+              "title": "Outline of 1.D. Key Negotiation Concepts"
             }
           },
           {
@@ -273,35 +274,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4df5c7ed71e81efa",
+  "active": "17ba5e96d2ab824a",
   "lastOpenFiles": [
+    "Books/Never_Split_The_Difference.md",
+    "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
+    "Chapter 2.md",
+    "Books/Adult Children of Emotionally Immature Parents.md",
+    "Books",
+    "Classes",
+    "Notes/2025/2025-03/1.E. Application Beyond Hostage Situations.md",
+    "Notes/2025/2025-03/1.F. Critique of Traditional Methods.md",
+    "Notes/2025/2025-03/1.G. Foundation for the Book.md",
+    "kanbanTask.md",
+    "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
     "Notes/2025/2025-03/1.B. Harvard Negotiation Experience.md",
     "Notes/2025/2025-03/1.A. Introduction to the Author's Experience.md",
     "Untitled 1.md",
-    "Chapter 2.md",
     "template/Chapter_Note..md",
-    "Notes/2025/2025-03/1.D. Key Negotiation Concepts.md",
-    "Notes/2025/2025-03/1.E. lication Beyond Hostage Situations.md",
-    "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
-    "mind map/Self-study mindmap/Never_Split_The_Difference.md",
-    "mind map/COS10026/Week 8.md",
+    "Classes/COS10026/Week 8.md",
     "Notes/2025/2025-03/Untitled.md",
-    "kanbanTask.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
-    "mind map/COS10026",
-    "mind map/Self-study mindmap/It Didn't Start With You.md",
+    "Classes/COS10026",
+    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
     "Notes/2025/2025-03/20250310220941.md",
-    "mind map/Self-study mindmap/Beginning C++ Game Programming.md",
+    "Books/Beginning C++ Game Programming.md",
     "Notes/2025/2025-03/Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
-    "mind map/Self-study mindmap/Adult Children of Emotionally Immature Parents.md",
     "Notes/2025/2025-03/20250312093554.md",
     "Notes/2025/2025-03/20250312093550.md",
-    "Notes/2025/2025-03/Coping Mechanisms.md",
-    "Notes/2025/2025-03/Gender and Emotional Loneliness.md",
-    "Notes/2025/2025-03/Feeling Guilty for Being Unhappy.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
@@ -310,8 +312,6 @@
     "Calendar",
     "archive",
     "mind map/Self-study mindmap",
-    "mind map/COS10025",
-    "mind map",
     "CS/Beginning C++ Game.canvas",
     "CS/Untitled 1.canvas"
   ]

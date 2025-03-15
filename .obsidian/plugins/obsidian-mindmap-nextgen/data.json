@@ -15,7 +15,7 @@
     "spacingVertical": 10,
     "spacingHorizontal": 80,
     "paddingX": 8,
-    "initialExpandLevel": 3,
+    "initialExpandLevel": 4,
     "colorFreezeLevel": 0,
     "animationDuration": 500,
     "maxWidth": 500,

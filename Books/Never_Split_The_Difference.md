@@ -4,8 +4,8 @@
 - [[1.B. Harvard Negotiation Experience]]
 - [[1.C. Evolution of Negotiation Techniques]]
 - [[1.D. Key Negotiation Concepts]]
-- [[1.E. lication Beyond Hostage Situations]]
-- [[1.F. The Book's Structure]]
+- [[1.E. Application Beyond Hostage Situations]]
+- [[1.F. Critique of Traditional Methods]]
 ## Chapter 2. Be a Mirrow
 - [[2.A. The Bank Robbery Incident (Context)]]
 - [[2.B. Assumptions vs. Hypotheses]]
