@@ -66,12 +66,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
+                "file": "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.C. The Problem with Traditional Negotiation (and Thinking)"
+              "title": "2.D. Active Listening, The Solution"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
+                "file": "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2.C. The Problem with Traditional Negotiation (and Thinking)"
+              "title": "Backlinks for 2.D. Active Listening, The Solution"
             }
           },
           {
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
+                "file": "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2.C. The Problem with Traditional Negotiation (and Thinking)"
+              "title": "Outline of 2.D. Active Listening, The Solution"
             }
           },
           {
@@ -292,6 +292,8 @@
   },
   "active": "17ba5e96d2ab824a",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/2.E..md",
+    "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
     "template/Chapter_Note..md",
     "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
     "Notes/2025/2025-03/2.B. Key Techniques.md",
@@ -319,8 +321,6 @@
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "Notes/2025/2025-03/(alt) Chapter 1. How How Emotionally Immature Parents Affect Their Adult Children’s Lives.md",
-    "Notes/2025/2025-03/20250310220941.md",
-    "Books/Beginning C++ Game Programming.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
