@@ -7,7 +7,7 @@
 - [[1.E. Application Beyond Hostage Situations]]
 - [[1.F. Critique of Traditional Methods]]
 ## Chapter 2. Be a Mirrow
-- [[2.A. The Bank Robbery Incident (Context)]]
+- [[2.A. The Bank Robbery Incident]]
 - [[2.B. Assumptions vs. Hypotheses]]
 - [[2.C. The Problem with Traditional Negotiation (and Thinking)]]
 - [[2.D. Active Listening, The Solution]]
