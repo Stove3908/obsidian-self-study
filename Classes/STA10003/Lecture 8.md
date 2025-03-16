@@ -14,10 +14,10 @@
 
 #### **Research Designs**
 
-1. **Repeated Measures**:
+- **Repeated Measures**:
     - Same participants measured twice (e.g., before/after intervention).
     - Example: Police officers’ license plate recall before vs. after training.
-2. **Matched Pairs**:
+- **Matched Pairs**:
     - Different participants matched on key variables (e.g., age, IQ).
     - Example: Twins assigned to different treatment groups.
 
@@ -31,36 +31,37 @@
 - **Alternative Hypothesis ($H_1$​)**:
     - Non-directional: $μ_D\neq0$ (two-tailed test).
     - Directional: $\mu_D>0$ or $\mu_D<0$ (one-tailed test).
-    - Example: _"Memory training increases license plate recall (μD>0\mu_D > 0μD​>0)."_
+    - Example: _"Memory training increases license plate recall ($\mu_D>0$)."_
 
 ---
 
 #### **Assumptions**
 
-1. **Independence**:
+- **Independence**:
     - Observations in each condition are independent (no carryover effects).
-2. **Normality**:
-    - Difference scores (DDD) are approximately normally distributed.
+- **Normality**:
+    - Difference scores ($D$) are approximately normally distributed.
     - Check via histogram, Q-Q plot, or Shapiro-Wilk test (SPSS).
-    - Robust for large samples (>30) despite skew.
+    - Robust for large samples ($>30$) despite skew.
 
 ---
 
 #### **Calculation Steps**
 
-1. **Compute Difference Scores**:
-    - D=XAfter−XBeforeD = X_{\text{After}} - X_{\text{Before}}D=XAfter​−XBefore​.
-2. **Mean Difference (MDM_DMD​)**:
-    - MD=∑DnM_D = \frac{\sum D}{n}MD​=n∑D​.
-3. **Variance (sD2s_D^2sD2​) & Standard Deviation (sDs_DsD​)**:
-    - sD2=∑(D−MD)2n−1s_D^2 = \frac{\sum (D - M_D)^2}{n-1}sD2​=n−1∑(D−MD​)2​, sD=sD2s_D = \sqrt{s_D^2}sD​=sD2​​.
-4. **Standard Error (SESESE)**:
+- **Compute Difference Scores**:
+    - $$D = X_{\text{After}} - X_{\text{Before}}$$
+- **Mean Difference ($M_D$​)**:
+    - $$M_D = \frac{\sum D}{n}$$
+- **Variance ($s_D^2$​) & Standard Deviation ($s_D$​)**:
+    - $$s_D^2 = \frac{\sum (D - MD)^2}{n - 1}$$
+    - $$s_D = \sqrt{s_D^2}$$
+- **Standard Error ($S_E$)**:
     - SE=sDnSE = \frac{s_D}{\sqrt{n}}SE=n​sD​​.
-5. **t-Statistic**:
+- **t-Statistic**:
     - t=MD−0SEt = \frac{M_D - 0}{SE}t=SEMD​−0​.
-6. **Degrees of Freedom**:
+- **Degrees of Freedom**:
     - df=n−1df = n - 1df=n−1.
-7. **Critical Value**:
+- **Critical Value**:
     - Use t-table (e.g., tcrit=2.145t_{crit} = 2.145tcrit​=2.145 for df=14df=14df=14, α=.05\alpha=.05α=.05).
 
 ---

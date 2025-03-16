@@ -59,8 +59,9 @@
             }
           },
           {
-            "id": "129d927c5b7c950f",
+            "id": "0e3ed60dd1c0da4f",
             "type": "leaf",
+            "dimension": 20,
             "state": {
               "type": "mindmap-nextgen-plugin",
               "state": {},
@@ -140,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -289,7 +289,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3de1431b457cf01",
+  "active": "a832bf1d53ced37c",
   "lastOpenFiles": [
     "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
     "Classes/STA10003/Lecture 8.md",
