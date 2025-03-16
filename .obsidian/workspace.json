@@ -67,14 +67,7 @@
               "icon": "dot-network",
               "title": "Mindmap"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "cc7a17bd63bafde0",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "383ad6e036fe3231",
             "type": "leaf",
@@ -83,16 +76,17 @@
               "state": {
                 "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 1653.199951171875,
-                  "y": -47.79998779296875,
-                  "zoom": 0
+                  "x": 1541.8747146568985,
+                  "y": 1237.4668753966666,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Week 8"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
+                "file": "Classes/STA10003/Lecture 8.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 8"
+              "title": "Outline of Lecture 8"
             }
           },
           {
@@ -300,10 +294,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "383ad6e036fe3231",
+  "active": "b3de1431b457cf01",
   "lastOpenFiles": [
-    "Classes/STA10003/Lecture 8.md",
     "Classes/STA10003/Week 8.canvas",
+    "Classes/STA10003/Lecture 8.md",
     "Books/Never_Split_The_Difference.md",
     "template/Chapter_Note..md",
     "Excalidraw/Drawing 2025-03-16 09.44.17.excalidraw.md",

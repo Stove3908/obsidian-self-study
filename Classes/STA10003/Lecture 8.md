@@ -49,9 +49,9 @@
 #### **Calculation Steps**
 
 - **Compute Difference Scores**:
-    - $$D = X_{\text{After}} - X_{\text{Before}}$$
+    - $$    D = X_{\text{After}} - X_{\text{Before}}$$
 - **Mean Difference ($M_D$​)**:
-    - $$M_D = \frac{\sum D}{n}$$
+    - $$    M_D = \frac{\sum D}{n}$$
 - **Variance ($s_D^2$​) & Standard Deviation ($s_D$​)**:
     - $$s_D^2 = \frac{\sum (D - MD)^2}{n - 1}$$
     - $$s_D = \sqrt{s_D^2}$$
