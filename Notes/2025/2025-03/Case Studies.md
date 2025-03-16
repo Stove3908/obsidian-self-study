@@ -1,0 +1,46 @@
+
+
+
+- **Jesse’s Insomnia & Uncle’s Death**
+	
+	- _Presenting Problem_:
+		- Sudden onset insomnia at age 19, lasting 1+ year.
+		- Symptoms: Waking at 3:30 a.m. with intense shivering, irrational fear that sleep = death.
+		- Impact: Dropped out of college, lost baseball scholarship, severe depression.
+	- _Family Trauma_:
+		- Uncle Colin froze to death at 19 while working in a blizzard (hypothermia).
+		- Family never spoke of Colin’s death—trauma "buried" but not resolved.
+	- _Psychological Mechanisms_:
+		- **Age Resonance**: Symptoms emerged at the same age Colin died.
+		- **Somatic Fragments**: Jesse’s freezing sensations mirrored Colin’s hypothermia.
+		- **Repetition Compulsion**: Unconscious reenactment of Colin’s struggle to "stay awake" (survive).
+	- _Therapeutic Breakthrough_:
+		- Linking symptoms to Colin’s death allowed Jesse to "return" the trauma to its origin.
+		- Tools: Contextualizing fear as inherited vs. personal, somatic grounding techniques.
+	- _Outcome_: Sleep restored, reconnected to family history, regained purpose.
+- **Gretchen’s Suicidal Urges & Holocaust Legacy**
+	
+	- _Presenting Problem_:
+		- Lifelong depression, anxiety, and hospitalizations.
+		- Suicidal ideation: Plan to "vaporize" herself in molten steel (age 39).
+		- Self-harm history: Burned herself as a teen to "feel alive."
+	- _Family Trauma_:
+		- Paternal grandmother survived Auschwitz but lost her entire family (gassed/incinerated).
+		- Family silenced grandmother’s trauma; she converted to Catholicism post-war.
+	- _Psychological Mechanisms_:
+		- **Language as Clue**: "Vaporize" echoed grandmother’s unprocessed grief (incineration trauma).
+		- **Intergenerational Guilt**: Gretchen carried grandmother’s survivor guilt ("Why did I live?").
+		- **Unconscious Reenactment**: Suicidal urges mirrored family’s annihilation in Auschwitz.
+	- _Therapeutic Breakthrough_:
+		- **Footprints Exercise**: Embodying grandmother’s trauma (e.g., isolation, grief) to release "stuck" emotions.
+		- Recognizing symptoms as inherited, not intrinsic.
+	- _Outcome_: Suicidal urges diminished, redefined identity separate from ancestral trauma.
+- **Cross-Case Themes**
+	
+	- **Hidden Loyalty**: Both clients unconsciously "honored" ancestors by carrying their pain.
+	- **Fragmented Memory**:
+		- Jesse: Body sensations (cold) as implicit memory of Colin’s death.
+		- Gretchen: "Vaporize" as verbal fragment of grandmother’s trauma.
+	- **Healing Pathway**:
+		- Making the unconscious conscious (Jung).
+		- Reassociating somatic/emotional fragments with their source (Freud).
