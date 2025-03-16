@@ -117,16 +117,16 @@
             }
           },
           {
-            "id": "222e2c3922ea0a91",
+            "id": "93ca86211aeb9777",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "viewState": {
-                  "x": 1380.5940205380698,
-                  "y": -131.26446196468405,
-                  "zoom": -0.3774823313988324
+                  "x": 1191.1149394450217,
+                  "y": 423.62477180407774,
+                  "zoom": -0.06284672907782596
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -341,7 +341,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "222e2c3922ea0a91",
+  "active": "93ca86211aeb9777",
   "lastOpenFiles": [
     "Notes/2025/2025-03/Untitled 2.md",
     "Notes/2025/2025-03/Untitled 2.canvas",

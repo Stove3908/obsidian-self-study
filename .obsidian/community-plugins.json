@@ -22,10 +22,11 @@
   "obsidian-excalidraw-plugin",
   "search-in-canvas",
   "obsidian42-brat",
-  "obsidian-note-to-canvas",
   "obsidian-regex-replace",
   "note-canvas",
   "obsidian-hide-sidebars-when-narrow",
   "node-auto-resize",
-  "advanced-canvas"
+  "advanced-canvas",
+  "optimize-canvas-connections",
+  "canvas-mindmap-helper"
 ]
