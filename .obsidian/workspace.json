@@ -36,8 +36,8 @@
               "state": {
                 "file": "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
                 "viewState": {
-                  "x": 403.20001220703125,
-                  "y": 15.200027465820312,
+                  "x": 515.1999816894531,
+                  "y": -12.800003051757812,
                   "zoom": 0
                 }
               },
@@ -55,34 +55,6 @@
               "pinned": true,
               "icon": "dot-network",
               "title": "Mindmap"
-            }
-          },
-          {
-            "id": "ced607c43463f4ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/Theoretical Foundations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theoretical Foundations"
-            }
-          },
-          {
-            "id": "07788eb9e2ef3e15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/Theoretical Foundations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Theoretical Foundations"
             }
           },
           {
@@ -106,14 +78,17 @@
             "id": "dc4da80eff5e3ba6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Pair-sample t-tets.canvas",
+                "viewState": {
+                  "x": 1866.823643425884,
+                  "y": 2629.583003562997,
+                  "zoom": -0.96114452104423
+                }
               },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
+              "icon": "lucide-layout-dashboard",
+              "title": "Pair-sample t-tets"
             }
           },
           {
@@ -124,9 +99,9 @@
               "state": {
                 "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "viewState": {
-                  "x": 994.1288954993026,
-                  "y": 16.4585543155423,
-                  "zoom": -0.6666666666666667
+                  "x": 1423.5100508230576,
+                  "y": 161.6013977438492,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -134,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -208,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.canvas",
+                "file": "Notes/Pair-sample t-tets.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for Pair-sample t-tets"
             }
           },
           {
@@ -227,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mind map/COS10026/Week 8.md",
+                "file": "Notes/Pair-sample t-tets.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Week 8"
+              "title": "Outgoing links from Pair-sample t-tets"
             }
           },
           {
@@ -256,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.canvas",
+                "file": "Notes/Pair-sample t-tets.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of Pair-sample t-tets"
             }
           },
           {
@@ -319,13 +293,11 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,15 +315,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "93ca86211aeb9777",
+  "active": "dc4da80eff5e3ba6",
   "lastOpenFiles": [
+    "Classes/STA10003/Week 8.canvas",
+    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 2.md",
+    "Notes/2025/2025-03/Theoretical Foundations.md",
     "Notes/2025/2025-03/Untitled 2.canvas",
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
     "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
-    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
-    "Classes/STA10003/Week 8.canvas",
-    "Notes/2025/2025-03/Theoretical Foundations.md",
     "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",

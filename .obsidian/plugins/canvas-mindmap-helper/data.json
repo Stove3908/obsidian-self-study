@@ -1,4 +1,6 @@
 {
   "autoLayoutDefault": false,
-  "autoLayoutEnabledFor": {}
+  "autoLayoutEnabledFor": {
+    "Notes/Pair-sample t-tets.canvas": true
+  }
 }
