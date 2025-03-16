@@ -62,8 +62,8 @@
               "state": {
                 "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 353.19721566026726,
-                  "y": 54.666403647609485,
+                  "x": 491.2845704186931,
+                  "y": 65.75361660731062,
                   "zoom": -0.3333333333333334
                 }
               },
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/Chapter_Note..md",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter_Note."
+              "title": "Backlinks for Week 8"
             }
           },
           {
@@ -256,8 +256,7 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
