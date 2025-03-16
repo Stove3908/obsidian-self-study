@@ -501,17 +501,6 @@
   "nodes": [
     {
       "height": 60,
-      "id": "1",
-      "styleAttributes": {
-      },
-      "text": "Untitled 2",
-      "type": "text",
-      "width": 800,
-      "x": 1000,
-      "y": 0
-    },
-    {
-      "height": 60,
       "id": "2",
       "styleAttributes": {
       },

@@ -1,132 +1,137 @@
-# SPSS Output & Report Writing
+# Assignment Part 2
 
-## SPSS Workflow
+## Requirements
 
-### Compute Difference Scores
+### Random Sampling in SPSS
 
-#### Steps
-`Transform > Compute Variable`.
+#### Use `Data > Select Cases > Random Sample` to generate a subsample.
 
-Create a new variable (e.g., `DIFF = PostTest - PreTest`).
+#### Ensure sample size aligns with assignment instructions (e.g., 15% of total data).
 
-#### Purpose
-Directly analyze the paired differences.
+### Four Questions
 
-### Run Paired t-Test
+#### Q1: One-Sample t-Test (Week 6)
 
-#### Steps
-`Analyze > Compare Means > Paired-Samples T Test`.
+##### Compare a sample mean to a known population mean (e.g., _"Is average weekly takeaway spend different from $30?"_).
 
-Select paired variables (e.g., `Before_Training` and `After_Training`).
+##### SPSS Steps: `Analyze > Compare Means > One-Sample T Test`.
 
-#### Output Includes
-Paired Samples Statistics: Means, SDs, and SE for both conditions.
+#### Q2: Independent Samples t-Test (Week 7)
 
-Paired Samples Correlations: Relationship between paired scores (optional).
+##### Compare two unrelated groups (e.g., _"Do males and females differ in weekly takeaway spend?"_).
 
-Paired Samples Test: Mean difference, t-value, p-value, 95% CI.
+##### SPSS Steps: `Analyze > Compare Means > Independent Samples T Test`.
 
----
+#### Q3: Paired Samples t-Test (Week 8)
 
-## Interpreting SPSS Output
+##### Compare related measures (e.g., _"Does happiness differ when living alone vs. with family?"_).
 
-### Paired Samples Statistics
-Before: $M_1$, $SD_1$, $SE_1$.
+##### SPSS Steps: `Transform > Compute Variable` (create difference scores) → `Analyze > Compare Means > Paired T Test`.
 
-After: $M_2$, $SD_2$, $SE_2$.
+#### Q4: Short Answer (Week 5)
 
-#### Example
-Pre-training: $M=5.67$, $SD=1.23$.
+##### May cover hypothesis testing, Type I/II errors, or p-value interpretation (e.g., _"Explain why we reject $H_0$ if $p<\alpha$."_).
 
-Post-training: $M=7.20$, $SD=1.32$.
 
-### Paired Samples Test
-Mean Difference: $M_D=M_2-M_1$.
 
-Std. Deviation: $SD_D$ of difference scores.
+## Key Tips for Success
 
-Std. Error Mean: $SE=\frac{SD_D}{\sqrt{n}}$.
+### Assumption Checks
 
-95% CI: Range for population mean difference.
+#### One-Sample t-Test
 
-t-value: $t=\frac{M_D}{SE}$.
+##### Normality of the sample (histogram/Shapiro-Wilk).
 
-Sig. (2-tailed): p-value (e.g., $p=.017$).
+#### Independent t-Test
 
----
+##### Normality + homogeneity of variance (Levene’s test).
 
-## Report Structure
+#### Paired t-Test
 
-### Introduction
-State hypothesis (e.g., *"Memory training improves license plate recall"*).
+##### Normality of difference scores.
 
-### Sample Findings
-Report descriptive statistics for both conditions and differences:
+### APA-Style Reporting
 
-*"Before training: $M=5.67$, $SD=1.23$; After training: $M=7.20$, $SD=1.32$.
+#### For all t-tests: Include $M$, $SD$, $t$-value, $df$, $p$, and 95% CI.
 
-Mean improvement: $M_D=1.53$, $SD_D=2.20$."*
+#### Example: _"Males ($M=35.26$, $SD=30.80$) did not significantly differ from females ($M=33.79$, $SD=30.20$) in takeaway spend, $t(223)=0.36$, $p=.719$, 95% CI [-6.57, 9.50]."_
 
-### Results
+### Structure Reports Clearly
 
-#### APA Format
-*"A paired samples t-test showed a significant increase in recall scores after training, $t(14)=2.70$, $p=.017$, 95% CI [0.32, 2.75]."*
+#### Introduction
 
-#### Non-Significant Example
-*"The difference was not significant, $t(11)=0.62$, $p=.548$, 95% CI [-4.17, 2.34]."*
+##### Hypothesis.
 
-### Conclusion
-Link results to hypothesis (e.g., *"Training significantly improved recall"*).
+#### Methods
 
-For non-significant results: *"Insufficient evidence to suggest a difference."*
+##### Sample size, test used.
 
----
+#### Results
+
+##### Descriptive stats, test results.
+
+#### Conclusion
+
+##### Link results to hypothesis.
+
+
 
 ## Examples from Lecture
 
-### Police Memory Training
-Key Result: $t(14)=2.70$, $p=.017$.
+### Q1 (One-Sample t-Test)
 
-Interpretation: *"Officers remembered 0.32 to 2.75 more plates post-training."*
+#### _"Test if Swinburne students’ average sleep hours differ from 7 hours."_
 
-### Boys’ Self-Estimated vs. Actual Height
-Non-Significant: $t(11)=0.62$, $p=.548$.
+#### SPSS Output: Population mean = 7; Sample mean = 6.5, $t(224)=-1.23$, $p=.220$.
 
-Conclusion: *"No evidence boys misestimate height."*
+### Q2 (Independent t-Test)
 
-### Girls’ Self-Estimated vs. Actual Height
-Significant: $t(11)=6.12$, $p<.001$.
+#### _"Compare takeaway spend between domestic and international students."_
 
-Conclusion: *"Girls underestimated height by 0.63–1.33 cm."*
+#### Key Output: Levene’s $p=.642$ (equal variances assumed).
 
-### Happiness Living Alone vs. Family
-Large Effect: $t(238)=40.63$, $p<.001$.
+### Q3 (Paired t-Test)
 
-Interpretation: *"Happiness 0.57–0.62 units higher with family."*
+#### _"Compare pizza delivery times (Pizza Hut vs. Specialist Pizza)."_
 
----
+#### Result: $t(37)=2.85$, $p=.007$, 95% CI [0.36, 2.12].
 
-## Key Tips for Reporting
+### Q4 (Short Answer)
 
-### Check Assumptions
-Use histograms/Q-Q plots or Shapiro-Wilk test for normality of differences.
+#### _"Explain why a 95% CI that excludes 0 aligns with rejecting $H_0$."_
 
-Mention robustness for large samples ($n>30$).
 
-### Avoid Pitfalls
-Never confuse paired and independent t-tests.
 
-Always report 95% CI alongside p-values.
+## Common Pitfalls to Avoid
 
-### Visual Aids
-Include boxplots or line charts to show paired differences (e.g., pre/post scores).
+### Incorrect Test Selection
 
----
+#### Using independent t-test instead of paired (or vice versa).
 
-## APA Formatting Guidelines
+### Misinterpreting p-Values
 
-### t-Test Syntax
-*"A paired samples t-test revealed a significant difference between pre-test ($M=X$, $SD=Y$) and post-test ($M=X$, $SD=Y$), $t(df)=t$-value, $p=p$-value, 95% CI [LL, UL]."*
+#### Claiming "no difference" if $p>\alpha$ (correct: "insufficient evidence").
 
-### Decimal Precision
-Report p-values to 3 decimals (e.g., $p=.017$), unless $p<.001$.
+### Overlooking Assumptions
+
+#### Failing to check normality/heterogeneity (e.g., ignoring Levene’s test).
+
+### Data Entry Errors
+
+#### Incorrectly computing difference scores or selecting cases.
+
+
+
+## Submission Checklist
+
+### Random sample properly selected and justified.
+
+### All tests include SPSS output screenshots.
+
+### Assumptions clearly addressed (e.g., _"Histograms suggest normality."_).
+
+### Responses adhere to word limits (if specified).
+
+
+
+I hope this helps! Let me know if there's anything else you'd like to adjust.

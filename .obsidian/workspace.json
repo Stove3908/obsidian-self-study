@@ -36,38 +36,9 @@
               "state": {
                 "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 707.5999755859375,
-                  "y": 278.0000305175781,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Week 8"
-            }
-          },
-          {
-            "id": "04e4209e0f904cbd",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "pinned": true,
-              "icon": "dot-network",
-              "title": "Mindmap"
-            }
-          },
-          {
-            "id": "436d29a1f54b9d9c",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
-                "viewState": {
-                  "x": 387.5,
-                  "y": 40,
-                  "zoom": 0
+                  "x": 780.117053621125,
+                  "y": 44.35406436872205,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -89,24 +60,41 @@
             }
           },
           {
+            "id": "9cead9fadd3a2b77",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
+                "viewState": {
+                  "x": 3984.6077998011106,
+                  "y": 536.735910404192,
+                  "zoom": -0.2341181562276548
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Assignment Part 2"
+            }
+          },
+          {
             "id": "8b8fb8f9ee4a72a9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.canvas",
+                "file": "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
                 "viewState": {
-                  "x": 3907.692177460172,
-                  "y": 4445.583778135833,
-                  "zoom": -0.3333333333333334
+                  "x": 2224.4506518680023,
+                  "y": 348.3729103442831,
+                  "zoom": -1.6666666666666665
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled 2"
+              "title": "SPSS Output & Report Writing"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.canvas",
+                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for Assignment Part 2"
             }
           },
           {
@@ -199,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.canvas",
+                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 2"
+              "title": "Outgoing links from Assignment Part 2"
             }
           },
           {
@@ -228,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.canvas",
+                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 2"
+              "title": "Outline of Assignment Part 2"
             }
           },
           {
@@ -314,15 +302,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "8b8fb8f9ee4a72a9",
+  "active": "9cead9fadd3a2b77",
   "lastOpenFiles": [
+    "Classes/STA10003/Week 8.canvas",
+    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
+    "Notes/2025/2025-03/Assignment Part 2.canvas",
     "Notes/2025/2025-03/Untitled 2.md",
-    "Notes/2025/2025-03/Untitled 2.canvas",
     "Notes/2025/2025-03/Theoretical Foundations.md",
     "Notes/2025/2025-03/SPSS Output & Report Writing.md",
-    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 3.canvas",
-    "Classes/STA10003/Week 8.canvas",
     "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
     "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
