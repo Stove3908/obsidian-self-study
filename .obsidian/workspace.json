@@ -34,15 +34,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 1126.7692802939498,
-                  "y": 218.38424058553196,
-                  "zoom": -0.2341181562276547
+                  "x": 526.7999877929688,
+                  "y": 26,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Assignment Part 2"
+              "title": "Week 8"
             }
           },
           {
@@ -51,50 +51,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.md",
+                "file": "Books/It Didn't Start With You.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "It Didn't Start With You"
             }
           },
           {
-            "id": "9cead9fadd3a2b77",
+            "id": "f4b1f2296e7135e2",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
-                "viewState": {
-                  "x": 3557.609579215778,
-                  "y": 3958.8477190816498,
-                  "zoom": -0.2341181562276548
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Assignment Part 2"
-            }
-          },
-          {
-            "id": "8b8fb8f9ee4a72a9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
-                "viewState": {
-                  "x": 572.4000244140625,
-                  "y": 133.19998168945312,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Week 8"
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "pinned": true,
+              "icon": "dot-network",
+              "title": "Mindmap"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
+                "file": "Books/It Didn't Start With You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Assignment Part 2"
+              "title": "Backlinks for It Didn't Start With You"
             }
           },
           {
@@ -186,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
+                "file": "Books/It Didn't Start With You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Assignment Part 2"
+              "title": "Outgoing links from It Didn't Start With You"
             }
           },
           {
@@ -215,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
+                "file": "Books/It Didn't Start With You.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment Part 2"
+              "title": "Outline of It Didn't Start With You"
             }
           },
           {
@@ -301,19 +279,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "383ad6e036fe3231",
+  "active": "dc4da80eff5e3ba6",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/Neuroscience Insights.md",
+    "Books/It Didn't Start With You.md",
     "Classes/STA10003/Week 8.canvas",
-    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
-    "Notes/2025/2025-03/Untitled 2.md",
     "Notes/2025/2025-03/Theoretical Foundations.md",
+    "Notes/2025/2025-03/Untitled 2.md",
+    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.md",
     "Notes/2025/2025-03/Untitled 3.canvas",
     "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
     "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
-    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
@@ -337,7 +316,6 @@
     "Classes/STA10003",
     "Notes/2025/2025-03/2.E. Key Lessons.md",
     "Notes/2025/2025-03/2.A. Core Concepts.md",
-    "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
     "Books",
     "Classes",
     "Classes/COS10026",

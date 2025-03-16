@@ -4,8 +4,9 @@
     null,
     null,
     null,
-    null,
-    null
+    {
+      "type": "unpinned"
+    }
   ],
   "settings": {
     "splitDirection": "horizontal",

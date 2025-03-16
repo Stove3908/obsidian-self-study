@@ -66,6 +66,8 @@
     {
       "height": 68,
       "id": "d2fadd196330f5ca",
+      "styleAttributes": {
+      },
       "text": "[[Assignment Part 2.canvas|Assignment Part 2]]",
       "type": "text",
       "width": 200,
