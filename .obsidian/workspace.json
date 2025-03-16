@@ -82,9 +82,9 @@
               "state": {
                 "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 1708.4000854492188,
-                  "y": 1575.3999938964844,
-                  "zoom": -1
+                  "x": 1319.5999755859375,
+                  "y": 2556.3999938964844,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/STA10003/Lecture 8.md",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lecture 8"
+              "title": "Outline of Week 8"
             }
           },
           {
@@ -300,10 +300,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b3de1431b457cf01",
+  "active": "383ad6e036fe3231",
   "lastOpenFiles": [
-    "Classes/STA10003/Week 8.canvas",
     "Classes/STA10003/Lecture 8.md",
+    "Classes/STA10003/Week 8.canvas",
     "Books/Never_Split_The_Difference.md",
     "template/Chapter_Note..md",
     "Excalidraw/Drawing 2025-03-16 09.44.17.excalidraw.md",

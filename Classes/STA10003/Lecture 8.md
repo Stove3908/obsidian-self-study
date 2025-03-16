@@ -60,7 +60,7 @@
 - **t-Statistic**:
     - $$t = \frac{M_D - 0}{SE}$$
 - **Degrees of Freedom**:
-    - $$df = n - 1$$
+	    - $$df = n - 1$$
 - **Critical Value**:
     - Use t-table (e.g., $t_{\text{crit}} = 2.145$ for $df = 14$, $\alpha = .05$).
 ---
