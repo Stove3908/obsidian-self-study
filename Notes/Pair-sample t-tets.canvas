@@ -400,20 +400,6 @@
       "toSide": "left"
     },
     {
-      "fromNode": "d588799f3a2b9fb6",
-      "fromSide": "right",
-      "id": "70b9ada4ca8d00f1",
-      "toNode": "bc098deace0328e4",
-      "toSide": "left"
-    },
-    {
-      "fromNode": "bc098deace0328e4",
-      "fromSide": "right",
-      "id": "dff81dba7be8f0fb",
-      "toNode": "4f7e1fda8c23b4b5",
-      "toSide": "left"
-    },
-    {
       "fromNode": "4f7e1fda8c23b4b5",
       "fromSide": "right",
       "id": "233ad8bb999390e8",
@@ -447,339 +433,25 @@
       "id": "1f527a1678ce8fa8",
       "toNode": "97b4b19bd971ed65",
       "toSide": "right"
+    },
+    {
+      "fromNode": "3e4f9751c210f4ef",
+      "fromSide": "right",
+      "id": "5dc2433ab2d2c30a",
+      "styleAttributes": {
+      },
+      "toNode": "bc098deace0328e4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bc098deace0328e4",
+      "fromSide": "right",
+      "id": "dff81dba7be8f0fb",
+      "toNode": "4f7e1fda8c23b4b5",
+      "toSide": "left"
     }
   ],
   "nodes": [
-    {
-      "height": 50,
-      "id": "ff34d7b7703ae176",
-      "styleAttributes": {
-      },
-      "text": "t-Value",
-      "type": "text",
-      "width": 281,
-      "x": 1760,
-      "y": 4680
-    },
-    {
-      "height": 50,
-      "id": "1e3437fe32fe7364",
-      "styleAttributes": {
-      },
-      "text": "Decision",
-      "type": "text",
-      "width": 281,
-      "x": 1760,
-      "y": 4960
-    },
-    {
-      "height": 67,
-      "id": "d588799f3a2b9fb6",
-      "styleAttributes": {
-      },
-      "text": "95% Confidence Interval",
-      "type": "text",
-      "width": 281,
-      "x": 1760,
-      "y": 5308
-    },
-    {
-      "height": 50,
-      "id": "1580d64771567e35",
-      "styleAttributes": {
-      },
-      "text": "Conclusion",
-      "type": "text",
-      "width": 281,
-      "x": 1760,
-      "y": 5680
-    },
-    {
-      "height": 74,
-      "id": "bc098deace0328e4",
-      "styleAttributes": {
-      },
-      "text": "$$[0.32, 2.75] \\quad$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 5375
-    },
-    {
-      "height": 85,
-      "id": "3e4f9751c210f4ef",
-      "styleAttributes": {
-      },
-      "text": "$$M_D \\pm t_{\\text{crit}} \\times SE = 1.53 \\pm 2.145 \\times 0.568$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 5195
-    },
-    {
-      "height": 50,
-      "id": "9e17e8faf1ed6050",
-      "styleAttributes": {
-      },
-      "text": "Training significantly improved recall ($p = .017$).",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 5680
-    },
-    {
-      "height": 90,
-      "id": "544ef84613f33423",
-      "styleAttributes": {
-      },
-      "text": "$$t = 2.699 > t_{\\text{crit}} = 2.145 $$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 4940
-    },
-    {
-      "height": 93,
-      "id": "9439eaf8b00b69fe",
-      "styleAttributes": {
-      },
-      "text": "$$t(14) = \\frac{1.53}{0.568} = 2.699$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 4659
-    },
-    {
-      "height": 44,
-      "id": "1c3c80b545577553",
-      "styleAttributes": {
-      },
-      "text": "$\\rightarrow$ significant",
-      "type": "text",
-      "width": 298,
-      "x": 3125,
-      "y": 5387
-    },
-    {
-      "height": 71,
-      "id": "4f7e1fda8c23b4b5",
-      "styleAttributes": {
-      },
-      "text": "does not include 0 \n",
-      "type": "text",
-      "width": 234,
-      "x": 2754,
-      "y": 5375
-    },
-    {
-      "height": 90,
-      "id": "ab4e2db360f3550f",
-      "styleAttributes": {
-      },
-      "text": "$$\\rightarrow \\text{Reject } H_0$$",
-      "type": "text",
-      "width": 234,
-      "x": 2754,
-      "y": 4937
-    },
-    {
-      "height": 82,
-      "id": "853032261640d2c6",
-      "styleAttributes": {
-      },
-      "text": "$$M_D = 1.53$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 4140
-    },
-    {
-      "height": 80,
-      "id": "24d265c54c72b457",
-      "styleAttributes": {
-      },
-      "text": "$$s_D = 2.20$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 4280
-    },
-    {
-      "height": 76,
-      "id": "3cce2cbf6de0dde9",
-      "styleAttributes": {
-      },
-      "text": "$$S_{E} = 0.568$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 4440
-    },
-    {
-      "height": 80,
-      "id": "22826f0468df2fbf",
-      "styleAttributes": {
-      },
-      "text": "$$n = 15$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 3680
-    },
-    {
-      "height": 80,
-      "id": "3e77528ae7ea4918",
-      "styleAttributes": {
-      },
-      "text": "$$M_{\\text{Before}} = 5.67$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 3840
-    },
-    {
-      "height": 80,
-      "id": "475293a30f9f1780",
-      "styleAttributes": {
-      },
-      "text": "$$M_{\\text{After}} = 7.20$$",
-      "type": "text",
-      "width": 412,
-      "x": 2188,
-      "y": 4000
-    },
-    {
-      "height": 50,
-      "id": "1a7f70aff9729071",
-      "styleAttributes": {
-      },
-      "text": "Data",
-      "type": "text",
-      "width": 281,
-      "x": 1760,
-      "y": 4090
-    },
-    {
-      "height": 60,
-      "id": "e6cabaf1985820bc",
-      "styleAttributes": {
-      },
-      "text": "Example: Police Memory Training",
-      "type": "text",
-      "width": 320,
-      "x": 1040,
-      "y": 4955
-    },
-    {
-      "height": 60,
-      "id": "bdc5fb940c44a2d7",
-      "styleAttributes": {
-      },
-      "text": "Independence",
-      "type": "text",
-      "width": 170,
-      "x": 1444,
-      "y": 1039
-    },
-    {
-      "height": 60,
-      "id": "ad546a9066afdbd1",
-      "styleAttributes": {
-      },
-      "text": "Normality",
-      "type": "text",
-      "width": 155,
-      "x": 1444,
-      "y": 1248
-    },
-    {
-      "height": 60,
-      "id": "5b4b42fcdba51b2c",
-      "styleAttributes": {
-      },
-      "text": "Standard Error ($S_E$)",
-      "type": "text",
-      "width": 281,
-      "x": 1473,
-      "y": 2419
-    },
-    {
-      "height": 50,
-      "id": "0624f761801fb18a",
-      "styleAttributes": {
-      },
-      "text": "t-Statistic",
-      "type": "text",
-      "width": 281,
-      "x": 1473,
-      "y": 2639
-    },
-    {
-      "height": 50,
-      "id": "ae6ac665df0ddb01",
-      "styleAttributes": {
-      },
-      "text": "Degrees of Freedom",
-      "type": "text",
-      "width": 281,
-      "x": 1473,
-      "y": 2839
-    },
-    {
-      "height": 50,
-      "id": "fec2d582730f5b55",
-      "styleAttributes": {
-      },
-      "text": "Critical Value",
-      "type": "text",
-      "width": 281,
-      "x": 1473,
-      "y": 2979
-    },
-    {
-      "height": 97,
-      "id": "0549da20a58f2a12",
-      "styleAttributes": {
-      },
-      "text": "$$t = \\frac{M_D - 0}{SE}$$",
-      "type": "text",
-      "width": 646,
-      "x": 1901,
-      "y": 2617
-    },
-    {
-      "height": 80,
-      "id": "b5ed603382081d6a",
-      "styleAttributes": {
-      },
-      "text": "$$df = n - 1$$",
-      "type": "text",
-      "width": 646,
-      "x": 1901,
-      "y": 2825
-    },
-    {
-      "height": 50,
-      "id": "46693b239f2e6f09",
-      "styleAttributes": {
-      },
-      "text": "Use t-table (e.g., $t_{\\text{crit}} = 2.145$ for $df = 14$, $\\alpha = .05$).",
-      "type": "text",
-      "width": 646,
-      "x": 1901,
-      "y": 2980
-    },
-    {
-      "height": 94,
-      "id": "4e3da3250a3def67",
-      "styleAttributes": {
-      },
-      "text": "$$S_{E} = \\frac{s_D}{\\sqrt{n}}$$",
-      "type": "text",
-      "width": 646,
-      "x": 1901,
-      "y": 2403
-    },
     {
       "height": 60,
       "id": "b7331af4b6a678c0",
@@ -1024,25 +696,14 @@
     },
     {
       "height": 60,
-      "id": "60784dc54789423e",
-      "styleAttributes": {
-      },
-      "text": "Assumptions",
-      "type": "text",
-      "width": 160,
-      "x": 1120,
-      "y": 1040
-    },
-    {
-      "height": 60,
       "id": "a4a447a9c3c9b8df",
       "styleAttributes": {
       },
       "text": "Observations in each condition are independent (no carryover effects).",
       "type": "text",
       "width": 639,
-      "x": 1754,
-      "y": 1040
+      "x": 1590,
+      "y": 1001
     },
     {
       "height": 60,
@@ -1052,8 +713,8 @@
       "text": "Difference scores ($D$) are approximately normally distributed",
       "type": "text",
       "width": 513,
-      "x": 1754,
-      "y": 1248
+      "x": 1590,
+      "y": 1209
     },
     {
       "height": 60,
@@ -1063,8 +724,8 @@
       "text": "Check via histogram, Q-Q plot, or Shapiro-Wilk test (SPSS).",
       "type": "text",
       "width": 513,
-      "x": 1754,
-      "y": 1360
+      "x": 1590,
+      "y": 1321
     },
     {
       "height": 60,
@@ -1074,19 +735,74 @@
       "text": "Robust for large samples ($>30$) despite skew.",
       "type": "text",
       "width": 406,
-      "x": 1754,
-      "y": 1480
+      "x": 1590,
+      "y": 1441
     },
     {
       "height": 60,
-      "id": "73ba2bada7fafce3",
+      "id": "bdc5fb940c44a2d7",
       "styleAttributes": {
       },
-      "text": "Calculation Steps",
+      "text": "Independence",
       "type": "text",
-      "width": 200,
-      "x": 960,
-      "y": 1685
+      "width": 170,
+      "x": 1280,
+      "y": 1000
+    },
+    {
+      "height": 60,
+      "id": "ad546a9066afdbd1",
+      "styleAttributes": {
+      },
+      "text": "Normality",
+      "type": "text",
+      "width": 155,
+      "x": 1280,
+      "y": 1209
+    },
+    {
+      "height": 60,
+      "id": "60784dc54789423e",
+      "styleAttributes": {
+      },
+      "text": "Assumptions",
+      "type": "text",
+      "width": 160,
+      "x": 956,
+      "y": 1001
+    },
+    {
+      "height": 86,
+      "id": "0549da20a58f2a12",
+      "styleAttributes": {
+      },
+      "text": "$$t = \\frac{M_D - 0}{SE}$$",
+      "type": "text",
+      "width": 130,
+      "x": 1750,
+      "y": 2581
+    },
+    {
+      "height": 76,
+      "id": "b5ed603382081d6a",
+      "styleAttributes": {
+      },
+      "text": "$$df = n - 1$$",
+      "type": "text",
+      "width": 130,
+      "x": 1767,
+      "y": 2776
+    },
+    {
+      "height": 60,
+      "id": "46693b239f2e6f09",
+      "styleAttributes": {
+      },
+      "text": "Use t-table (e.g., $t_{\\text{crit}} = 2.145$ for $df = 14$, $\\alpha = .05$).",
+      "type": "text",
+      "width": 459,
+      "x": 1815,
+      "y": 2968
     },
     {
       "height": 60,
@@ -1096,19 +812,8 @@
       "text": "Compute Difference Scores",
       "type": "text",
       "width": 281,
-      "x": 1444,
-      "y": 1685
-    },
-    {
-      "height": 87,
-      "id": "2f80f041a0596f70",
-      "styleAttributes": {
-      },
-      "text": "$$    D = X_{\\text{After}} - X_{\\text{Before}}$$",
-      "type": "text",
-      "width": 259,
-      "x": 1901,
-      "y": 1672
+      "x": 1440,
+      "y": 1693
     },
     {
       "height": 60,
@@ -1118,41 +823,8 @@
       "text": "Mean Difference ($M_D$​)",
       "type": "text",
       "width": 252,
-      "x": 1444,
-      "y": 1872
-    },
-    {
-      "height": 100,
-      "id": "523808fa2413aa90",
-      "styleAttributes": {
-      },
-      "text": "$$    M_D = \\frac{\\sum D}{n}$$",
-      "type": "text",
-      "width": 183,
-      "x": 1901,
-      "y": 1852
-    },
-    {
-      "height": 92,
-      "id": "967f714237091d5d",
-      "styleAttributes": {
-      },
-      "text": "$$s_D^2 = \\frac{\\sum (D - MD)^2}{n - 1}$$",
-      "type": "text",
-      "width": 199,
-      "x": 1901,
-      "y": 2040
-    },
-    {
-      "height": 97,
-      "id": "30f4008313b66cce",
-      "styleAttributes": {
-      },
-      "text": "$$s_D = \\sqrt{s_D^2}$$",
-      "type": "text",
-      "width": 130,
-      "x": 1901,
-      "y": 2203
+      "x": 1440,
+      "y": 1880
     },
     {
       "height": 92,
@@ -1162,8 +834,338 @@
       "text": "Variance ($s_D^2)$ & \nStandard Deviation ($s_D$)",
       "type": "text",
       "width": 252,
-      "x": 1444,
-      "y": 2040
+      "x": 1440,
+      "y": 2048
+    },
+    {
+      "height": 72,
+      "id": "5b4b42fcdba51b2c",
+      "styleAttributes": {
+      },
+      "text": "Standard Error ($S_E$)",
+      "type": "text",
+      "width": 223,
+      "x": 1455,
+      "y": 2386
+    },
+    {
+      "height": 60,
+      "id": "0624f761801fb18a",
+      "styleAttributes": {
+      },
+      "text": "t-Statistic",
+      "type": "text",
+      "width": 167,
+      "x": 1452,
+      "y": 2594
+    },
+    {
+      "height": 60,
+      "id": "ae6ac665df0ddb01",
+      "styleAttributes": {
+      },
+      "text": "Degrees of Freedom",
+      "type": "text",
+      "width": 223,
+      "x": 1440,
+      "y": 2784
+    },
+    {
+      "height": 60,
+      "id": "fec2d582730f5b55",
+      "styleAttributes": {
+      },
+      "text": "Critical Value",
+      "type": "text",
+      "width": 223,
+      "x": 1452,
+      "y": 2968
+    },
+    {
+      "height": 87,
+      "id": "2f80f041a0596f70",
+      "styleAttributes": {
+      },
+      "text": "$$    D = X_{\\text{After}} - X_{\\text{Before}}$$",
+      "type": "text",
+      "width": 259,
+      "x": 1897,
+      "y": 1680
+    },
+    {
+      "height": 100,
+      "id": "523808fa2413aa90",
+      "styleAttributes": {
+      },
+      "text": "$$    M_D = \\frac{\\sum D}{n}$$",
+      "type": "text",
+      "width": 183,
+      "x": 1897,
+      "y": 1860
+    },
+    {
+      "height": 92,
+      "id": "967f714237091d5d",
+      "styleAttributes": {
+      },
+      "text": "$$s_D^2 = \\frac{\\sum (D - MD)^2}{n - 1}$$",
+      "type": "text",
+      "width": 199,
+      "x": 1897,
+      "y": 2048
+    },
+    {
+      "height": 97,
+      "id": "30f4008313b66cce",
+      "styleAttributes": {
+      },
+      "text": "$$s_D = \\sqrt{s_D^2}$$",
+      "type": "text",
+      "width": 130,
+      "x": 1897,
+      "y": 2211
+    },
+    {
+      "height": 109,
+      "id": "4e3da3250a3def67",
+      "styleAttributes": {
+      },
+      "text": "$$S_{E} = \\frac{s_D}{\\sqrt{n}}$$",
+      "type": "text",
+      "width": 130,
+      "x": 1818,
+      "y": 2368
+    },
+    {
+      "height": 60,
+      "id": "73ba2bada7fafce3",
+      "styleAttributes": {
+      },
+      "text": "Calculation Steps",
+      "type": "text",
+      "width": 200,
+      "x": 956,
+      "y": 1693
+    },
+    {
+      "height": 71,
+      "id": "853032261640d2c6",
+      "styleAttributes": {
+      },
+      "text": "$$M_D = 1.53$$",
+      "type": "text",
+      "width": 144,
+      "x": 1946,
+      "y": 3746
+    },
+    {
+      "height": 69,
+      "id": "24d265c54c72b457",
+      "styleAttributes": {
+      },
+      "text": "$$s_D = 2.20$$",
+      "type": "text",
+      "width": 144,
+      "x": 1946,
+      "y": 3866
+    },
+    {
+      "height": 66,
+      "id": "3cce2cbf6de0dde9",
+      "styleAttributes": {
+      },
+      "text": "$$S_{E} = 0.568$$",
+      "type": "text",
+      "width": 144,
+      "x": 1946,
+      "y": 3986
+    },
+    {
+      "height": 112,
+      "id": "9439eaf8b00b69fe",
+      "styleAttributes": {
+      },
+      "text": "$$t(14) = \\frac{1.53}{0.568} = 2.699$$",
+      "type": "text",
+      "width": 210,
+      "x": 1935,
+      "y": 4146
+    },
+    {
+      "height": 60,
+      "id": "ff34d7b7703ae176",
+      "styleAttributes": {
+      },
+      "text": "t-Value",
+      "type": "text",
+      "width": 143,
+      "x": 1717,
+      "y": 4171
+    },
+    {
+      "height": 60,
+      "id": "d588799f3a2b9fb6",
+      "styleAttributes": {
+      },
+      "text": "95% Confidence Interval",
+      "type": "text",
+      "width": 243,
+      "x": 1711,
+      "y": 4639
+    },
+    {
+      "height": 60,
+      "id": "1580d64771567e35",
+      "styleAttributes": {
+      },
+      "text": "Conclusion",
+      "type": "text",
+      "width": 149,
+      "x": 1711,
+      "y": 4806
+    },
+    {
+      "height": 60,
+      "id": "1e3437fe32fe7364",
+      "styleAttributes": {
+      },
+      "text": "Decision",
+      "type": "text",
+      "width": 156,
+      "x": 1717,
+      "y": 4398
+    },
+    {
+      "height": 83,
+      "id": "544ef84613f33423",
+      "styleAttributes": {
+      },
+      "text": "$$t = 2.699 > t_{\\text{crit}} = 2.145 $$",
+      "type": "text",
+      "width": 228,
+      "x": 1954,
+      "y": 4386
+    },
+    {
+      "height": 60,
+      "id": "9e17e8faf1ed6050",
+      "styleAttributes": {
+      },
+      "text": "Training significantly improved recall ($p = .017$).",
+      "type": "text",
+      "width": 425,
+      "x": 1970,
+      "y": 4806
+    },
+    {
+      "height": 74,
+      "id": "3e4f9751c210f4ef",
+      "styleAttributes": {
+      },
+      "text": "$$M_D \\pm t_{\\text{crit}} \\times SE = 1.53 \\pm 2.145 \\times 0.568$$",
+      "type": "text",
+      "width": 338,
+      "x": 2049,
+      "y": 4632
+    },
+    {
+      "height": 60,
+      "id": "1a7f70aff9729071",
+      "styleAttributes": {
+      },
+      "text": "Data",
+      "type": "text",
+      "width": 98,
+      "x": 1717,
+      "y": 3404
+    },
+    {
+      "height": 69,
+      "id": "22826f0468df2fbf",
+      "styleAttributes": {
+      },
+      "text": "$$n = 15$$",
+      "type": "text",
+      "width": 144,
+      "x": 1946,
+      "y": 3400
+    },
+    {
+      "height": 69,
+      "id": "3e77528ae7ea4918",
+      "styleAttributes": {
+      },
+      "text": "$$M_{\\text{Before}} = 5.67$$",
+      "type": "text",
+      "width": 144,
+      "x": 1946,
+      "y": 3506
+    },
+    {
+      "height": 69,
+      "id": "475293a30f9f1780",
+      "styleAttributes": {
+      },
+      "text": "$$M_{\\text{After}} = 7.20$$",
+      "type": "text",
+      "width": 144,
+      "x": 1946,
+      "y": 3626
+    },
+    {
+      "height": 60,
+      "id": "ab4e2db360f3550f",
+      "styleAttributes": {
+      },
+      "text": "$\\rightarrow$ $H_0$",
+      "type": "text",
+      "width": 130,
+      "x": 2257,
+      "y": 4398
+    },
+    {
+      "height": 77,
+      "id": "bc098deace0328e4",
+      "styleAttributes": {
+      },
+      "text": "$$[0.32, 2.75] \\quad$$",
+      "type": "text",
+      "width": 120,
+      "x": 2487,
+      "y": 4630
+    },
+    {
+      "height": 60,
+      "id": "4f7e1fda8c23b4b5",
+      "styleAttributes": {
+      },
+      "text": "does not include 0 \n",
+      "type": "text",
+      "width": 211,
+      "x": 2697,
+      "y": 4639
+    },
+    {
+      "height": 60,
+      "id": "1c3c80b545577553",
+      "styleAttributes": {
+      },
+      "text": "$\\rightarrow$ significant",
+      "type": "text",
+      "width": 160,
+      "x": 2994,
+      "y": 4639
+    },
+    {
+      "height": 60,
+      "id": "e6cabaf1985820bc",
+      "styleAttributes": {
+      },
+      "text": "Example: Police Memory Training",
+      "type": "text",
+      "width": 320,
+      "x": 937,
+      "y": 3400
     }
   ]
 }
