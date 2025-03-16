@@ -115,9 +115,26 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "11df105a388b7a63",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Notes/2025/2025-03/Untitled 2.canvas",
+                "viewState": {
+                  "x": 1188.974875112593,
+                  "y": 628.2366793784486,
+                  "zoom": -0.8764017304501404
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.md",
+                "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.md",
+                "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
@@ -324,10 +341,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dc4da80eff5e3ba6",
+  "active": "11df105a388b7a63",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
     "Notes/2025/2025-03/Untitled 2.md",
+    "Notes/2025/2025-03/Untitled 2.canvas",
+    "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
+    "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Classes/STA10003/Week 8.canvas",
     "Notes/2025/2025-03/Theoretical Foundations.md",
