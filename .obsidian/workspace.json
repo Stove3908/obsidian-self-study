@@ -124,9 +124,9 @@
               "state": {
                 "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "viewState": {
-                  "x": 1191.1149394450217,
-                  "y": 423.62477180407774,
-                  "zoom": -0.06284672907782596
+                  "x": 994.1288954993026,
+                  "y": 16.4585543155423,
+                  "zoom": -0.6666666666666667
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -323,7 +324,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
