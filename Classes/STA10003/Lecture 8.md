@@ -75,8 +75,7 @@
 - **Decision**:
 	- $$t = 2.699 > t_{\text{crit}} = 2.145 \rightarrow \text{Reject } H_0$$
 - **95% Confidence Interval**:
-	- $$M_D \pm t_{\text{crit}} \times SE = 1.53 \pm 2.145 \times 0.568
-$$
+	- $$M_D \pm t_{\text{crit}} \times SE = 1.53 \pm 2.145 \times 0.568$$
 	- $$[0.32, 2.75] \quad (\text{does not include 0} \rightarrow \text{significant})$$
 - **Conclusion**:
 	- Training significantly improved recall ($p = .017$).
