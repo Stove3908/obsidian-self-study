@@ -496,6 +496,15 @@
       "id": "2-6-2/2-6-2-s1",
       "toNode": "2-6-2-s1",
       "toSide": "left"
+    },
+    {
+      "fromNode": "2",
+      "fromSide": "left",
+      "id": "c2bd80889f1a92c3",
+      "styleAttributes": {
+      },
+      "toNode": "68d73e4dfac1ee76",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -1290,6 +1299,17 @@
       "width": 800,
       "x": 4000,
       "y": 5520
+    },
+    {
+      "height": 60,
+      "id": "68d73e4dfac1ee76",
+      "styleAttributes": {
+      },
+      "text": "[[Week 8.canvas|Week 8]]",
+      "type": "text",
+      "width": 120,
+      "x": 720,
+      "y": 120
     }
   ]
 }

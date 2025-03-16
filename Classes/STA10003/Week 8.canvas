@@ -31,48 +31,37 @@
   ],
   "nodes": [
     {
-      "height": 44,
-      "id": "9ab0cf44bffe571b",
+      "height": 60,
+      "id": "57420dc66bcb0b84",
       "styleAttributes": {
       },
-      "text": "Week 8",
+      "text": "Lecture 8",
       "type": "text",
-      "width": 163,
-      "x": -45,
-      "y": -37
+      "width": 140,
+      "x": 260,
+      "y": -56
     },
     {
-      "height": 50,
+      "height": 60,
       "id": "b432cf809dd0620c",
       "styleAttributes": {
       },
       "text": "[[Pair-sample t-tets.canvas|Pair-sample t-tets]]",
       "type": "text",
       "width": 200,
-      "x": 620,
-      "y": -40
+      "x": 540,
+      "y": -56
     },
     {
-      "height": 44,
-      "id": "57420dc66bcb0b84",
-      "styleAttributes": {
-      },
-      "text": "Lecture 8",
-      "type": "text",
-      "width": 215,
-      "x": 260,
-      "y": -40
-    },
-    {
-      "height": 60,
+      "height": 69,
       "id": "605b02f7ae07c655",
       "styleAttributes": {
       },
       "text": "[[SPSS Output & Report Writing.canvas|SPSS Output & Report Writing]]",
       "type": "text",
       "width": 300,
-      "x": 620,
-      "y": 49
+      "x": 540,
+      "y": 40
     },
     {
       "height": 68,
@@ -80,8 +69,19 @@
       "text": "[[Assignment Part 2.canvas|Assignment Part 2]]",
       "type": "text",
       "width": 200,
-      "x": 620,
+      "x": 540,
       "y": 160
+    },
+    {
+      "height": 60,
+      "id": "9ab0cf44bffe571b",
+      "styleAttributes": {
+      },
+      "text": "Week 8",
+      "type": "text",
+      "width": 120,
+      "x": 20,
+      "y": -56
     }
   ]
 }

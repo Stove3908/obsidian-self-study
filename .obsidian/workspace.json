@@ -34,15 +34,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
+                "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
                 "viewState": {
-                  "x": 780.117053621125,
-                  "y": 44.35406436872205,
-                  "zoom": -0.3333333333333334
+                  "x": 1126.7692802939498,
+                  "y": 218.38424058553196,
+                  "zoom": -0.2341181562276547
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Week 8"
+              "title": "Assignment Part 2"
             }
           },
           {
@@ -67,8 +67,8 @@
               "state": {
                 "file": "Notes/2025/2025-03/Assignment Part 2.canvas",
                 "viewState": {
-                  "x": 3984.6077998011106,
-                  "y": 536.735910404192,
+                  "x": 3557.609579215778,
+                  "y": 3958.8477190816498,
                   "zoom": -0.2341181562276548
                 }
               },
@@ -82,19 +82,19 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 2224.4506518680023,
-                  "y": 348.3729103442831,
-                  "zoom": -1.6666666666666665
+                  "x": 572.4000244140625,
+                  "y": 133.19998168945312,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "SPSS Output & Report Writing"
+              "title": "Week 8"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -302,7 +301,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "9cead9fadd3a2b77",
+  "active": "383ad6e036fe3231",
   "lastOpenFiles": [
     "Classes/STA10003/Week 8.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
