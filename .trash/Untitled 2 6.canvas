@@ -106,6 +106,13 @@
       "toSide": "left"
     },
     {
+      "fromNode": "2-1-2-2",
+      "fromSide": "right",
+      "id": "2-1-2-2/2-1-2-2-s4",
+      "toNode": "2-1-2-2-s4",
+      "toSide": "left"
+    },
+    {
       "fromNode": "2",
       "fromSide": "right",
       "id": "2/2-2",
@@ -316,6 +323,13 @@
       "toSide": "left"
     },
     {
+      "fromNode": "2-3-4",
+      "fromSide": "right",
+      "id": "2-3-4/2-3-4-s3",
+      "toNode": "2-3-4-s3",
+      "toSide": "left"
+    },
+    {
       "fromNode": "2",
       "fromSide": "right",
       "id": "2/2-4",
@@ -407,6 +421,13 @@
       "toSide": "left"
     },
     {
+      "fromNode": "2-4-4",
+      "fromSide": "right",
+      "id": "2-4-4/2-4-4-s3",
+      "toNode": "2-4-4-s3",
+      "toSide": "left"
+    },
+    {
       "fromNode": "2",
       "fromSide": "right",
       "id": "2/2-5",
@@ -470,6 +491,13 @@
       "toSide": "left"
     },
     {
+      "fromNode": "2-5-3",
+      "fromSide": "right",
+      "id": "2-5-3/2-5-3-s2",
+      "toNode": "2-5-3-s2",
+      "toSide": "left"
+    },
+    {
       "fromNode": "2",
       "fromSide": "right",
       "id": "2/2-6",
@@ -513,8 +541,8 @@
       },
       "text": "Untitled 2",
       "type": "text",
-      "width": 800,
-      "x": 1000,
+      "width": 200,
+      "x": 400,
       "y": 0
     },
     {
@@ -524,8 +552,8 @@
       },
       "text": "SPSS Output & Report Writing",
       "type": "text",
-      "width": 800,
-      "x": 1000,
+      "width": 200,
+      "x": 400,
       "y": 120
     },
     {
@@ -535,8 +563,8 @@
       },
       "text": "SPSS Workflow",
       "type": "text",
-      "width": 800,
-      "x": 2000,
+      "width": 200,
+      "x": 800,
       "y": 120
     },
     {
@@ -546,8 +574,8 @@
       },
       "text": "Compute Difference Scores",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 120
     },
     {
@@ -557,8 +585,8 @@
       },
       "text": "Steps",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 120
     },
     {
@@ -568,8 +596,8 @@
       },
       "text": "`Transform > Compute Variable`.",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 120
     },
     {
@@ -579,8 +607,8 @@
       },
       "text": "Create a new variable (e.g., `DIFF = PostTest - PreTest`).",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 240
     },
     {
@@ -590,8 +618,8 @@
       },
       "text": "Purpose",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 360
     },
     {
@@ -601,8 +629,8 @@
       },
       "text": "Directly analyze the paired differences.",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 360
     },
     {
@@ -612,8 +640,8 @@
       },
       "text": "Run Paired t-Test",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 480
     },
     {
@@ -623,8 +651,8 @@
       },
       "text": "Steps",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 480
     },
     {
@@ -634,8 +662,8 @@
       },
       "text": "`Analyze > Compare Means > Paired-Samples T Test`.",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 480
     },
     {
@@ -645,8 +673,8 @@
       },
       "text": "Select paired variables (e.g., `Before_Training` and `After_Training`).",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 600
     },
     {
@@ -656,8 +684,8 @@
       },
       "text": "Output Includes",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 720
     },
     {
@@ -667,8 +695,8 @@
       },
       "text": "Paired Samples Statistics: Means, SDs, and SE for both conditions.",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 720
     },
     {
@@ -678,8 +706,8 @@
       },
       "text": "Paired Samples Correlations: Relationship between paired scores (optional).",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 840
     },
     {
@@ -689,9 +717,20 @@
       },
       "text": "Paired Samples Test: Mean difference, t-value, p-value, 95% CI.",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 960
+    },
+    {
+      "height": 60,
+      "id": "2-1-2-2-s4",
+      "styleAttributes": {
+      },
+      "text": "---",
+      "type": "text",
+      "width": 200,
+      "x": 2000,
+      "y": 1080
     },
     {
       "height": 60,
@@ -700,8 +739,8 @@
       },
       "text": "Interpreting SPSS Output",
       "type": "text",
-      "width": 800,
-      "x": 2000,
+      "width": 200,
+      "x": 800,
       "y": 1200
     },
     {
@@ -711,8 +750,8 @@
       },
       "text": "Paired Samples Statistics",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 1200
     },
     {
@@ -722,8 +761,8 @@
       },
       "text": "Before: $M_1$, $SD_1$, $SE_1$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 1200
     },
     {
@@ -733,8 +772,8 @@
       },
       "text": "After: $M_2$, $SD_2$, $SE_2$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 1320
     },
     {
@@ -744,8 +783,8 @@
       },
       "text": "Example",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 1440
     },
     {
@@ -755,8 +794,8 @@
       },
       "text": "Pre-training: $M=5.67$, $SD=1.23$.",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 1440
     },
     {
@@ -766,8 +805,8 @@
       },
       "text": "Post-training: $M=7.20$, $SD=1.32$.",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 1560
     },
     {
@@ -777,8 +816,8 @@
       },
       "text": "Paired Samples Test",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 1680
     },
     {
@@ -788,8 +827,8 @@
       },
       "text": "Mean Difference: $M_D=M_2-M_1$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 1680
     },
     {
@@ -799,8 +838,8 @@
       },
       "text": "Std. Deviation: $SD_D$ of difference scores.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 1800
     },
     {
@@ -810,8 +849,8 @@
       },
       "text": "Std. Error Mean: $SE=\\frac{SD_D}{\\sqrt{n}}$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 1920
     },
     {
@@ -821,8 +860,8 @@
       },
       "text": "95% CI: Range for population mean difference.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2040
     },
     {
@@ -832,8 +871,8 @@
       },
       "text": "t-value: $t=\\frac{M_D}{SE}$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2160
     },
     {
@@ -843,8 +882,8 @@
       },
       "text": "Sig. (2-tailed): p-value (e.g., $p=.017$).",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2280
     },
     {
@@ -854,8 +893,8 @@
       },
       "text": "---",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2400
     },
     {
@@ -865,8 +904,8 @@
       },
       "text": "Report Structure",
       "type": "text",
-      "width": 800,
-      "x": 2000,
+      "width": 200,
+      "x": 800,
       "y": 2520
     },
     {
@@ -876,8 +915,8 @@
       },
       "text": "Introduction",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 2520
     },
     {
@@ -887,8 +926,8 @@
       },
       "text": "State hypothesis (e.g., *\"Memory training improves license plate recall\"*).",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2520
     },
     {
@@ -898,8 +937,8 @@
       },
       "text": "Sample Findings",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 2640
     },
     {
@@ -909,8 +948,8 @@
       },
       "text": "Report descriptive statistics for both conditions and differences:",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2640
     },
     {
@@ -920,8 +959,8 @@
       },
       "text": "*\"Before training: $M=5.67$, $SD=1.23$; After training: $M=7.20$, $SD=1.32$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2760
     },
     {
@@ -931,8 +970,8 @@
       },
       "text": "Mean improvement: $M_D=1.53$, $SD_D=2.20$.\"*",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 2880
     },
     {
@@ -942,8 +981,8 @@
       },
       "text": "Results",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 3000
     },
     {
@@ -953,8 +992,8 @@
       },
       "text": "APA Format",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3000
     },
     {
@@ -964,8 +1003,8 @@
       },
       "text": "*\"A paired samples t-test showed a significant increase in recall scores after training, $t(14)=2.70$, $p=.017$, 95% CI [0.32, 2.75].\"*",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 3000
     },
     {
@@ -975,8 +1014,8 @@
       },
       "text": "Non-Significant Example",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3120
     },
     {
@@ -986,8 +1025,8 @@
       },
       "text": "*\"The difference was not significant, $t(11)=0.62$, $p=.548$, 95% CI [-4.17, 2.34].\"*",
       "type": "text",
-      "width": 800,
-      "x": 5000,
+      "width": 200,
+      "x": 2000,
       "y": 3120
     },
     {
@@ -997,8 +1036,8 @@
       },
       "text": "Conclusion",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 3240
     },
     {
@@ -1008,8 +1047,8 @@
       },
       "text": "Link results to hypothesis (e.g., *\"Training significantly improved recall\"*).",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3240
     },
     {
@@ -1019,9 +1058,20 @@
       },
       "text": "For non-significant results: *\"Insufficient evidence to suggest a difference.\"*",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3360
+    },
+    {
+      "height": 60,
+      "id": "2-3-4-s3",
+      "styleAttributes": {
+      },
+      "text": "---",
+      "type": "text",
+      "width": 200,
+      "x": 1600,
+      "y": 3480
     },
     {
       "height": 60,
@@ -1030,8 +1080,8 @@
       },
       "text": "Examples from Lecture",
       "type": "text",
-      "width": 800,
-      "x": 2000,
+      "width": 200,
+      "x": 800,
       "y": 3600
     },
     {
@@ -1041,8 +1091,8 @@
       },
       "text": "Police Memory Training",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 3600
     },
     {
@@ -1052,8 +1102,8 @@
       },
       "text": "Key Result: $t(14)=2.70$, $p=.017$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3600
     },
     {
@@ -1063,8 +1113,8 @@
       },
       "text": "Interpretation: *\"Officers remembered 0.32 to 2.75 more plates post-training.\"*",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3720
     },
     {
@@ -1074,8 +1124,8 @@
       },
       "text": "Boys’ Self-Estimated vs. Actual Height",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 3840
     },
     {
@@ -1085,8 +1135,8 @@
       },
       "text": "Non-Significant: $t(11)=0.62$, $p=.548$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3840
     },
     {
@@ -1096,8 +1146,8 @@
       },
       "text": "Conclusion: *\"No evidence boys misestimate height.\"*",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 3960
     },
     {
@@ -1107,8 +1157,8 @@
       },
       "text": "Girls’ Self-Estimated vs. Actual Height",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 4080
     },
     {
@@ -1118,8 +1168,8 @@
       },
       "text": "Significant: $t(11)=6.12$, $p<.001$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 4080
     },
     {
@@ -1129,8 +1179,8 @@
       },
       "text": "Conclusion: *\"Girls underestimated height by 0.63–1.33 cm.\"*",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 4200
     },
     {
@@ -1140,8 +1190,8 @@
       },
       "text": "Happiness Living Alone vs. Family",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 4320
     },
     {
@@ -1151,8 +1201,8 @@
       },
       "text": "Large Effect: $t(238)=40.63$, $p<.001$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 4320
     },
     {
@@ -1162,9 +1212,20 @@
       },
       "text": "Interpretation: *\"Happiness 0.57–0.62 units higher with family.\"*",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 4440
+    },
+    {
+      "height": 60,
+      "id": "2-4-4-s3",
+      "styleAttributes": {
+      },
+      "text": "---",
+      "type": "text",
+      "width": 200,
+      "x": 1600,
+      "y": 4560
     },
     {
       "height": 60,
@@ -1173,8 +1234,8 @@
       },
       "text": "Key Tips for Reporting",
       "type": "text",
-      "width": 800,
-      "x": 2000,
+      "width": 200,
+      "x": 800,
       "y": 4680
     },
     {
@@ -1184,8 +1245,8 @@
       },
       "text": "Check Assumptions",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 4680
     },
     {
@@ -1195,8 +1256,8 @@
       },
       "text": "Use histograms/Q-Q plots or Shapiro-Wilk test for normality of differences.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 4680
     },
     {
@@ -1206,8 +1267,8 @@
       },
       "text": "Mention robustness for large samples ($n>30$).",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 4800
     },
     {
@@ -1217,8 +1278,8 @@
       },
       "text": "Avoid Pitfalls",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 4920
     },
     {
@@ -1228,8 +1289,8 @@
       },
       "text": "Never confuse paired and independent t-tests.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 4920
     },
     {
@@ -1239,8 +1300,8 @@
       },
       "text": "Always report 95% CI alongside p-values.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 5040
     },
     {
@@ -1250,8 +1311,8 @@
       },
       "text": "Visual Aids",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 5160
     },
     {
@@ -1261,9 +1322,20 @@
       },
       "text": "Include boxplots or line charts to show paired differences (e.g., pre/post scores).",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 5160
+    },
+    {
+      "height": 60,
+      "id": "2-5-3-s2",
+      "styleAttributes": {
+      },
+      "text": "---",
+      "type": "text",
+      "width": 200,
+      "x": 1600,
+      "y": 5280
     },
     {
       "height": 60,
@@ -1272,8 +1344,8 @@
       },
       "text": "APA Formatting Guidelines",
       "type": "text",
-      "width": 800,
-      "x": 2000,
+      "width": 200,
+      "x": 800,
       "y": 5400
     },
     {
@@ -1283,8 +1355,8 @@
       },
       "text": "t-Test Syntax",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 5400
     },
     {
@@ -1294,8 +1366,8 @@
       },
       "text": "*\"A paired samples t-test revealed a significant difference between pre-test ($M=X$, $SD=Y$) and post-test ($M=X$, $SD=Y$), $t(df)=t$-value, $p=p$-value, 95% CI [LL, UL].\"*",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 5400
     },
     {
@@ -1305,8 +1377,8 @@
       },
       "text": "Decimal Precision",
       "type": "text",
-      "width": 800,
-      "x": 3000,
+      "width": 200,
+      "x": 1200,
       "y": 5520
     },
     {
@@ -1316,8 +1388,8 @@
       },
       "text": "Report p-values to 3 decimals (e.g., $p=.017$), unless $p<.001$.",
       "type": "text",
-      "width": 800,
-      "x": 4000,
+      "width": 200,
+      "x": 1600,
       "y": 5520
     }
   ]

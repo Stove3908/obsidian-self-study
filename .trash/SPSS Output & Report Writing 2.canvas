@@ -1,0 +1,255 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "text": "SPSS Output & Report Writing",
+      "type": "text",
+      "x": 400,
+      "y": 0,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1",
+      "text": "SPSS Workflow",
+      "type": "text",
+      "x": 800,
+      "y": 0,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-1",
+      "text": "Compute Difference Scores",
+      "type": "text",
+      "x": 1200,
+      "y": 0,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-1-1",
+      "text": "Steps",
+      "type": "text",
+      "x": 1600,
+      "y": 0,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-1-1-s1",
+      "text": "`Transform > Compute Variable`.",
+      "type": "text",
+      "x": 2000,
+      "y": 0,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-1-1-s2",
+      "text": "Create a new variable (e.g., `DIFF = PostTest - PreTest`).",
+      "type": "text",
+      "x": 2000,
+      "y": 120,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-1-2",
+      "text": "Purpose",
+      "type": "text",
+      "x": 1600,
+      "y": 240,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-1-2-s1",
+      "text": "Directly analyze the paired differences.",
+      "type": "text",
+      "x": 2000,
+      "y": 240,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2",
+      "text": "Run Paired t-Test",
+      "type": "text",
+      "x": 1200,
+      "y": 360,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2-1",
+      "text": "Steps",
+      "type": "text",
+      "x": 1600,
+      "y": 360,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2-1-s1",
+      "text": "`Analyze > Compare Means > Paired-Samples T Test`.",
+      "type": "text",
+      "x": 2000,
+      "y": 360,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2-1-s2",
+      "text": "Select paired variables (e.g., `Before_Training` and `After_Training`).",
+      "type": "text",
+      "x": 2000,
+      "y": 480,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2-2",
+      "text": "Output Includes",
+      "type": "text",
+      "x": 1600,
+      "y": 600,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2-2-s1",
+      "text": "Paired Samples Statistics: Means, SDs, and SE for both conditions.",
+      "type": "text",
+      "x": 2000,
+      "y": 600,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2-2-s2",
+      "text": "Paired Samples Correlations: Relationship between paired scores (optional).",
+      "type": "text",
+      "x": 2000,
+      "y": 720,
+      "height": 60,
+      "width": 200
+    },
+    {
+      "id": "1-1-2-2-s3",
+      "text": "Paired Samples Test: Mean difference, t-value, p-value, 95% CI.",
+      "type": "text",
+      "x": 2000,
+      "y": 840,
+      "height": 60,
+      "width": 200
+    }
+  ],
+  "edges": [
+    {
+      "id": "1/1-1",
+      "fromNode": "1",
+      "fromSide": "right",
+      "toNode": "1-1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1/1-1-1",
+      "fromNode": "1-1",
+      "fromSide": "right",
+      "toNode": "1-1-1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-1/1-1-1-1",
+      "fromNode": "1-1-1",
+      "fromSide": "right",
+      "toNode": "1-1-1-1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-1-1/1-1-1-1-s1",
+      "fromNode": "1-1-1-1",
+      "fromSide": "right",
+      "toNode": "1-1-1-1-s1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-1-1/1-1-1-1-s2",
+      "fromNode": "1-1-1-1",
+      "fromSide": "right",
+      "toNode": "1-1-1-1-s2",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-1/1-1-1-2",
+      "fromNode": "1-1-1",
+      "fromSide": "right",
+      "toNode": "1-1-1-2",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-1-2/1-1-1-2-s1",
+      "fromNode": "1-1-1-2",
+      "fromSide": "right",
+      "toNode": "1-1-1-2-s1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1/1-1-2",
+      "fromNode": "1-1",
+      "fromSide": "right",
+      "toNode": "1-1-2",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-2/1-1-2-1",
+      "fromNode": "1-1-2",
+      "fromSide": "right",
+      "toNode": "1-1-2-1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-2-1/1-1-2-1-s1",
+      "fromNode": "1-1-2-1",
+      "fromSide": "right",
+      "toNode": "1-1-2-1-s1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-2-1/1-1-2-1-s2",
+      "fromNode": "1-1-2-1",
+      "fromSide": "right",
+      "toNode": "1-1-2-1-s2",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-2/1-1-2-2",
+      "fromNode": "1-1-2",
+      "fromSide": "right",
+      "toNode": "1-1-2-2",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-2-2/1-1-2-2-s1",
+      "fromNode": "1-1-2-2",
+      "fromSide": "right",
+      "toNode": "1-1-2-2-s1",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-2-2/1-1-2-2-s2",
+      "fromNode": "1-1-2-2",
+      "fromSide": "right",
+      "toNode": "1-1-2-2-s2",
+      "toSide": "left"
+    },
+    {
+      "id": "1-1-2-2/1-1-2-2-s3",
+      "fromNode": "1-1-2-2",
+      "fromSide": "right",
+      "toNode": "1-1-2-2-s3",
+      "toSide": "left"
+    }
+  ]
+}

@@ -34,15 +34,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 515.1999816894531,
-                  "y": -12.800003051757812,
+                  "x": 707.5999755859375,
+                  "y": 278.0000305175781,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "SPSS Output & Report Writing"
+              "title": "Week 8"
             }
           },
           {
@@ -63,45 +63,42 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": 385.79998779296875,
-                  "y": 113,
+                  "x": 387.5,
+                  "y": 40,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "SPSS Output & Report Writing"
+              "title": "Week 8"
             }
           },
           {
             "id": "dc4da80eff5e3ba6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Pair-sample t-tets.canvas",
-                "viewState": {
-                  "x": 10.223869027056367,
-                  "y": -999.3373682676885,
-                  "zoom": -1.7619802497182928
-                }
+                "file": "Notes/2025/2025-03/Untitled 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Pair-sample t-tets"
+              "icon": "lucide-file",
+              "title": "Untitled 2"
             }
           },
           {
-            "id": "93ca86211aeb9777",
+            "id": "8b8fb8f9ee4a72a9",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "viewState": {
-                  "x": 1423.5100508230576,
-                  "y": 161.6013977438492,
-                  "zoom": -1.3333333333333333
+                  "x": 4842.706541177552,
+                  "y": 921.1474326692879,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -109,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +125,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -166,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -182,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Pair-sample t-tets.canvas",
+                "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pair-sample t-tets"
+              "title": "Backlinks for Untitled 2"
             }
           },
           {
@@ -201,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Pair-sample t-tets.canvas",
+                "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pair-sample t-tets"
+              "title": "Outgoing links from Untitled 2"
             }
           },
           {
@@ -230,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Pair-sample t-tets.canvas",
+                "file": "Notes/2025/2025-03/Untitled 2.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pair-sample t-tets"
+              "title": "Outline of Untitled 2"
             }
           },
           {
@@ -297,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,13 +314,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dc4da80eff5e3ba6",
+  "active": "8b8fb8f9ee4a72a9",
   "lastOpenFiles": [
-    "Classes/STA10003/Week 8.canvas",
-    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 2.md",
-    "Notes/2025/2025-03/Theoretical Foundations.md",
     "Notes/2025/2025-03/Untitled 2.canvas",
+    "Notes/2025/2025-03/Theoretical Foundations.md",
+    "Notes/2025/2025-03/SPSS Output & Report Writing.md",
+    "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
+    "Notes/2025/2025-03/Untitled 3.canvas",
+    "Classes/STA10003/Week 8.canvas",
+    "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
     "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
     "Books/It Didn't Start With You.md",
@@ -330,7 +332,6 @@
     "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "Notes/2025/2025-03/Untitled 1.md",
     "template/Chapter_Note..md",
-    "Notes/Pair-sample t-tets.canvas",
     "Classes/STA10003/Lecture 8.md",
     "Classes/STA10003/Week 8",
     "Books/Never_Split_The_Difference.md",
@@ -350,7 +351,6 @@
     "Notes/2025/2025-03/2.E. Key Lessons.md",
     "Notes/2025/2025-03/2.A. Core Concepts.md",
     "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
-    "Notes/2025/2025-03/2.B. Key Techniques.md",
     "Books",
     "Classes",
     "Classes/COS10026",
@@ -360,7 +360,6 @@
     "mind map/Self-study mindmap/Never Split The Difference.canvas",
     "mind map/excalidraw test",
     "Calendar",
-    "CS/Beginning C++ Game.canvas",
-    "CS/Untitled 1.canvas"
+    "CS/Beginning C++ Game.canvas"
   ]
 }

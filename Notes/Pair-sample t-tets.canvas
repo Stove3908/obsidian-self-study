@@ -674,17 +674,6 @@
     },
     {
       "height": 60,
-      "id": "8fa23b9e38b2406f",
-      "styleAttributes": {
-      },
-      "text": "<center>Paired Samples t-Test</center>",
-      "type": "text",
-      "width": 391,
-      "x": -1160,
-      "y": -930
-    },
-    {
-      "height": 60,
       "id": "97b4b19bd971ed65",
       "styleAttributes": {
       },
@@ -1166,6 +1155,17 @@
       "width": 320,
       "x": 937,
       "y": 3400
+    },
+    {
+      "height": 60,
+      "id": "8fa23b9e38b2406f",
+      "styleAttributes": {
+      },
+      "text": "<center>Paired Samples t-Test</center>",
+      "type": "text",
+      "width": 391,
+      "x": -1120,
+      "y": -930
     }
   ]
 }
