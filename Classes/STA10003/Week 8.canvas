@@ -28,7 +28,8 @@
 		{"id":"dcd3a3ea7bc6179f","type":"text","text":"Check via histogram, Q-Q plot, or Shapiro-Wilk test (SPSS).","x":1717,"y":1249,"width":646,"height":51},
 		{"id":"62c7fb644fa47577","type":"text","text":"Robust for large samples ($>30$) despite skew.","x":1717,"y":1339,"width":646,"height":50},
 		{"id":"ad546a9066afdbd1","type":"text","text":"Normality","x":1326,"y":1249,"width":281,"height":50},
-		{"id":"60784dc54789423e","type":"text","text":"Assumptions","x":960,"y":1135,"width":232,"height":50}
+		{"id":"60784dc54789423e","type":"text","text":"Assumptions","x":960,"y":1135,"width":232,"height":50},
+		{"id":"73ba2bada7fafce3","type":"text","text":"Calculation Steps","x":960,"y":1680,"width":232,"height":50}
 	],
 	"edges":[
 		{"id":"7584fdac8235bac0","fromNode":"397f26ab6de5df70","fromSide":"right","toNode":"8fa23b9e38b2406f","toSide":"left"},
@@ -58,6 +59,7 @@
 		{"id":"8101263a1cc385e9","fromNode":"60784dc54789423e","fromSide":"right","toNode":"ad546a9066afdbd1","toSide":"left"},
 		{"id":"7e53f3fd90087a7e","fromNode":"ad546a9066afdbd1","fromSide":"right","toNode":"4336c334bb43a52f","toSide":"left"},
 		{"id":"c04381b8c7443d08","fromNode":"ad546a9066afdbd1","fromSide":"right","toNode":"dcd3a3ea7bc6179f","toSide":"left"},
-		{"id":"5f7a705030aec4b7","fromNode":"ad546a9066afdbd1","fromSide":"right","toNode":"62c7fb644fa47577","toSide":"left"}
+		{"id":"5f7a705030aec4b7","fromNode":"ad546a9066afdbd1","fromSide":"right","toNode":"62c7fb644fa47577","toSide":"left"},
+		{"id":"e6b313c4c50a7d2b","fromNode":"8fa23b9e38b2406f","fromSide":"right","toNode":"73ba2bada7fafce3","toSide":"left"}
 	]
 }
