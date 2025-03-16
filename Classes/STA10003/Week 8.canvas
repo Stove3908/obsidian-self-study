@@ -1,11 +1,13 @@
 {
 	"nodes":[
 		{"id":"9ab0cf44bffe571b","type":"text","text":"Week 8","x":-45,"y":-37,"width":163,"height":44},
-		{"id":"57420dc66bcb0b84","type":"text","text":"Lecture 8","x":287,"y":-37,"width":215,"height":44},
-		{"id":"f2c749f82833cceb","x":760,"y":-215,"width":400,"height":400,"type":"file","file":"Notes/Pair-sample t-tets.canvas"}
+		{"id":"b432cf809dd0620c","type":"text","text":"[[Pair-sample t-tets.canvas|Pair-sample t-tets]]","x":620,"y":-40,"width":200,"height":50},
+		{"id":"57420dc66bcb0b84","type":"text","text":"Lecture 8","x":260,"y":-40,"width":215,"height":44},
+		{"id":"605b02f7ae07c655","type":"text","text":"[[SPSS Output & Report Writing.canvas|SPSS Output & Report Writing]]","x":620,"y":49,"width":200,"height":71}
 	],
 	"edges":[
 		{"id":"8d913d01317b170c","fromNode":"9ab0cf44bffe571b","fromSide":"right","toNode":"57420dc66bcb0b84","toSide":"left"},
-		{"id":"73e781c9d1b5b4c6","fromNode":"57420dc66bcb0b84","fromSide":"right","toNode":"f2c749f82833cceb","toSide":"left"}
+		{"id":"b36387946e03ba9d","fromNode":"57420dc66bcb0b84","fromSide":"right","toNode":"b432cf809dd0620c","toSide":"left"},
+		{"id":"5c93fa281a6b5bfc","fromNode":"57420dc66bcb0b84","fromSide":"right","toNode":"605b02f7ae07c655","toSide":"left"}
 	]
 }

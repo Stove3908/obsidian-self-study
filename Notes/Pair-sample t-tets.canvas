@@ -64,7 +64,7 @@
 		{"id":"6c3cb17c4f577f4e","type":"text","text":"Compute Difference Scores","x":1473,"y":1679,"width":281,"height":50},
 		{"id":"640d541028be84b2","type":"text","text":"Mean Difference ($M_D$​)","x":1473,"y":1839,"width":281,"height":50},
 		{"id":"8fa23b9e38b2406f","type":"text","text":"<center>Paired Samples t-Test</center>","x":-1480,"y":1724,"width":391,"height":56},
-		{"id":"0fe470b5a21de76e","x":-2073,"y":1550,"width":400,"height":400,"type":"file","file":"Classes/STA10003/Week 8.canvas"}
+		{"id":"97b4b19bd971ed65","x":-1820,"y":1724,"width":189,"height":55,"type":"text","text":"[[Week 8.canvas|Week 8]]"}
 	],
 	"edges":[
 		{"id":"57db43cf17aca5e7","fromNode":"8fa23b9e38b2406f","fromSide":"right","toNode":"b7331af4b6a678c0","toSide":"left"},
@@ -130,6 +130,6 @@
 		{"id":"b909ae077d6dd63c","fromNode":"e6cabaf1985820bc","fromSide":"right","toNode":"1580d64771567e35","toSide":"left"},
 		{"id":"003f3d38320dc018","fromNode":"1580d64771567e35","fromSide":"right","toNode":"9e17e8faf1ed6050","toSide":"left"},
 		{"id":"5d100fd357ef4490","fromNode":"544ef84613f33423","fromSide":"right","toNode":"ab4e2db360f3550f","toSide":"left"},
-		{"id":"883feee8ee8169e2","fromNode":"8fa23b9e38b2406f","fromSide":"left","toNode":"0fe470b5a21de76e","toSide":"right"}
+		{"id":"1f527a1678ce8fa8","fromNode":"8fa23b9e38b2406f","fromSide":"left","toNode":"97b4b19bd971ed65","toSide":"right"}
 	]
 }
