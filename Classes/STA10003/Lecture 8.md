@@ -56,7 +56,7 @@
     - $$s_D^2 = \frac{\sum (D - MD)^2}{n - 1}$$
     - $$s_D = \sqrt{s_D^2}$$
 - **Standard Error ($S_E$)**:
-    - SE=sDnSE = \frac{s_D}{\sqrt{n}}SE=n​sD​​.
+    - $S_{E} = \frac{s_D}{\sqrt{n}}$
 - **t-Statistic**:
     - t=MD−0SEt = \frac{M_D - 0}{SE}t=SEMD​−0​.
 - **Degrees of Freedom**:
