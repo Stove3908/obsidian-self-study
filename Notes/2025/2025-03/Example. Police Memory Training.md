@@ -1,0 +1,12 @@
+- **Data**:
+    - n=15n = 15n=15, MBefore=5.67M_{\text{Before}} = 5.67MBefore​=5.67, MAfter=7.20M_{\text{After}} = 7.20MAfter​=7.20.
+    - MD=1.53M_D = 1.53MD​=1.53, sD=2.20s_D = 2.20sD​=2.20, SE=0.568SE = 0.568SE=0.568.
+- **t-Value**:
+    - t(14)=1.530.568=2.699t(14) = \frac{1.53}{0.568} = 2.699t(14)=0.5681.53​=2.699.
+- **Decision**:
+    - t=2.699>tcrit=2.145t = 2.699 > t_{crit} = 2.145t=2.699>tcrit​=2.145 → Reject H0H_0H0​.
+- **95% Confidence Interval**:
+    - MD±tcrit×SE=1.53±2.145×0.568M_D \pm t_{crit} \times SE = 1.53 \pm 2.145 \times 0.568MD​±tcrit​×SE=1.53±2.145×0.568.
+    - [0.32,2.75][0.32, 2.75][0.32,2.75] (does not include 0 → significant).
+- **Conclusion**:
+    - Training significantly improved recall (p=.017p = .017p=.017).

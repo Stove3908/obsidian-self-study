@@ -72,9 +72,9 @@
               "state": {
                 "file": "CS/Untitled.canvas",
                 "viewState": {
-                  "x": 1363.4446279038586,
-                  "y": 1855.3492627857029,
-                  "zoom": -1.3333333333333333
+                  "x": 1729.548365061948,
+                  "y": -474.30286464962853,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -205,7 +205,7 @@
               "state": {
                 "file": "CS/Untitled.canvas",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -289,9 +289,11 @@
   },
   "active": "b3de1431b457cf01",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Calculation Steps.md",
     "Classes/STA10003/Lecture 8.md",
     "CS/Untitled.canvas",
+    "Notes/2025/2025-03/Key Formulas.md",
+    "Notes/2025/2025-03/Example. Police Memory Training.md",
+    "Notes/2025/2025-03/Calculation Steps.md",
     "Notes/2025/2025-03/Assumptions.md",
     "Notes/2025/2025-03/Hypotheses.md",
     "Notes/2025/2025-03/Research Designs.md",
@@ -316,9 +318,6 @@
     "kanbanTask.md",
     "Notes/2025/2025-03/1.C. Evolution of Negotiation Techniques.md",
     "Notes/2025/2025-03/1.B. Harvard Negotiation Experience.md",
-    "Notes/2025/2025-03/1.A. Introduction to the Author's Experience.md",
-    "Untitled 1.md",
-    "Classes/COS10026/Week 8.md",
     "Classes/COS10026",
     "1.D. Initial Actions",
     "Notes",

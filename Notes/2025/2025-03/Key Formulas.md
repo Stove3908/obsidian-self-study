@@ -1,0 +1,3 @@
+- t=MDSEt = \frac{M_D}{SE}t=SEMD​​.
+- SE=sDnSE = \frac{s_D}{\sqrt{n}}SE=n​sD​​.
+- CI=MD±(tcrit×SE)CI = M_D \pm (t_{crit} \times SE)CI=MD​±(tcrit​×SE).

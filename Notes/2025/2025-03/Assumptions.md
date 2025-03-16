@@ -1,4 +1,4 @@
-- **Independence**:
+- **Independence**: ^c58c07
     - Observations in each condition are independent (no carryover effects).
 - **Normality**:
     - Difference scores ($D$) are approximately normally distributed.
