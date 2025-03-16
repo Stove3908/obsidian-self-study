@@ -62,9 +62,9 @@
               "state": {
                 "file": "Classes/STA10003/Week 8.canvas",
                 "viewState": {
-                  "x": -933.8400280098676,
-                  "y": 1840.9237147294245,
-                  "zoom": -0.6666666666666663
+                  "x": 353.19721566026726,
+                  "y": 54.666403647609485,
+                  "zoom": -0.3333333333333334
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -284,6 +283,8 @@
   "lastOpenFiles": [
     "Classes/STA10003/Lecture 8.md",
     "Classes/STA10003/Week 8.canvas",
+    "Notes/Pair-sample t-tets.canvas",
+    "Classes/STA10003/Week 8",
     "Books/Never_Split_The_Difference.md",
     "template/Chapter_Note..md",
     "Excalidraw/Drawing 2025-03-16 09.44.17.excalidraw.md",
@@ -319,7 +320,6 @@
     "mind map/Self-study mindmap/Never Split The Difference.canvas",
     "mind map/excalidraw test",
     "Calendar",
-    "archive",
     "CS/Beginning C++ Game.canvas",
     "CS/Untitled 1.canvas"
   ]
