@@ -1,16 +1,16 @@
 {
 	"nodes":[
 		{"id":"6ed59fb628319f76","type":"group","x":889,"y":-1240,"width":2404,"height":1760,"label":"Paired Samples t-Test"},
-		{"id":"da0a85c3afb88ecf","type":"text","text":"Week 8","x":240,"y":-44,"width":183,"height":44},
+		{"id":"da0a85c3afb88ecf","type":"text","text":"Week 8","collapsed":false,"x":240,"y":-44,"width":183,"height":44},
 		{"id":"d1e18e7fe81d8c8b","type":"file","file":"Notes/2025/2025-03/Definition & Purpose.md","x":909,"y":-1220,"width":533,"height":260},
 		{"id":"27529f0502c24a87","type":"file","file":"Notes/2025/2025-03/Research Designs.md","x":1522,"y":-1220,"width":533,"height":360},
 		{"id":"7242fc180ad4b2f6","type":"file","file":"Notes/2025/2025-03/Assumptions.md","x":909,"y":-780,"width":533,"height":360},
-		{"id":"d7f16a354d4571e0","type":"file","file":"Notes/2025/2025-03/Key Formulas.md","x":909,"y":-60,"width":533,"height":200},
-		{"id":"bb253a4c17cbae36","type":"file","file":"Notes/2025/2025-03/Calculation Steps.md","x":1522,"y":-60,"width":533,"height":680},
-		{"id":"ef28e4de63d68896","type":"file","file":"Notes/2025/2025-03/Hypotheses.md","x":1522,"y":-780,"width":533,"height":320},
+		{"id":"ef28e4de63d68896","type":"file","file":"Notes/2025/2025-03/Hypotheses.md","x":1522,"y":-780,"width":533,"height":360},
 		{"id":"5b2eb3605626663a","type":"file","file":"Notes/2025/2025-03/Example. Police Memory Training.md","x":2135,"y":-780,"width":533,"height":640},
 		{"id":"5b476eb850d64a66","type":"text","text":"STA10003","x":-99,"y":-44,"width":177,"height":68},
-		{"id":"4a3a465246b1bc84","type":"text","text":"Paired Samples t-Test","x":560,"y":-48,"width":267,"height":48}
+		{"id":"4a3a465246b1bc84","type":"text","text":"Paired Samples t-Test","x":560,"y":-48,"width":267,"height":48},
+		{"id":"d7f16a354d4571e0","type":"file","file":"Notes/2025/2025-03/Key Formulas.md","collapsed":false,"x":909,"y":-60,"width":533,"height":200},
+		{"id":"bb253a4c17cbae36","type":"file","file":"Notes/2025/2025-03/Calculation Steps.md","collapsed":false,"x":1522,"y":-60,"width":533,"height":680}
 	],
 	"edges":[
 		{"id":"0dddbe451cca74f3","fromNode":"5b476eb850d64a66","fromSide":"right","toNode":"da0a85c3afb88ecf","toSide":"left"},
