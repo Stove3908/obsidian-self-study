@@ -12,4 +12,3 @@
 - [[Animal Research Findings]]
 - [[Human Implications & Cases]]
 - [[Mitigation & Future Directions]]
-- 
