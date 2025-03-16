@@ -29,6 +29,20 @@
             }
           },
           {
+            "id": "dc4da80eff5e3ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025/2025-03/Implications & Resilience.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Implications & Resilience"
+            }
+          },
+          {
             "id": "383ad6e036fe3231",
             "type": "leaf",
             "state": {
@@ -44,35 +58,9 @@
               "icon": "lucide-layout-dashboard",
               "title": "Week 8"
             }
-          },
-          {
-            "id": "dc4da80eff5e3ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/Implications & Resilience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Implications & Resilience"
-            }
-          },
-          {
-            "id": "f4b1f2296e7135e2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "pinned": true,
-              "icon": "dot-network",
-              "title": "Mindmap"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Implications & Resilience.md",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Implications & Resilience"
+              "title": "Backlinks for Week 8"
             }
           },
           {
@@ -164,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Implications & Resilience.md",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Implications & Resilience"
+              "title": "Outgoing links from Week 8"
             }
           },
           {
@@ -193,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Implications & Resilience.md",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Implications & Resilience"
+              "title": "Outline of Week 8"
             }
           },
           {
@@ -279,15 +267,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f4b1f2296e7135e2",
+  "active": "383ad6e036fe3231",
   "lastOpenFiles": [
-    "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/20250316231201.md",
     "Notes/2025/2025-03/Implications & Resilience.md",
+    "Classes/STA10003/Week 8.canvas",
+    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/Case Studies.md",
     "Notes/2025/2025-03/Therapeutic Approaches.md",
     "Notes/2025/2025-03/to-change folder location.md",
     "Notes/2025/2025-03/Neuroscience Insights.md",
-    "Classes/STA10003/Week 8.canvas",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
     "Notes/2025/2025-03/Theoretical Foundations.md",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
@@ -314,8 +303,6 @@
     "Notes/2025/2025-03/Assumptions.md",
     "Notes/2025/2025-03/Hypotheses.md",
     "Notes/2025/2025-03/Research Designs.md",
-    "Notes/2025/2025-03/Definition & Purpose.md",
-    "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
     "Classes/STA10003",
     "Books",
     "Classes",

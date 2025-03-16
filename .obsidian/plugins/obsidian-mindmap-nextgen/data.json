@@ -3,10 +3,7 @@
   "layout": [
     null,
     null,
-    null,
-    {
-      "type": "unpinned"
-    }
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",
