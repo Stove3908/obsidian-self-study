@@ -3,7 +3,7 @@
 
 ### **Paired Samples t-Test**
 
-#### **Definition & Purpose**
+	#### **Definition & Purpose**
 
 - Tests **mean differences** between two related conditions.
 - Used for **dependent samples** (same participants or matched pairs).

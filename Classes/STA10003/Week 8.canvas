@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"397f26ab6de5df70","type":"text","text":"Week 8","x":-118,"y":-74,"width":173,"height":44},
+		{"id":"8fa23b9e38b2406f","type":"text","text":"Paired Samples t-Test","x":219,"y":-74,"width":267,"height":48},
+		{"id":"b7331af4b6a678c0","type":"text","text":"Definition & Purpose","x":960,"y":-794,"width":260,"height":48},
+		{"id":"dd547fbaef939c80","type":"text","text":"Tests **mean differences** between two related conditions.","x":1340,"y":-920,"width":657,"height":50},
+		{"id":"046a1d0ea469bdf1","type":"text","text":"Used for **dependent samples** (same participants or matched pairs).","x":1340,"y":-840,"width":657,"height":50},
+		{"id":"3e6268e3aaa79be5","type":"text","text":"Focuses on **difference scores** (e.g., post-test − pre-test).","x":1340,"y":-760,"width":657,"height":50},
+		{"id":"5b0cd6495b8b767f","type":"text","text":"More sensitive than independent t-test (controls for individual differences).","x":1340,"y":-680,"width":657,"height":57},
+		{"id":"de67dd2b9e0dbc0d","type":"text","text":"Research Designs","x":960,"y":-200,"width":232,"height":48},
+		{"id":"1be4eec27368aea4","type":"text","text":"**Repeated Measures**","x":1340,"y":-200,"width":267,"height":48},
+		{"id":"e321048ea1436ec2","type":"text","text":"Same participants measured twice (e.g., before/after intervention).","x":1720,"y":-202,"width":636,"height":50},
+		{"id":"1c79790f05cae57b","type":"text","text":"Example: Police officers’ license plate recall before vs. after training.","x":1720,"y":-113,"width":636,"height":62},
+		{"id":"f1cf67ea6122a601","type":"text","text":"Matched Pairs","x":1340,"y":-128,"width":267,"height":50}
+	],
+	"edges":[
+		{"id":"7584fdac8235bac0","fromNode":"397f26ab6de5df70","fromSide":"right","toNode":"8fa23b9e38b2406f","toSide":"left"},
+		{"id":"57db43cf17aca5e7","fromNode":"8fa23b9e38b2406f","fromSide":"right","toNode":"b7331af4b6a678c0","toSide":"left"},
+		{"id":"0c8cf69154e4ad3b","fromNode":"b7331af4b6a678c0","fromSide":"right","toNode":"dd547fbaef939c80","toSide":"left"},
+		{"id":"225bb90e12970da3","fromNode":"b7331af4b6a678c0","fromSide":"right","toNode":"046a1d0ea469bdf1","toSide":"left"},
+		{"id":"cd7cb0dc1751d64a","fromNode":"b7331af4b6a678c0","fromSide":"right","toNode":"3e6268e3aaa79be5","toSide":"left"},
+		{"id":"b4069d754fbd717a","fromNode":"b7331af4b6a678c0","fromSide":"right","toNode":"5b0cd6495b8b767f","toSide":"left"},
+		{"id":"749a48c0ea7c55f3","fromNode":"8fa23b9e38b2406f","fromSide":"right","toNode":"de67dd2b9e0dbc0d","toSide":"left"},
+		{"id":"c16656b12ffd9e84","fromNode":"de67dd2b9e0dbc0d","fromSide":"right","toNode":"1be4eec27368aea4","toSide":"left"},
+		{"id":"c1fe7c022917e455","fromNode":"1be4eec27368aea4","fromSide":"right","toNode":"e321048ea1436ec2","toSide":"left"},
+		{"id":"b1fbb39177c624d8","fromNode":"1be4eec27368aea4","fromSide":"right","toNode":"1c79790f05cae57b","toSide":"left"},
+		{"id":"3e3f382d60ef4027","fromNode":"de67dd2b9e0dbc0d","fromSide":"right","toNode":"f1cf67ea6122a601","toSide":"left"}
+	]
+}

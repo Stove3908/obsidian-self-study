@@ -59,18 +59,6 @@
             }
           },
           {
-            "id": "f022da17a5f6a691",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-03-16 09.44.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-16 09.44.17.excalidraw"
-            }
-          },
-          {
             "id": "16c1cec2737e6788",
             "type": "leaf",
             "state": {
@@ -81,7 +69,30 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "cc7a17bd63bafde0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383ad6e036fe3231",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Classes/STA10003/Week 8.canvas",
+                "viewState": {
+                  "x": 1653.199951171875,
+                  "y": -47.79998779296875,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Week 8"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -202,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-16 09.44.17.excalidraw.md",
+                "file": "Classes/STA10003/Week 8.canvas",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-03-16 09.44.17.excalidraw"
+              "title": "Outline of Week 8"
             }
           },
           {
@@ -288,14 +300,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f022da17a5f6a691",
+  "active": "383ad6e036fe3231",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-03-16 09.44.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-16 09.44.17.excalidraw.md",
     "Classes/STA10003/Lecture 8.md",
+    "Classes/STA10003/Week 8.canvas",
+    "Books/Never_Split_The_Difference.md",
+    "template/Chapter_Note..md",
+    "Excalidraw/Drawing 2025-03-16 09.44.17.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-16 09.44.18.excalidraw.md",
     "Classes/COS10026/Week 8.md",
     "CS/Untitled.canvas",
-    "template/Chapter_Note..md",
     "Notes/2025/2025-03/Key Formulas.md",
     "Notes/2025/2025-03/Example. Police Memory Training.md",
     "Notes/2025/2025-03/Calculation Steps.md",
@@ -306,7 +320,6 @@
     "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
     "Classes/STA10003",
     "Notes/2025/2025-03/2.E. Key Lessons.md",
-    "Books/Never_Split_The_Difference.md",
     "Notes/2025/2025-03/2.A. Core Concepts.md",
     "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
     "Notes/2025/2025-03/2.B. Key Techniques.md",
@@ -319,7 +332,6 @@
     "Books/Adult Children of Emotionally Immature Parents.md",
     "Books",
     "Classes",
-    "kanbanTask.md",
     "Classes/COS10026",
     "1.D. Initial Actions",
     "Notes",
