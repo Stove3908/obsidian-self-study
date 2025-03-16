@@ -1,0 +1,62 @@
+- [[It Didn't Start With You]]
+
+
+#### **DNA Methylation**
+
+- **Process**:
+    - Methyl groups attach to DNA, suppressing gene expression (e.g., silencing stress-response genes).
+    - Escapes "reprogramming" during fertilization, allowing inherited stress patterns.
+- **Key Studies**:
+    - **Yehuda’s Holocaust Study (2015)**:
+        - Survivors and their children shared identical methylation patterns in the _FKBP5_ gene (linked to PTSD and cortisol regulation).
+        - Changes observed _only_ in families exposed to trauma (not in control groups).
+    - **9/11 Study**:
+        - Mothers with PTSD had children with low cortisol levels and 16 differentially expressed genes.
+        - Children exhibited hypervigilance (e.g., distress at loud noises).
+
+
+
+#### **MicroRNA**
+
+- **Role**: Noncoding RNA molecules regulate gene expression by blocking mRNA.
+- **Animal Research**:
+    - **Mansuy’s Mouse Study (2014)**:
+        - Traumatized males passed stress behaviors (e.g., depression) to 3 generations.
+        - High microRNA levels found in sperm, blood, and hippocampi of offspring.
+    - **Zaidan’s Rat Study (2013)**:
+        - Mild stress in adolescent female rats altered CRF1 gene expression in their eggs and offspring.
+        - Changes occurred _independently_ of maternal care post-birth.
+
+
+
+#### **Key Genes Affected**
+
+- **CRF1/CRF2**:
+    - Encode corticotropin-releasing hormone receptors (regulate stress response).
+    - Elevated in depression/anxiety; inherited via maternal eggs (Zaidan study).
+- **FKBP5**:
+    - Modifies glucocorticoid receptor sensitivity (cortisol regulation).
+    - Methylation changes linked to transgenerational PTSD (Yehuda’s Holocaust study).
+
+
+
+#### **Rachel Yehuda’s Research**
+
+- **Parental PTSD Transmission**:
+    - **Maternal PTSD**: Children struggle to self-soothe; mothers often overattached (e.g., Holocaust survivors’ fear of losing children).
+    - **Paternal PTSD**: Children prone to dissociation, chronic stress, and depression.
+- **Generational Timing**:
+    - Maternal trauma during _childhood_ vs. _adulthood_ alters cortisol metabolism differently in offspring.
+- **Human vs. Animal Findings**:
+    - Confirmed 3–4 generation epigenetic effects in humans (mirroring mouse studies).
+
+
+
+#### **Environmental Mismatch**
+
+- **Adaptive vs. Harmful**:
+    - Epigenetic changes prepare offspring for similar stressors (e.g., warzone startle reflexes).
+    - **Mismatch Example**: A child inherits hypervigilance but grows up in safety → chronic anxiety, immune dysfunction.
+- **Stress Disorders**:
+    - High rates of PTSD, addiction, and suicide in descendants of Cambodian genocide survivors, Native American tribes, and Rwandan youth.
+
