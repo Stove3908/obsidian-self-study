@@ -1,0 +1,32 @@
+- [[It Didn't Start With You]]
+
+- **Freud's Repetition Compulsion**
+	
+	- _Core Concept_: Unconscious drive to reenact unresolved trauma to "master" or resolve it.
+	- _Key Quote_: "Repetition compulsion is an attempt to replay what’s unresolved, so we can ‘get it right.’"
+	- _Example_: Families repeating traumas (e.g., abandonment, suicide) across generations.
+	- _Mechanism_: Fragments of blocked experiences resurface in behaviors, gestures, or symptoms.
+	- _Implication_: Future generations may inherit roles (e.g., Jesse reliving his uncle’s fatal hypothermia).
+- **Jung's Unconscious Patterns**
+	
+	- _Core Concept_: Unprocessed trauma remains in the unconscious and shapes fate.
+	- _Key Quote_: "What remains unconscious is experienced as fate."
+	- _Process_: Suppressed trauma resurfaces as symptoms (e.g., Gretchen’s suicidal urges mirroring Holocaust trauma).
+	- _Resolution_: Bringing patterns to awareness breaks cyclical reenactment.
+	- _Family Impact_: Silent traumas (e.g., a child’s death, conversion to hide identity) manifest as unexplained anxiety/depression.
+- **Memory Fragmentation**
+	
+	- _Trauma Response_:
+		- Disruption of linear memory during overwhelming events.
+		- Memories split into fragments (images, bodily sensations, words).
+	- _Consequences_:
+		- "Speechless terror" (van der Kolk): Inability to articulate trauma due to impaired speech centers.
+		- Triggers reactivate fragments (e.g., Jesse’s fear of sleep tied to uncle’s death).
+	- _Storage_: Fragments lodge in the unconscious, resurfacing as reenactments.
+	- _Example_: Gretchen’s "vaporize" language echoing family incineration in Auschwitz.
+- **Intergenerational Transmission**
+	
+	- _Freud & Jung’s Legacy_:
+		- Unresolved traumas create a "secret language" of suffering passed through families.
+		- Symptoms (e.g., insomnia, depression) act as clues to ancestral wounds.
+	- _Thematic Anchor_: Faulkner’s quote, "The past is never dead. It’s not even past," underscores trauma’s timeless grip.

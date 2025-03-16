@@ -3,6 +3,10 @@
   "layout": [
     null,
     null,
+    {
+      "type": "unpinned"
+    },
+    null,
     null
   ],
   "settings": {
