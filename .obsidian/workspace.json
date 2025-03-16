@@ -60,15 +60,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
+                "file": "Notes/Pair-sample t-tets.canvas",
                 "viewState": {
-                  "x": 491.2845704186931,
-                  "y": 65.75361660731062,
-                  "zoom": -0.3333333333333334
+                  "x": -1873,
+                  "y": 1750,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Week 8"
+              "title": "Pair-sample t-tets"
             }
           }
         ],
@@ -280,8 +280,8 @@
   },
   "active": "383ad6e036fe3231",
   "lastOpenFiles": [
-    "Classes/STA10003/Lecture 8.md",
     "Classes/STA10003/Week 8.canvas",
+    "Classes/STA10003/Lecture 8.md",
     "Notes/Pair-sample t-tets.canvas",
     "Classes/STA10003/Week 8",
     "Books/Never_Split_The_Difference.md",
