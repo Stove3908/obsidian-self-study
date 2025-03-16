@@ -34,33 +34,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Implications & Resilience.md",
+                "file": "Notes/2025/2025-03/Shared Biological Environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Implications & Resilience"
+              "title": "Shared Biological Environment"
             }
           },
           {
-            "id": "383ad6e036fe3231",
+            "id": "202c456f0dab7597",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
-                "viewState": {
-                  "x": 526.7999877929688,
-                  "y": 26,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Week 8"
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "pinned": true,
+              "icon": "dot-network",
+              "title": "Mindmap"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
+                "file": "Notes/2025/2025-03/Shared Biological Environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Week 8"
+              "title": "Backlinks for Shared Biological Environment"
             }
           },
           {
@@ -152,12 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
+                "file": "Notes/2025/2025-03/Shared Biological Environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Week 8"
+              "title": "Outgoing links from Shared Biological Environment"
             }
           },
           {
@@ -181,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/STA10003/Week 8.canvas",
+                "file": "Notes/2025/2025-03/Shared Biological Environment.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Week 8"
+              "title": "Outline of Shared Biological Environment"
             }
           },
           {
@@ -267,18 +262,19 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "383ad6e036fe3231",
+  "active": "dc4da80eff5e3ba6",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/20250316231201.md",
-    "Notes/2025/2025-03/Implications & Resilience.md",
     "Classes/STA10003/Week 8.canvas",
+    "Notes/2025/2025-03/Shared Biological Environment.md",
     "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/Theoretical Foundations.md",
+    "Notes/2025/2025-03/Implications & Resilience.md",
+    "Notes/2025/2025-03/20250316231201.md",
     "Notes/2025/2025-03/Case Studies.md",
     "Notes/2025/2025-03/Therapeutic Approaches.md",
     "Notes/2025/2025-03/to-change folder location.md",
     "Notes/2025/2025-03/Neuroscience Insights.md",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
-    "Notes/2025/2025-03/Theoretical Foundations.md",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.md",
     "Notes/2025/2025-03/Untitled 3.canvas",
@@ -302,7 +298,6 @@
     "Notes/2025/2025-03/Calculation Steps.md",
     "Notes/2025/2025-03/Assumptions.md",
     "Notes/2025/2025-03/Hypotheses.md",
-    "Notes/2025/2025-03/Research Designs.md",
     "Classes/STA10003",
     "Books",
     "Classes",
