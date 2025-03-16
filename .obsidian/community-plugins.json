@@ -14,5 +14,8 @@
   "obsidian-git",
   "obsidian-mindmap-nextgen",
   "remember-cursor-position",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-trash-explorer",
+  "quick-latex",
+  "obsidian-latex-suite"
 ]
