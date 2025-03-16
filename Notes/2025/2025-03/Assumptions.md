@@ -1,0 +1,6 @@
+- **Independence**:
+    - Observations in each condition are independent (no carryover effects).
+- **Normality**:
+    - Difference scores ($D$) are approximately normally distributed.
+    - Check via histogram, Q-Q plot, or Shapiro-Wilk test (SPSS).
+    - Robust for large samples ($>30$) despite skew.

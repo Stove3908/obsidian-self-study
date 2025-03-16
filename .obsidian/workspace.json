@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "c2d1f7185e649030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b290324ae05de24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/STA10003/Lecture 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 8"
+            }
+          }
+        ]
+      },
+      {
         "id": "137d42ba83711b50",
         "type": "tabs",
         "children": [
@@ -45,33 +65,24 @@
             }
           },
           {
-            "id": "0e3ed60dd1c0da4f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "pinned": true,
-              "icon": "dot-network",
-              "title": "Mindmap"
-            }
-          },
-          {
             "id": "b3de1431b457cf01",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Classes/STA10003/Lecture 8.md",
-                "mode": "source",
-                "source": false
+                "file": "CS/Untitled.canvas",
+                "viewState": {
+                  "x": 1363.4446279038586,
+                  "y": 1855.3492627857029,
+                  "zoom": -1.3333333333333333
+                }
               },
-              "icon": "lucide-file",
-              "title": "Lecture 8"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20250310224251",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/Chapter_Note..md",
+                "file": "CS/Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter_Note."
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -256,12 +267,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,12 +289,18 @@
   },
   "active": "b3de1431b457cf01",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
+    "Notes/2025/2025-03/Calculation Steps.md",
     "Classes/STA10003/Lecture 8.md",
+    "CS/Untitled.canvas",
+    "Notes/2025/2025-03/Assumptions.md",
+    "Notes/2025/2025-03/Hypotheses.md",
+    "Notes/2025/2025-03/Research Designs.md",
+    "Notes/2025/2025-03/Definition & Purpose.md",
+    "template/Chapter_Note..md",
+    "Notes/2025/2025-03/2.D. Active Listening, The Solution.md",
     "Classes/STA10003",
     "Notes/2025/2025-03/2.E. Key Lessons.md",
     "Books/Never_Split_The_Difference.md",
-    "template/Chapter_Note..md",
     "Notes/2025/2025-03/2.A. Core Concepts.md",
     "Notes/2025/2025-03/2.C. The Problem with Traditional Negotiation (and Thinking).md",
     "Notes/2025/2025-03/2.B. Key Techniques.md",
@@ -303,12 +319,7 @@
     "Notes/2025/2025-03/1.A. Introduction to the Author's Experience.md",
     "Untitled 1.md",
     "Classes/COS10026/Week 8.md",
-    "Notes/2025/2025-03/Untitled.md",
-    "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
     "Classes/COS10026",
-    "Books/It Didn't Start With You.md",
-    "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
-    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",

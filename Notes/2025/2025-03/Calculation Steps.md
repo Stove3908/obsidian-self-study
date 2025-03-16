@@ -1,0 +1,15 @@
+- **Compute Difference Scores**:
+    - $$D = X_{\text{After}} - X_{\text{Before}}$$
+- **Mean Difference ($M_D$​)**:
+    - $$M_D = \frac{\sum D}{n}$$
+- **Variance ($s_D^2$​) & Standard Deviation ($s_D$​)**:
+    - $$s_D^2 = \frac{\sum (D - MD)^2}{n - 1}$$
+    - $$s_D = \sqrt{s_D^2}$$
+- **Standard Error ($S_E$)**:
+    - SE=sDnSE = \frac{s_D}{\sqrt{n}}SE=n​sD​​.
+- **t-Statistic**:
+    - t=MD−0SEt = \frac{M_D - 0}{SE}t=SEMD​−0​.
+- **Degrees of Freedom**:
+    - df=n−1df = n - 1df=n−1.
+- **Critical Value**:
+    - Use t-table (e.g., tcrit=2.145t_{crit} = 2.145tcrit​=2.145 for df=14df=14df=14, α=.05\alpha=.05α=.05).

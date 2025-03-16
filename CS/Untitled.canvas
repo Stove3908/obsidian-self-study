@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"5b476eb850d64a66","type":"text","text":"STA10003","x":-99,"y":-44,"width":177,"height":68},
+		{"id":"da0a85c3afb88ecf","type":"text","text":"Week 8","x":240,"y":-44,"width":183,"height":44},
+		{"id":"4a3a465246b1bc84","type":"text","text":"Paired Samples t-Test","x":582,"y":-44,"width":267,"height":48},
+		{"id":"d1e18e7fe81d8c8b","type":"file","file":"Notes/2025/2025-03/Definition & Purpose.md","x":1080,"y":-600,"width":474,"height":320},
+		{"id":"27529f0502c24a87","type":"file","file":"Notes/2025/2025-03/Research Designs.md","x":1233,"y":-160,"width":474,"height":360},
+		{"id":"ef28e4de63d68896","type":"file","file":"Notes/2025/2025-03/Hypotheses.md","x":1080,"y":320,"width":474,"height":320},
+		{"id":"7242fc180ad4b2f6","x":1107,"y":840,"width":533,"height":360,"type":"file","file":"Notes/2025/2025-03/Assumptions.md"},
+		{"id":"bb253a4c17cbae36","x":1055,"y":1654,"width":348,"height":920,"type":"file","file":"Notes/2025/2025-03/Calculation Steps.md"}
+	],
+	"edges":[
+		{"id":"0dddbe451cca74f3","fromNode":"5b476eb850d64a66","fromSide":"right","toNode":"da0a85c3afb88ecf","toSide":"left"},
+		{"id":"e18fa2af8c532c85","fromNode":"da0a85c3afb88ecf","fromSide":"right","toNode":"4a3a465246b1bc84","toSide":"left"},
+		{"id":"e4c2ee821339af44","fromNode":"4a3a465246b1bc84","fromSide":"right","toNode":"d1e18e7fe81d8c8b","toSide":"left"},
+		{"id":"e70fa08beb431a28","fromNode":"4a3a465246b1bc84","fromSide":"right","toNode":"27529f0502c24a87","toSide":"left"},
+		{"id":"28215d09f5f3f35c","fromNode":"4a3a465246b1bc84","fromSide":"right","toNode":"ef28e4de63d68896","toSide":"left"},
+		{"id":"f425a05e4f90fbba","fromNode":"4a3a465246b1bc84","fromSide":"right","toNode":"7242fc180ad4b2f6","toSide":"left"}
+	]
+}
