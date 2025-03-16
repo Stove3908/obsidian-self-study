@@ -204,13 +204,6 @@
       "toSide": "left"
     },
     {
-      "fromNode": "2-2-2",
-      "fromSide": "right",
-      "id": "2-2-2/2-2-2-s7",
-      "toNode": "2-2-2-s7",
-      "toSide": "left"
-    },
-    {
       "fromNode": "2",
       "fromSide": "right",
       "id": "2/2-3",
@@ -846,17 +839,6 @@
       "width": 800,
       "x": 4000,
       "y": 2280
-    },
-    {
-      "height": 60,
-      "id": "2-2-2-s7",
-      "styleAttributes": {
-      },
-      "text": "---",
-      "type": "text",
-      "width": 800,
-      "x": 4000,
-      "y": 2400
     },
     {
       "height": 60,
