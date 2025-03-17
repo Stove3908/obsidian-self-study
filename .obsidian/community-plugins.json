@@ -28,5 +28,6 @@
   "node-auto-resize",
   "advanced-canvas",
   "optimize-canvas-connections",
-  "canvas-mindmap-helper"
+  "canvas-mindmap-helper",
+  "table-editor-obsidian"
 ]

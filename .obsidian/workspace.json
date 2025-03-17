@@ -19,6 +19,9 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -67,9 +70,31 @@
               "icon": "lucide-file",
               "title": "The Self-driven Child mindmap"
             }
+          },
+          {
+            "id": "96b5caead1255fff",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "kanbanTask.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "kanbanTask"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/The Self-driven Child mindmap.md",
+                "file": "kanbanTask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Self-driven Child mindmap"
+              "title": "Backlinks for kanbanTask"
             }
           },
           {
@@ -161,12 +186,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/The Self-driven Child mindmap.md",
+                "file": "kanbanTask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Self-driven Child mindmap"
+              "title": "Outgoing links from kanbanTask"
             }
           },
           {
@@ -190,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/The Self-driven Child mindmap.md",
+                "file": "kanbanTask.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Self-driven Child mindmap"
+              "title": "Outline of kanbanTask"
             }
           },
           {
@@ -273,21 +298,23 @@
       "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7b63484fdc13944",
+  "active": "96b5caead1255fff",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "kanbanTask.md",
+    "Books/The Self-driven Child mindmap.md",
     "Notes/2025/2025-03/Effects of Chronic Stress.md",
     "Classes/COS10025/Presentation (my part).md",
-    "Books/The Self-driven Child mindmap.md",
     "Notes/2025/2025-03/Introduction, Examples.md",
     "Personal/idea.md",
     "Notes/2025/2025-03/20250310212505.md",
     "Notes/2025/2025-03/20250310212606.md",
     "Classes/COS10025/Presentation feedback.md",
     "Personal",
-    "kanbanTask.md",
     "az thumb - sara.jpg",
     "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/Animal Research Findings.md",
@@ -312,7 +339,6 @@
     "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
     "Notes/2025/2025-03/Chapter 3. The Family Mind.md",
     "Notes/2025/2025-03/Chapter 2. Three Generations of Shared Family History.md",
-    "Notes/2025/2025-03/Chapter 1. Traumas Lost and Found.md",
     "Classes/STA10003/Week 8",
     "CS/Untitled.canvas",
     "Classes/STA10003",
