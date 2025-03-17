@@ -18,7 +18,7 @@ kanban-plugin: board
 
 ## COS10025
 
-- [ ] - [x] Submit before Friday
+- [ ] Submit before Friday
 - [ ] FIx diagram
 - [ ] Reformat font
 - [ ] Split Tech + Approach
