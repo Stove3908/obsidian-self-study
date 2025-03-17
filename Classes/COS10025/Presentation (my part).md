@@ -38,5 +38,3 @@
 	- **Training**: Requires community upskilling for maintenance.  
 	- **Financing**: Reliance on grants/loans for scalability.
 
-
-
