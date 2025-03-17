@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -262,7 +263,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dc4da80eff5e3ba6",
+  "active": "202c456f0dab7597",
   "lastOpenFiles": [
     "Books/It Didn't Start With You.md",
     "Classes/COS10025/Presentation (my part).md",
