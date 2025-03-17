@@ -2,3 +2,4 @@
 - <2' demonstration
 - split approach and device (device can just list them, where implemented, why (if there's is))
 - more reference, statistics
+- if special tech --> should have demon
