@@ -69,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/idea.md",
+                "file": "Classes/COS10025/Presentation (my part).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for idea"
+              "title": "Backlinks for Presentation (my part)"
             }
           },
           {
@@ -161,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/idea.md",
+                "file": "Classes/COS10025/Presentation (my part).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from idea"
+              "title": "Outgoing links from Presentation (my part)"
             }
           },
           {
@@ -190,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/idea.md",
+                "file": "Classes/COS10025/Presentation (my part).md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of idea"
+              "title": "Outline of Presentation (my part)"
             }
           },
           {
@@ -276,10 +276,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "41c2ffaf4775952c",
+  "active": "dc4da80eff5e3ba6",
   "lastOpenFiles": [
-    "Classes/COS10025/Presentation (my part).md",
     "Personal/idea.md",
+    "Classes/COS10025/Presentation (my part).md",
     "Personal",
     "kanbanTask.md",
     "az thumb - sara.jpg",

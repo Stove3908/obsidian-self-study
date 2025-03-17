@@ -25,11 +25,11 @@
 ## **Slide 3: Technologies per Approach**
 
 1. **Analyze**:
-    - _R-SAM-PRO Sensor_: Monitors water quality (40% cost reduction).
-    - _Capacitive Soil Sensor_: Durable, low-power moisture detection.
+    - _R-SAM-PRO Sensor_: Monitors water quality (40% cost reduction)(Satyam, 2024).
+    - _Capacitive Soil Sensor_: Durable, low-power moisture detection (Adla et al., 2020).
 2. **Reduce**:
     - _HDPE Solar Still Basin_: Corrosion-resistant, modular design.
-    - _Canadian Solar 400W Panels_: High efficiency, 25-year lifespan.
+    - _Canadian Solar 400W Panels_: High efficiency, 25-year lifespan (Canadian Solar, 2024).
 3. **Prevent**:
     - _Orbit B-hyve Controller_: Adjusts irrigation in real time.
     - _Dorot Valves_: Precise flow control via ESP32 commands.
@@ -39,8 +39,8 @@
 ## **Slide 4: Benefits, Impacts, & Constraints**  
 ### **Benefits**:
 
-- Clean water access (WHO compliant).
-- 30–50% less water waste via smart irrigation.  
+- Clean water access.
+- 30–50% less water waste via smart irrigation (Dukes et al., 2010; EPA WaterSense, 2024).  
 ### **Impacts**:
 - Reduces waterborne diseases; saves time for education/economic activities.
 - Trains locals in solar/IoT tech; boosts agriculture.  
