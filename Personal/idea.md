@@ -1,0 +1,1 @@
+a timer app that send recorded time to a spreadsheet for analysis, storage (by date,...)
