@@ -1,14 +1,17 @@
 # It Didn't Start With You
 ## Chapter 1. Trauma Lost and Found
-- [[Theoretical Foundations]]
-- [[Neuroscience Insights]]
-- [[Case Studies]]
-- [[Therapeutic Approaches]]
-- [[Implications & Resilience]]
+- [[1.1. Theoretical Foundations]]
+- [[1.2. Neuroscience Insights]]
+- [[1.3. Case Studies]]
+- [[1.4. Therapeutic Approaches]]
+- [[1.5. Implications & Resilience]]
 
 ## Chapter 2. Three Generations of Shared Family History: The Family Body
-- [[Shared Biological Environment]]
-- [[Epigenetic Mechanisms]]
-- [[Animal Research Findings]]
-- [[Human Implications & Cases]]
-- [[Mitigation & Future Directions]]
+- [[2.1. Shared Biological Environment]]
+- [[2.2. Epigenetic Mechanisms]]
+- [[2.3. Animal Research Findings]]
+- [[2.4. Human Implications & Cases]]
+- [[2.5. Mitigation & Future Directions]]
+
+## Chapter 3. The Family Mind
+

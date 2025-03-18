@@ -58,6 +58,20 @@
             }
           },
           {
+            "id": "da9705c3b83b4819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/It Didn't Start With You.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "It Didn't Start With You"
+            }
+          },
+          {
             "id": "7fce44f12702c211",
             "type": "leaf",
             "state": {
@@ -103,16 +117,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Neuroscience Insights.md",
+                "file": "Notes/2025/2025-03/1.2. Neuroscience Insights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Neuroscience Insights"
+              "title": "1.2. Neuroscience Insights"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
+                "file": "Books/It Didn't Start With You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1. Making Sense of the World"
+              "title": "Backlinks for It Didn't Start With You"
             }
           },
           {
@@ -234,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
+                "file": "Books/It Didn't Start With You.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1. Making Sense of the World"
+              "title": "Outline of It Didn't Start With You"
             }
           },
           {
@@ -321,15 +334,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7a35a208c4aca35",
+  "active": "da9705c3b83b4819",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Neuroscience Insights.md",
+    "Notes/2025/2025-03/2.4. Human Implications & Cases.md",
     "Books/It Didn't Start With You.md",
-    "Notes/2025/2025-03/Theoretical Foundations.md",
+    "Notes/2025/2025-03/2.3. Animal Research Findings.md",
+    "Notes/2025/2025-03/2.2. Epigenetic Mechanisms.md",
+    "Notes/2025/2025-03/2.1. Shared Biological Environment.md",
+    "Notes/2025/2025-03/1.5. Implications & Resilience.md",
+    "Notes/2025/2025-03/1.4. Therapeutic Approaches.md",
+    "Notes/2025/2025-03/1.3. Case Studies.md",
+    "Notes/2025/2025-03/1.2. Neuroscience Insights.md",
+    "Notes/2025/2025-03/1.1. Theoretical Foundations.md",
+    "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
     "Notes/2025/2025-03/Untitled 3.md",
     "Notes/2025/2025-03/Untitled 2.md",
     "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
-    "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
     "Notes/2025/2025-03/Chapter 1. The Most Stressful Thing in the Universe.md",
     "Books/The Self-driven Child mindmap.md",
     "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
@@ -343,16 +363,9 @@
     "Classes/COS10025/Presentation feedback.md",
     "Personal",
     "az thumb - sara.jpg",
-    "Notes/2025/2025-03/Animal Research Findings.md",
-    "Notes/2025/2025-03/Mitigation & Future Directions.md",
-    "Notes/2025/2025-03/Human Implications & Cases.md",
-    "Notes/2025/2025-03/Epigenetic Mechanisms.md",
-    "Notes/2025/2025-03/Shared Biological Environment.md",
+    "Notes/2025/2025-03/2.5. Mitigation & Future Directions.md",
     "Classes/STA10003/Week 8.canvas",
-    "Notes/2025/2025-03/Implications & Resilience.md",
     "Notes/2025/2025-03/20250316231201.md",
-    "Notes/2025/2025-03/Case Studies.md",
-    "Notes/2025/2025-03/Therapeutic Approaches.md",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 3.canvas",
