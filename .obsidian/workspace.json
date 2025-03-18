@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant"
             }
           },
           {
@@ -194,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant"
             }
           },
           {
@@ -223,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant"
             }
           },
           {
@@ -311,10 +311,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e89a4182e1b4dd4",
+  "active": "b7b63484fdc13944",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
     "Untitled 1.md",
+    "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
     "Classes/COS10025/Presentation (my part).md",
     "Books/The Self-driven Child mindmap.md",
     "Notes/2025/2025-03/20250310212606.md",
