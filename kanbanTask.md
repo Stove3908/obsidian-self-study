@@ -11,9 +11,10 @@ kanban-plugin: board
 - [ ] [[20250310231211|5. Practical Application & Examples:]]
 
 
-## class
+## non-oblige
 
-**Complete**
+- [ ] Bible interpretations
+- [ ] Chinese poems
 
 
 ## COS10025

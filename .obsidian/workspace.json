@@ -100,8 +100,7 @@
               "title": "Untitled 1"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
+                "file": "kanbanTask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant"
+              "title": "Backlinks for kanbanTask"
             }
           },
           {
@@ -194,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
+                "file": "kanbanTask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant"
+              "title": "Outgoing links from kanbanTask"
             }
           },
           {
@@ -223,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
+                "file": "kanbanTask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant"
+              "title": "Outline of kanbanTask"
             }
           },
           {
@@ -291,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -311,15 +309,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7b63484fdc13944",
+  "active": "c3fb193a8e7202c7",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
     "Classes/COS10025/Presentation (my part).md",
+    "kanbanTask.md",
+    "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
+    "Untitled 1.md",
     "Books/The Self-driven Child mindmap.md",
     "Notes/2025/2025-03/20250310212606.md",
     "Notes/2025/2025-03/Chapter 1. The Most Stressful Thing in the Universe.md",
-    "kanbanTask.md",
     "Personal/idea.md",
     "Notes/2025/2025-03/20250310212505.md",
     "Classes/COS10025/Presentation feedback.md",
