@@ -48,25 +48,13 @@
           {
             "id": "f7a35a208c4aca35",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "mindmap-nextgen-plugin",
               "state": {},
+              "pinned": true,
               "icon": "dot-network",
               "title": "Mindmap"
-            }
-          },
-          {
-            "id": "b7b63484fdc13944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. The Most Stressful Thing in the Universe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1. The Most Stressful Thing in the Universe"
             }
           },
           {
@@ -96,9 +84,35 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "4853f9432316663f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png"
+              },
+              "icon": "lucide-image",
+              "title": "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN"
+            }
+          },
+          {
+            "id": "414c7cbc5627f007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025/2025-03/Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -172,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. The Most Stressful Thing in the Universe.md",
+                "file": "Notes/2025/2025-03/Untitled 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 1. The Most Stressful Thing in the Universe"
+              "title": "Backlinks for Untitled 3"
             }
           },
           {
@@ -220,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. The Most Stressful Thing in the Universe.md",
+                "file": "Notes/2025/2025-03/Untitled 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 1. The Most Stressful Thing in the Universe"
+              "title": "Outline of Untitled 3"
             }
           },
           {
@@ -307,14 +321,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7a35a208c4aca35",
+  "active": "414c7cbc5627f007",
   "lastOpenFiles": [
     "Notes/2025/2025-03/Untitled 2.md",
+    "Notes/2025/2025-03/Untitled 3.md",
+    "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
+    "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
     "Notes/2025/2025-03/Chapter 1. The Most Stressful Thing in the Universe.md",
     "Books/The Self-driven Child mindmap.md",
     "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
-    "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
-    "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "Books/What Happen to You.md",
     "Untitled 1.md",
     "kanbanTask.md",
@@ -338,7 +353,6 @@
     "Notes/2025/2025-03/Case Studies.md",
     "Notes/2025/2025-03/Therapeutic Approaches.md",
     "Notes/2025/2025-03/to-change folder location.md",
-    "Notes/2025/2025-03/Neuroscience Insights.md",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 3.canvas",
