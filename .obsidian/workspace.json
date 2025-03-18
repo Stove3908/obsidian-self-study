@@ -103,16 +103,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Theoretical Foundations.md",
+                "file": "Notes/2025/2025-03/Neuroscience Insights.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theoretical Foundations"
+              "title": "Neuroscience Insights"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Theoretical Foundations.md",
+                "file": "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Theoretical Foundations"
+              "title": "Backlinks for Chapter 1. Making Sense of the World"
             }
           },
           {
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Theoretical Foundations.md",
+                "file": "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Theoretical Foundations"
+              "title": "Outline of Chapter 1. Making Sense of the World"
             }
           },
           {
@@ -320,9 +320,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "414c7cbc5627f007",
+  "active": "f7a35a208c4aca35",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/Neuroscience Insights.md",
     "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/Theoretical Foundations.md",
     "Notes/2025/2025-03/Untitled 3.md",
     "Notes/2025/2025-03/Untitled 2.md",
     "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
@@ -346,12 +348,10 @@
     "Notes/2025/2025-03/Epigenetic Mechanisms.md",
     "Notes/2025/2025-03/Shared Biological Environment.md",
     "Classes/STA10003/Week 8.canvas",
-    "Notes/2025/2025-03/Theoretical Foundations.md",
     "Notes/2025/2025-03/Implications & Resilience.md",
     "Notes/2025/2025-03/20250316231201.md",
     "Notes/2025/2025-03/Case Studies.md",
     "Notes/2025/2025-03/Therapeutic Approaches.md",
-    "Notes/2025/2025-03/to-change folder location.md",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 3.canvas",
