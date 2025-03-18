@@ -328,3 +328,63 @@
 	  - Authoritative parenting aligns with brain development needs.  
   - **Four Stages Model**: 
 	  - Progression through stages requires *experiential learning*, not parental rescue.
+
+## **2.6. Addressing Parental Concerns**  
+- **Common Scenarios & Responses**:  
+  1. **“My child didn’t do homework when I stepped back”**:  
+     - *Response*: 
+	     - Initial failure is part of the learning process 
+	     - e.g., Jonah’s months of struggle before self-correction
+     - *Strategy*: 
+	     - Maintain boundaries (e.g., “consulting hours”) and let natural consequences teach accountability.  
+  2. **“High school stakes are too high to let go”**:  
+     - *Response*: 
+	     - Trust builds self-reliance for college 
+		     - e.g., micromanaged teens flounder in unstructured environments 
+     - *Strategy*: 
+	     - Gradually transfer responsibility 
+		     - e.g., Ned’s son managing deadlines post-parental withdrawal
+  3. **“My kid won’t practice music/sports”**:  
+     - *Response*: 
+	     - Coercion breeds resentment; intrinsic interest thrives with autonomy 
+		     - e.g., Bill’s return to music post-piano lessons
+     - *Strategy*: 
+	     - Offer breaks, explore alternatives 
+		     - e.g., “Take 3 months off—see if you miss it
+  4. **“Teachers pressure me to enforce homework”**:  
+     - *Response*:
+	     - Align with schools by framing autonomy as responsibility-building (e.g., Ned’s email to Matthew’s teacher).  
+  5. **“I don’t want my child to repeat my mistakes”**:  
+     - *Response*: 
+	     - Mistakes are critical for growth 
+		     - e.g., Bill’s ADHD patient rebuilding discipline post-failure
+     - *Strategy*: 
+	     - Shift focus from perfection to learning
+		     - e.g., “What did you learn from this
+
+- **Case Studies**:  
+  - **University of Chicago Conflict**: 
+	  - Mom’s insistence vs. daughter’s resistance highlights risks of over-control.  
+  - **Autocratic Coaches**: 
+	  - Effective in sports due to short-term goals but differ from parenting’s long-term role as a “safe base.”  
+
+- **Research & Philosophy**:  
+  - **Baumrind’s Authoritative Parenting**: 
+	  - Balances support and autonomy, correlating with resilience and success.  
+  - **Neuroscience**: 
+	  - Autonomy strengthens prefrontal cortex, countering anxiety/depression 
+		  - e.g., ADHD college student’s turnaround
+
+- **Actionable Strategies**:  
+  - **Reframe Communication**:  
+     - Replace *“Why didn’t you study?”* with *“How can I help you plan?”*  
+  - **Structural Tools**:  
+     - Homework clubs, tutors, or peer mentors to reduce friction.  
+     - Family rules 
+	     - e.g., “Everyone stays active—find what you enjoy
+  - **Emotional Safety**:  
+     - Use mantras like *“I love you too much to fight”* to de-escalate conflicts.  
+
+- **Key Message**:  
+  - **Long-Term > Short-Term**:
+	  - Developing self-drive and accountability matters more than immediate compliance or grades.  
