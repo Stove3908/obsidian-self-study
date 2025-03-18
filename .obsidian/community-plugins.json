@@ -29,5 +29,6 @@
   "advanced-canvas",
   "optimize-canvas-connections",
   "canvas-mindmap-helper",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "canvas-node-screenshot"
 ]

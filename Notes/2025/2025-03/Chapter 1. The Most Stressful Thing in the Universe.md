@@ -310,13 +310,11 @@
 
 #### **Differentiators**
 
-|**Factor**|**Positive**|**Tolerable**|**Toxic**|
-|||||
-|**Duration**|Minutes-hours|Hours-days|Weeks-years|
-|**Intensity**|Mild|Moderate-severe|Severe|
-|**Support**|Optional|Required|Absent|
-|**Control**|High|Moderate|Low|
-|**Brain Impact**|Prefrontal activation|Hippocampal recovery|Amygdala dominance|
+| Factor      | Duration      | Intensity       | Support  | Control  | Brain Impact          |
+| ----------- | ------------- | --------------- | -------- | -------- | --------------------- |
+| *Positive*  | Minutes-hours | Mild            | Optional | High     | Prefrontal activation |
+| *Tolerable* | Hours-days    | Moderate-severe | Required | Moderate | Hippocampal recovery  |
+| *Toxic*     | Weeks-years   | Severe          | Absent   | Low      | Amygdala dominance    |
 
 #### **Mitigation Strategies**
 
