@@ -219,7 +219,8 @@
 	  - *“Whose problem is it?”* shifts responsibility to the child.  
   - **Natural Consequences**:  
     - *Matthew’s Science Test*: 
-	    - Failed due to studying the wrong material → sparked independent curiosity about biology.  
+	    - Failed due to studying the wrong material 
+	      → sparked independent curiosity about biology.  
     - *ADHD College Student*: 
 	    - Academic collapse led to self-driven recovery after a break.  
   - **Parental Role**: 
@@ -233,28 +234,40 @@
 	  - Conditional approval (e.g., *“We’ll love you more if you get A’s”*) erodes self-worth.  
 
 - **Practical Autonomy-Building Strategies**:  
-  - **Small Choices Early**: Letting kids pick clothes/decor to activate prefrontal cortex.  
+  - **Small Choices Early**:
+	  - Letting kids pick clothes/decor to activate prefrontal cortex.  
   - **Gradual Responsibility**:  
-    - Age-appropriate tasks (e.g., second grader tracking homework with parental help → independence by middle school).  
-    - Example: *Ned’s son* learning to manage homework deadlines after parental withdrawal.  
+    - Age-appropriate tasks 
+	    - e.g., second grader tracking homework with parental help 
+	      → independence by middle school
+    - Example: 
+	    - *Ned’s son* learning to manage homework deadlines after parental withdrawal.  
   - **Boundaries**:  
-    - *Consulting Hours*: Designated time for help (e.g., 7–8 PM), no late-night rescues.  
+    - *Consulting Hours*: 
+	    - Designated time for help (e.g., 7–8 PM), no late-night rescues.  
     - *“I love you too much to fight”* mantra to de-escalate conflicts.  
 
 - **Neuroscience of Autonomy**:  
   - **Prefrontal Cortex Development**:  
-    - Decision-making strengthens neural pathways for stress resilience (Steven Maier’s rat studies).  
-    - Example: Letting a 5-year-old wear mismatched clothes builds lifelong coping skills.  
+    - Decision-making strengthens neural pathways for stress resilience 
+	    - Steven Maier’s rat studies
+    - Example: 
+	    - Letting a 5-year-old wear mismatched clothes builds lifelong coping skills.  
   - **Competency Stages**:  
-    - Autonomy helps kids progress through *unconscious incompetence* → *conscious competence*.  
+    - Autonomy helps kids progress through *unconscious incompetence* 
+      → *conscious competence*.  
 
 - **Long-Term Outcomes**:  
-  - **Self-Discipline**: Prioritizes intrinsic motivation over external enforcement.  
+  - **Self-Discipline**: 
+	  - Prioritizes intrinsic motivation over external enforcement.  
   - **College Readiness**:  
     - Kids raised with autonomy adapt better to independence (vs. those controlled by parents).  
-    - Example: Jonah’s self-driven night school effort to graduate on time.  
+    - Example: 
+	    - Jonah’s self-driven night school effort to graduate on time.  
 
 - **Research & Models**:  
-  - **Baumrind’s Authoritative Parenting**: Balances warmth and autonomy for lifelong success.  
-  - **Four Stages of Competency**: Autonomy allows progression through failure to mastery.  
+  - **Baumrind’s Authoritative Parenting**: 
+	  - Balances warmth and autonomy for lifelong success.  
+  - **Four Stages of Competency**: 
+	  - Autonomy allows progression through failure to mastery.  
 
