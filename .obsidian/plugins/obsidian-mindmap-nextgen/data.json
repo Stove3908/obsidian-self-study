@@ -1,9 +1,10 @@
 {
   "version": "2.0",
   "layout": [
-    {
-      "type": "unpinned"
-    }
+    null,
+    null,
+    null,
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",

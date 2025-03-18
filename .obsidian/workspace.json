@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "9cba22b06f8a43ca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5e89a4182e1b4dd4",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "icon": "dot-network",
-              "title": "Mindmap"
-            }
-          }
-        ]
-      },
-      {
         "id": "137d42ba83711b50",
         "type": "tabs",
         "children": [
@@ -280,8 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,8 +283,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fce44f12702c211",
+  "floating": {
+    "id": "8d8faec88f3ad96c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "884fef66da0d5e4f",
+        "type": "window",
+        "children": [
+          {
+            "id": "94aef9c16349f67e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e89a4182e1b4dd4",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap-nextgen-plugin",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mindmap"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 468,
+        "y": 20,
+        "width": 600,
+        "height": 784,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5e89a4182e1b4dd4",
   "lastOpenFiles": [
+    "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "Books/What Happen to You.md",
     "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
     "Untitled 1.md",
@@ -332,7 +351,6 @@
     "Notes/2025/2025-03/Neuroscience Insights.md",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
-    "Notes/2025/2025-03/SPSS Output & Report Writing.md",
     "Notes/2025/2025-03/Untitled 3.canvas",
     "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
