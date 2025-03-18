@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "61aba8e852911fc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc2554946dba2337",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap-nextgen-plugin",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant"
+            }
+          }
+        ]
+      },
+      {
         "id": "137d42ba83711b50",
         "type": "tabs",
         "children": [
@@ -85,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -274,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,7 +311,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7fce44f12702c211",
+  "active": "fc2554946dba2337",
   "lastOpenFiles": [
     "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
     "Untitled 1.md",
