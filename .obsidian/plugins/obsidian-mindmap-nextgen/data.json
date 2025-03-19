@@ -4,11 +4,11 @@
     null,
     null,
     {
-      "type": "unpinned"
-    },
-    {
       "type": "pinned",
       "path": "Books/It Didn't Start With You.md"
+    },
+    {
+      "type": "unpinned"
     },
     null
   ],
