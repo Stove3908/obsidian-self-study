@@ -1,0 +1,58 @@
+**1. Introduction to Databases**  
+   - **Definitions**  
+     - **Database**: Organized collection of structured information, accessible quickly by computer programs.  
+     - **Relational Database**: Stores data in **tables** (e.g., `employee_info` table with columns like `emp_id`, `last_name`).  
+     - **Table**: A structured set of data organized into rows (records) and columns (fields).  
+     - **Record**: A single row in a table, representing a complete set of related data (e.g., one employee’s details).  
+     - **Field**: A column in a table, defining a specific category of data (e.g., `address`, `suburb`, `pcode`).  
+
+   - **Keys**  
+     - **Primary Key**: Unique identifier for each record in a table (e.g., `emp_id` in the `employee_info` table).  
+       - Ensures data integrity and speeds up queries.  
+     - **Foreign Key**: Field in a related table that references the primary key of another table (e.g., `emp_id` in the `payroll` table links to `employee_info`).  
+       - Establishes relationships between tables.  
+
+   - **Relationships**  
+     - **One-to-One**:  
+       - One record in Table A links to **exactly one** record in Table B.  
+       - Example: `employee_info` (primary) and `payroll` (related), where each employee has one payroll entry.  
+       - Purpose: Isolate sensitive data (e.g., payroll details).  
+     - **One-to-Many**:  
+       - One record in Table A links to **multiple** records in Table B.  
+       - Example: An employee (`employee_info`) can have multiple entries in the `language_skills` table (e.g., Java, C#, etc.).  
+       - Reduces redundancy by splitting data into logical sets.  
+     - **Many-to-Many**:  
+       - Requires a **junction/associative table** (e.g., `emp_language_junction`).  
+       - Example: Multiple employees can know multiple programming languages.  
+       - Junction table contains foreign keys from both related tables (e.g., `emp_id` and `language_id`).  
+
+   - **Normalization**  
+     - Process of structuring a database to:  
+       1. Eliminate redundant data (e.g., storing language skills in a separate table instead of repeating in `employee_info`).  
+       2. Ensure data dependencies make sense.  
+     - Benefits: Improved efficiency, easier maintenance, and reduced storage costs.  
+
+   - **Examples from Lecture**  
+     - **Employee Table**:  
+       | emp_id | last_name | first_name | address              | suburb        |  
+       | 101    | Coffey    | Billy      | 648 Riversdale Road  | Camberwell    |  
+     - **Payroll Table** (One-to-One):  
+       | emp_id | start_date | pay_rate | health_cover |  
+       | 101    | 2005       | 31.50    | none         |  
+     - **Language Skills Table** (One-to-Many):  
+       | emp_id | language    | years |  
+       | 101    | Java        | 5     |  
+       | 101    | C           | 7     |  
+
+---
+
+**Visual Flow for Branch 1**:  
+- **Central Node**: "Introduction to Databases"  
+  - **Subnodes**:  
+    - **Definitions** (Database, Relational DB, Table, Record, Field)  
+    - **Keys** (Primary Key, Foreign Key)  
+    - **Relationships** (One-to-One, One-to-Many, Many-to-Many with examples)  
+    - **Normalization** (Purpose, Benefits)  
+    - **Real-World Tables** (Employee, Payroll, Language Skills)  
+
+This structure ensures clarity and connects theoretical concepts to practical examples from the lecture.
