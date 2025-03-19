@@ -23,18 +23,26 @@
 anony011023@gmail.com
 
 ## Chapter 5 - The Four Unconscious Themes
-[[5.1. Introduction & Context]]
-[[5.2. The Flow of Life]]
-[[5.3. Four Unconscious Themes]]
-[[5.4. How the Four Themes Get Set in Motion]]
-[[5.5. Core Language Map Tools]]
+- [[5.1. Introduction & Context]]
+- [[5.2. The Flow of Life]]
+- [[5.3. Four Unconscious Themes]]
+- [[5.4. How the Four Themes Get Set in Motion]]
+- [[5.5. Core Language Map Tools]]
 
 ## Chapter 6 - The Core Complaint
-[[6.1. Key Concepts]]
-[[6.2. Core Language Analysis]]
-[[6.3. Case Studies]]
-[[6.4. Exercises]]
-[[6.5. Themes in Families]]
-[[6.5. Themes in Families]]
-[[6.7. Practical Applications]]
+- [[6.1. Key Concepts]]
+- [[6.2. Core Language Analysis]]
+- [[6.3. Case Studies]]
+- [[6.4. Exercises]]
+- [[6.5. Themes in Families]]
+- [[6.5. Themes in Families]]
+- [[6.7. Practical Applications]]
+
+## Chapter 7 - Core Descriptors
+- [[7.1. Concept of Core Descriptors]]
+- [[7.2. Exercises to Identify Core Descriptors]]
+- [[7.3. Interpreting Core Descriptors]]
+- [[7.4. Impact on Relationships and Self]]
+- [[7.5. Healing Through Shifting Perspectives]]
+- [[7.6. Case Studies, Examples]]
 
