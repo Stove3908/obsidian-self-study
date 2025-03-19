@@ -58,3 +58,7 @@ anony011023@gmail.com
 [[8.9. Transforming Fear]]
 
 ledoansang2004@gmail.com
+
+## Chapter 9 – The Core Trauma
+anony011024
+[[9.1. Core Trauma Definition]]
