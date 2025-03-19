@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/xx.md",
+                "file": "Books/It Didn't Start With You.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xx"
+              "title": "It Didn't Start With You"
             }
           }
         ],
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/xx.md",
+                "file": "Books/It Didn't Start With You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for xx"
+              "title": "Backlinks for It Didn't Start With You"
             }
           },
           {
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/xx.md",
+                "file": "Books/It Didn't Start With You.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of xx"
+              "title": "Outline of It Didn't Start With You"
             }
           },
           {
@@ -293,8 +293,12 @@
   },
   "active": "68e440f2a52389da",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/10.6. Transition to Early Separation (Next Chapter Preview).md",
+    "Notes/2025/2025-03/10.5. Healing Parent Relationships.md",
+    "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
+    "Notes/2025/2025-03/10.3. Healing Sentences & Rituals.md",
+    "Notes/2025/2025-03/10.2. Written Exercise n12. Making Peace with Family History.md",
     "Notes/2025/2025-03/10.1. Core Language Components.md",
-    "Notes/2025/2025-03/xx.md",
     "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/6.1. Key Concepts.md",
     "Pasted image 20250319185455.png",
@@ -317,10 +321,6 @@
     "Notes/2025/2025-03/8.4. Alternative Methods to Discover Core Sentence.md",
     "Notes/2025/2025-03/8.3. Fine-Tuning the Core Sentence.md",
     "Notes/2025/2025-03/8.2. Identifying the Core Sentence.md",
-    "Notes/2025/2025-03/8.1. Introduction to Core Sentence.md",
-    "Notes/2025/2025-03/7.6. Case Studies, Examples.md",
-    "Notes/2025/2025-03/7.5. Healing Through Shifting Perspectives.md",
-    "Notes/2025/2025-03/7.4. Impact on Relationships and Self.md",
     "Notes/2025/2025-03/HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "Kanban",
     "Personal",
