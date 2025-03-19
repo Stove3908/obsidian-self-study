@@ -14,7 +14,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "kanbanTask.md",
+                "file": "Kanban/kanbanTask.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -124,9 +124,47 @@
               "icon": "lucide-file",
               "title": "1.2. Neuroscience Insights"
             }
+          },
+          {
+            "id": "c868a69d24a655e4",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban/KanbanMoney.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "KanbanMoney"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
+      },
+      {
+        "id": "9deaf6f89fd5b9f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d6a9bc7d61517b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025/2025-03/BookFusion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BookFusion"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/BookFusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +247,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for BookFusion"
             }
           },
           {
@@ -247,13 +285,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/BookFusion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of BookFusion"
             }
           },
           {
@@ -310,12 +348,12 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,10 +372,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da9705c3b83b4819",
+  "active": "2d6a9bc7d61517b5",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/2.4. Human Implications & Cases.md",
+    "Kanban/KanbanMoney.md",
+    "Notes/2025/2025-03/BookFusion.md",
+    "Kanban/kanbanTask.md",
+    "Kanban",
     "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/3.4. Healing & Neuroplasticity.md",
+    "Notes/2025/2025-03/3.3. Impact of Early Bonding.md",
+    "Notes/2025/2025-03/3.2. Family Consciousness.md",
+    "Notes/2025/2025-03/3.1. Inherited Family Trauma.md",
+    "Notes/2025/2025-03/2.4. Human Implications & Cases.md",
     "Notes/2025/2025-03/2.3. Animal Research Findings.md",
     "Notes/2025/2025-03/2.2. Epigenetic Mechanisms.md",
     "Notes/2025/2025-03/2.1. Shared Biological Environment.md",
@@ -355,17 +401,10 @@
     "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
     "Books/What Happen to You.md",
     "Untitled 1.md",
-    "kanbanTask.md",
     "Classes/COS10025/Presentation (my part).md",
-    "Notes/2025/2025-03/20250310212606.md",
-    "Personal/idea.md",
-    "Notes/2025/2025-03/20250310212505.md",
-    "Classes/COS10025/Presentation feedback.md",
     "Personal",
     "az thumb - sara.jpg",
-    "Notes/2025/2025-03/2.5. Mitigation & Future Directions.md",
     "Classes/STA10003/Week 8.canvas",
-    "Notes/2025/2025-03/20250316231201.md",
     "Notes/2025/2025-03/Assignment Part 2.canvas",
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 3.canvas",
@@ -382,7 +421,6 @@
     "Notes",
     "2025/Untitled",
     "mind map/Self-study mindmap/Never Split The Difference.canvas",
-    "mind map/excalidraw test",
     "CS/Beginning C++ Game.canvas"
   ]
 }

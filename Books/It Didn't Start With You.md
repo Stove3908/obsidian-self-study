@@ -14,6 +14,10 @@
 - [[2.5. Mitigation & Future Directions]]
 
 ## Chapter 3. The Family Mind
+- [[3.1. Inherited Family Trauma]]
+- [[3.2. Family Consciousness]]
+- [[3.3. Impact of Early Bonding]]
+- [[3.4. Healing & Neuroplasticity]]
 
-
-## Chapter 4. The Core Language Approach (anony011023@gmail.com)
+## Chapter 4. The Core Language Approach 
+anony011023@gmail.com
