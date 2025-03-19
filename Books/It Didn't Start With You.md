@@ -46,3 +46,15 @@ anony011023@gmail.com
 - [[7.5. Healing Through Shifting Perspectives]]
 - [[7.6. Case Studies, Examples]]
 
+## Chapter 8 - The Core Sentence
+[[8.1. Introduction to Core Sentence]]
+[[8.2. Identifying the Core Sentence]]
+[[8.3. Fine-Tuning the Core Sentence]]
+[[8.4. Alternative Methods to Discover Core Sentence]]
+[[8.5. Core Language in Family Trauma]]
+[[8.6. Case Studies and Examples]]
+[[8.7. Core Sentence and Family History]]
+[[8.8. Acknowledging Family Members]]
+[[8.9. Transforming Fear]]
+
+ledoansang2004@gmail.com
