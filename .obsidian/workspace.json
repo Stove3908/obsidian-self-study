@@ -63,16 +63,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
+                "file": "Books/It Didn't Start With You.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.1. Core Trauma Definition"
+              "title": "It Didn't Start With You"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +91,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
+                "file": "Books/It Didn't Start With You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9.1. Core Trauma Definition"
+              "title": "Backlinks for It Didn't Start With You"
             }
           },
           {
@@ -194,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
+                "file": "Books/It Didn't Start With You.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9.1. Core Trauma Definition"
+              "title": "Outline of It Didn't Start With You"
             }
           },
           {
@@ -282,16 +281,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7a35a208c4aca35",
+  "active": "da9705c3b83b4819",
   "lastOpenFiles": [
+    "Books/It Didn't Start With You.canvas",
     "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
     "Notes/2025/2025-03/9.7. Key Concepts.md",
     "Notes/2025/2025-03/9.6. Written Exercises.md",
     "Notes/2025/2025-03/9.5. Case Studies.md",
     "Notes/2025/2025-03/9.4. Genograms.md",
     "Notes/2025/2025-03/9.3. Bridging Questions.md",
     "Notes/2025/2025-03/9.2. Core Language Map Tools.md",
-    "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
     "Notes/2025/2025-03/8.9. Transforming Fear.md",
     "Notes/2025/2025-03/8.8. Acknowledging Family Members.md",
     "Notes/2025/2025-03/8.7. Core Sentence and Family History.md",
@@ -309,7 +309,6 @@
     "Notes/2025/2025-03/7.1. Concept of Core Descriptors.md",
     "Notes/2025/2025-03/6.7. Practical Applications.md",
     "Notes/2025/2025-03/6.6. Resolution Through Complaints.md",
-    "Notes/2025/2025-03/6.5. Themes in Families.md",
     "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "Kanban",
     "Personal",
@@ -330,7 +329,6 @@
     "1.D. Initial Actions",
     "Notes",
     "2025/Untitled",
-    "mind map/Self-study mindmap/Never Split The Difference.canvas",
-    "CS/Beginning C++ Game.canvas"
+    "mind map/Self-study mindmap/Never Split The Difference.canvas"
   ]
 }
