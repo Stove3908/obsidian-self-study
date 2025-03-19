@@ -46,13 +46,27 @@
             }
           },
           {
-            "id": "9b7c3120d6f2c0a2",
+            "id": "29a0a628fe8dd239",
             "type": "leaf",
             "state": {
               "type": "mindmap-nextgen-plugin",
               "state": {},
               "icon": "dot-network",
-              "title": "It Didn't Start With You"
+              "title": "COS10026. Week 9"
+            }
+          },
+          {
+            "id": "68e440f2a52389da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/COS10026/COS10026. Week 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "COS10026. Week 9"
             }
           },
           {
@@ -68,17 +82,17 @@
             }
           },
           {
-            "id": "68e440f2a52389da",
+            "id": "249f5e1ba3bc80f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/3. SQL Basics.md",
+                "file": "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. SQL Basics"
+              "title": "2. MySQL, MariaDB Overview"
             }
           }
         ],
@@ -139,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -155,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/3. SQL Basics.md",
+                "file": "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. SQL Basics"
+              "title": "Backlinks for 2. MySQL, MariaDB Overview"
             }
           },
           {
@@ -203,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/3. SQL Basics.md",
+                "file": "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. SQL Basics"
+              "title": "Outline of 2. MySQL, MariaDB Overview"
             }
           },
           {
@@ -291,12 +306,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "68e440f2a52389da",
+  "active": "f7a35a208c4aca35",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
-    "Notes/2025/2025-03/3. SQL Basics.md",
     "Notes/2025/2025-03/1. Introduction to Databases.md",
-    "Classes/COS10026/Week 9.md",
+    "Classes/COS10026/COS10026. Week 9.md",
+    "Notes/2025/2025-03/5. Practical Considerations.md",
+    "Notes/2025/2025-03/4. PHP and MySQL Integration.md",
+    "Notes/2025/2025-03/3. SQL Basics.md",
+    "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
     "Classes/COS10026/Week 8.md",
     "Classes/STA10003/Week 8.canvas",
     "Books/It Didn't Start With You.md",
@@ -320,8 +337,6 @@
     "Notes/2025/2025-03/9.3. Bridging Questions.md",
     "Notes/2025/2025-03/9.2. Core Language Map Tools.md",
     "Notes/2025/2025-03/8.9. Transforming Fear.md",
-    "Notes/2025/2025-03/8.8. Acknowledging Family Members.md",
-    "Notes/2025/2025-03/8.7. Core Sentence and Family History.md",
     "Notes/2025/2025-03/HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "Kanban",
     "Personal",
