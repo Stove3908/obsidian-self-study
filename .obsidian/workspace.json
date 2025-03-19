@@ -63,16 +63,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It Didn't Start With You"
+              "title": "9.1. Core Trauma Definition"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for 9.1. Core Trauma Definition"
             }
           },
           {
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of 9.1. Core Trauma Definition"
             }
           },
           {
@@ -282,8 +282,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da9705c3b83b4819",
+  "active": "f7a35a208c4aca35",
   "lastOpenFiles": [
+    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/9.7. Key Concepts.md",
     "Notes/2025/2025-03/9.6. Written Exercises.md",
     "Notes/2025/2025-03/9.5. Case Studies.md",
@@ -291,7 +292,6 @@
     "Notes/2025/2025-03/9.3. Bridging Questions.md",
     "Notes/2025/2025-03/9.2. Core Language Map Tools.md",
     "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
-    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/8.9. Transforming Fear.md",
     "Notes/2025/2025-03/8.8. Acknowledging Family Members.md",
     "Notes/2025/2025-03/8.7. Core Sentence and Family History.md",
