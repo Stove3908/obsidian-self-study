@@ -30,5 +30,11 @@ anony011023@gmail.com
 [[5.5. Core Language Map Tools]]
 
 ## Chapter 6 - The Core Complaint
+[[6.1. Key Concepts]]
+[[6.2. Core Language Analysis]]
+[[6.3. Case Studies]]
+[[6.4. Exercises]]
+[[6.5. Themes in Families]]
+[[6.5. Themes in Families]]
 [[6.7. Practical Applications]]
-[[6.7. Practical Applications (Backup)]]
+
