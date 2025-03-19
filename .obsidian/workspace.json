@@ -72,79 +72,21 @@
             }
           },
           {
-            "id": "7fce44f12702c211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1. Making Sense of the World"
-            }
-          },
-          {
-            "id": "8a6c36cab41f7630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "4853f9432316663f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png"
-              },
-              "icon": "lucide-image",
-              "title": "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN"
-            }
-          },
-          {
             "id": "414c7cbc5627f007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/1.2. Neuroscience Insights.md",
+                "file": "Books/It Didn't Start With You.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2. Neuroscience Insights"
-            }
-          },
-          {
-            "id": "c868a69d24a655e4",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Kanban/KanbanMoney.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "KanbanMoney"
+              "title": "It Didn't Start With You"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kanban/KanbanMoney.md",
+                "file": "Books/It Didn't Start With You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KanbanMoney"
+              "title": "Backlinks for It Didn't Start With You"
             }
           },
           {
@@ -265,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kanban/KanbanMoney.md",
+                "file": "Books/It Didn't Start With You.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KanbanMoney"
+              "title": "Outline of It Didn't Start With You"
             }
           },
           {
@@ -352,13 +294,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c868a69d24a655e4",
+  "active": "414c7cbc5627f007",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/BookFusion.md",
+    "Notes/2025/2025-03/5.6. Conclusion.md",
+    "Notes/2025/2025-03/5.5. Core Language Map Tools.md",
+    "Notes/2025/2025-03/5.4. How the Four Themes Get Set in Motion.md",
+    "Notes/2025/2025-03/5.3. Four Unconscious Themes.md",
+    "Notes/2025/2025-03/5.2. The Flow of Life.md",
+    "Notes/2025/2025-03/5.1. Introduction & Context.md",
+    "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
+    "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
+    "Notes/2025/2025-03/Untitled 2.md",
+    "Notes/2025/2025-03/1.2. Neuroscience Insights.md",
     "Kanban/KanbanMoney.md",
+    "Notes/2025/2025-03/BookFusion.md",
     "Kanban/kanbanTask.md",
     "Kanban",
-    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/3.4. Healing & Neuroplasticity.md",
     "Notes/2025/2025-03/3.3. Impact of Early Bonding.md",
     "Notes/2025/2025-03/3.2. Family Consciousness.md",
@@ -370,18 +322,8 @@
     "Notes/2025/2025-03/1.5. Implications & Resilience.md",
     "Notes/2025/2025-03/1.4. Therapeutic Approaches.md",
     "Notes/2025/2025-03/1.3. Case Studies.md",
-    "Notes/2025/2025-03/1.2. Neuroscience Insights.md",
     "Notes/2025/2025-03/1.1. Theoretical Foundations.md",
-    "Notes/2025/2025-03/Chapter 1. Making Sense of the World.md",
     "Notes/2025/2025-03/Untitled 3.md",
-    "Notes/2025/2025-03/Untitled 2.md",
-    "HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
-    "Notes/2025/2025-03/Chapter 1. The Most Stressful Thing in the Universe.md",
-    "Books/The Self-driven Child mindmap.md",
-    "Notes/2025/2025-03/Chapter 2. I Love You Too Much to Fight with You About Your Homework. The Parent as Consultant.md",
-    "Books/What Happen to You.md",
-    "Untitled 1.md",
-    "Classes/COS10025/Presentation (my part).md",
     "Personal",
     "az thumb - sara.jpg",
     "Classes/STA10003/Week 8.canvas",
