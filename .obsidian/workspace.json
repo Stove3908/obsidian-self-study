@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -291,7 +291,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f7a35a208c4aca35",
+  "active": "68e440f2a52389da",
   "lastOpenFiles": [
     "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
     "Notes/2025/2025-03/3. SQL Basics.md",
