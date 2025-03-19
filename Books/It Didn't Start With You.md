@@ -29,3 +29,6 @@ anony011023@gmail.com
 [[5.4. How the Four Themes Get Set in Motion]]
 [[5.5. Core Language Map Tools]]
 
+## Chapter 6. The Core Complaint
+[[xx]]
+[[6.7. Practical Applications (Backup)]]
