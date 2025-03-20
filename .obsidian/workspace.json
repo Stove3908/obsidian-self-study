@@ -32,44 +32,6 @@
             }
           },
           {
-            "id": "dc4da80eff5e3ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/It Didn't Start With You.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "It Didn't Start With You"
-            }
-          },
-          {
-            "id": "29a0a628fe8dd239",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "icon": "dot-network",
-              "title": "COS10026. Week 9"
-            }
-          },
-          {
-            "id": "68e440f2a52389da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/4. PHP and MySQL Integration.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. PHP and MySQL Integration"
-            }
-          },
-          {
             "id": "f7a35a208c4aca35",
             "type": "leaf",
             "pinned": true,
@@ -80,9 +42,23 @@
               "icon": "dot-network",
               "title": "Mindmap"
             }
+          },
+          {
+            "id": "dc4da80eff5e3ba6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025/2025-03/xx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "xx"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -155,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/xx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for xx"
             }
           },
           {
@@ -203,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/xx.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of xx"
             }
           },
           {
@@ -293,12 +270,18 @@
   },
   "active": "dc4da80eff5e3ba6",
   "lastOpenFiles": [
-    "Classes/COS10025/Presentation (my part).md",
+    "Notes/2025/2025-03/Group Presentation (C).md",
+    "Notes/2025/2025-03/xx.md",
+    "Notes/2025/2025-03/Web Structure (B).md",
+    "Notes/2025/2025-03/Specified Requirements (A).md",
+    "Classes/COS10026/COS10026. Assignment 2.md",
+    "Classes/COS10026/COS10026. Week 9.md",
     "Notes/2025/2025-03/4. PHP and MySQL Integration.md",
+    "Books/It Didn't Start With You.md",
+    "Classes/COS10025/Presentation (my part).md",
     "Notes/2025/2025-03/3. SQL Basics.md",
     "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
     "Notes/2025/2025-03/1. Introduction to Databases.md",
-    "Classes/COS10026/COS10026. Week 9.md",
     "Notes/2025/2025-03/7. Advanced Concepts.md",
     "Kanban/Kanban_Self-driven.md",
     "Notes/2025/2025-03/6. Tools and Resources.md",
@@ -306,7 +289,6 @@
     "Kanban/kanbanTask.md",
     "Classes/COS10026/Week 8.md",
     "Classes/STA10003/Week 8.canvas",
-    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/10.6. Transition to Early Separation (Next Chapter Preview).md",
     "Notes/2025/2025-03/10.5. Healing Parent Relationships.md",
     "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
@@ -317,11 +299,6 @@
     "Pasted image 20250319185455.png",
     "Notes/2025/2025-03/3.3. Impact of Early Bonding.md",
     "Books/It Didn't Start With You.canvas",
-    "Notes/2025/2025-03/1.2. Neuroscience Insights.md",
-    "Notes/2025/2025-03/1.3. Case Studies.md",
-    "Notes/2025/2025-03/9.1. Core Trauma Definition.md",
-    "Notes/2025/2025-03/9.7. Key Concepts.md",
-    "Notes/2025/2025-03/9.6. Written Exercises.md",
     "Notes/2025/2025-03/HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "Kanban",
     "Personal",

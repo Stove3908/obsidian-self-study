@@ -1,0 +1,132 @@
+[[COS10026. Assignment 2]]
+[[xx]]
+
+### **C1: Introduction (Individual Contributions)**
+
+- **Roles & Responsibilities**:
+    - **Member 1 (Front-End Developer)**:
+        - Designed HTML/CSS for `apply.php` and `jobs.php`.
+        - Implemented client-side validation using HTML5 attributes.
+    - **Member 2 (Back-End Developer)**:
+        - Built PHP scripts (`process_eoi.php`, `manage.php`).
+        - Integrated MySQL with mysqli for EOI/jobs tables.
+    - **Member 3 (Database Architect)**:
+        - Created schema for `eoi` and `jobs` tables.
+        - Optimized queries for HR management features.
+    - **Member 4 (Security & Enhancements)**:
+        - Added login system for `manage.php`.
+        - Implemented server-side validation and sanitization.
+- **Project Objectives**:
+    - Explain how your tasks align with the assignment goals (e.g., dynamic content, data integrity).
+
+---
+
+### **C2: Development Process (Technology Focus)**
+
+- **Front-End (HTML/CSS)**:
+    - Demonstrated responsive design using Flexbox/Grid.
+    - Example:
+        
+        ```html
+        <!-- Responsive navigation in menu.inc -->  
+        <nav class="flex-container">  
+          <a href="index.php" class="flex-item">Home</a>  
+          <a href="jobs.php" class="flex-item">Jobs</a>  
+        </nav>  
+        ```
+        
+- **PHP Scripting**:
+    - Discussed server-side validation logic:
+        
+        ```php
+        // Check job reference format  
+        if (!preg_match("/^[A-Z0-9]{5}$/", $jobref)) {  
+          header("Location: apply.php?error=invalid_jobref");  
+          exit();  
+        }  
+        ```
+        
+- **Database Integration**:
+    - Explained normalized table design to avoid redundancy.
+    - Example query for HR interface:
+        
+        ```sql
+        -- Retrieve EOIs for job reference 'SW123'  
+        SELECT * FROM eoi WHERE JobReference = 'SW123';  
+        ```
+        
+- **Security Enhancements**:
+    - Demo hashed password storage:
+        
+        ```php
+        $hashed_pwd = password_hash($_POST["password"], PASSWORD_DEFAULT);  
+        ```
+        
+
+---
+
+### **C3: Database Interaction**
+
+- **EOI Workflow**:
+    - **Front-End to Back-End**: How form data from `apply.php` is sanitized and inserted into `eoi`.
+    - **HR Management**: How `manage.php` uses `UPDATE`/`DELETE` queries.
+- **Dynamic Job Listings**:
+    - Demonstrated PHP loop to render jobs from the database:
+        
+        ```php
+        $result = mysqli_query($conn, "SELECT * FROM jobs");  
+        while ($row = mysqli_fetch_assoc($result)) {  
+          echo "<div class='job'><h3>{$row['Title']}</h3></div>";  
+        }  
+        ```
+        
+- **Challenges & Solutions**:
+    - **Postcode-State Validation**: Used regex arrays to match state rules.  
+        **SQL Injection Prevention**: Utilized prepared statements:
+        
+        ```php
+        $stmt = mysqli_prepare($conn, "INSERT INTO eoi (...) VALUES (?, ?, ...)");  
+        mysqli_stmt_bind_param($stmt, "ssss...", $jobref, $firstname, ...);  
+        ```
+        
+
+---
+
+### **C4: Conclusion (Individual Reflections)**
+
+- **Key Learnings**:
+    - **Member 1**: Mastered responsive design and form validation.
+    - **Member 2**: Improved PHP/MySQL integration skills.
+    - **Member 3**: Learned schema optimization for scalability.
+    - **Member 4**: Explored security best practices (e.g., password hashing).
+- **Collaboration Insights**:
+    - Used Git for version control to merge code seamlessly.
+    - Conducted peer code reviews to ensure quality.
+
+---
+
+### **C5: Presentation Logistics**
+
+- **Time Allocation**:
+    - 3-5 minutes per member for a 4-person group.
+    - Rehearse transitions between speakers.
+- **Visual Aids**:
+    - Slides with code snippets, ER diagrams, and screenshots.
+    - Live demo of `manage.php` updating EOI status.
+- **Submission Requirements**:
+    - Upload slides to Canvas as part of group submission.
+    - Ensure slides include team names and student IDs.
+
+---
+
+### **C6: Common Pitfalls & Tips**
+
+- **Avoid Overloading Slides**: Use bullet points, not paragraphs.
+- **Technical Demo Prep**:
+    - Test all features (e.g., form submission) on Mercury beforehand.
+    - Have backup screenshots if live demo fails.
+- **Q&A Preparation**:
+    - Anticipate questions on validation logic or database design.
+    - Assign topics to members (e.g., security, front-end).
+
+This structure ensures the presentation is cohesive, technically detailed, and highlights individual contributions while adhering to the assignment’s scope.

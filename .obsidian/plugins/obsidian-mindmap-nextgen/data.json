@@ -2,15 +2,10 @@
   "version": "2.0",
   "layout": [
     null,
-    null,
-    {
-      "type": "pinned",
-      "path": "Classes/COS10026/COS10026. Week 9.md"
-    },
-    null,
     {
       "type": "unpinned"
-    }
+    },
+    null
   ],
   "settings": {
     "splitDirection": "horizontal",

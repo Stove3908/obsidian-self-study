@@ -1,0 +1,220 @@
+
+
+[[COS10026. Assignment 2]]
+[[Web Structure (B)]]
+
+### **A1: PHP Includes**
+
+- **Modularization**:
+    - Split static HTML elements into reusable `.inc` files:
+        - `header.inc`: Contains `<head>`, meta tags, and site-wide CSS links.
+        - `menu.inc`: Navigation bar with links to `index.php`, `jobs.php`, `apply.php`, etc.
+        - `footer.inc`: Copyright, contact info, and scripts.
+    - Use `<?php include('header.inc'); ?>` in `.php` pages to inject these components.
+- **Validation**:
+    - Ensure pages renamed to `.php` (e.g., `index.php`, `apply.php`).
+    - Test includes to confirm no broken links or missing elements.
+
+---
+
+### **A2: settings.php**
+
+- **Database Configuration**:
+    - Define connection variables:
+        
+        ```php
+        <?php  
+        $host = "feenix-mariadb.swin.edu.au";  
+        $user = "s1234567";  
+        $pwd  = "password";  
+        $sql_db = "s1234567_db";  
+        ?>  
+        ```
+        
+    - Use `mysqli_connect($host, $user, $pwd, $sql_db)` in scripts like `process_eoi.php`.
+- **Security**:
+    - Place `settings.php` outside the public web directory (if possible) or restrict access via `.htaccess`.
+
+---
+
+### **A3: EOI Table**
+
+- **MySQL Schema**:
+    
+    ```sql
+    CREATE TABLE eoi (  
+      EOInumber INT AUTO_INCREMENT PRIMARY KEY,  
+      JobReference VARCHAR(5) NOT NULL,  
+      FirstName VARCHAR(20) NOT NULL,  
+      LastName VARCHAR(20) NOT NULL,  
+      Street VARCHAR(40) NOT NULL,  
+      Suburb VARCHAR(40) NOT NULL,  
+      State ENUM('VIC','NSW','QLD','NT','WA','SA','TAS','ACT') NOT NULL,  
+      Postcode CHAR(4) NOT NULL,  
+      Email VARCHAR(50) NOT NULL,  
+      Phone VARCHAR(12) NOT NULL,  
+      Skill1 VARCHAR(20),  
+      Skill2 VARCHAR(20),  
+      OtherSkills TEXT,  
+      Status ENUM('New','Current','Final') DEFAULT 'New'  
+    );  
+    ```
+    
+- **Key Features**:
+    - `AUTO_INCREMENT` for `EOInumber`.
+    - `ENUM` for `State` and `Status` to enforce valid values.
+
+---
+
+### **A4: process_eoi.php**
+
+- **Server-Side Validation**:
+    - **Job Reference**:
+        
+        ```php
+        if (!preg_match("/^[A-Za-z0-9]{5}$/", $_POST["jobref"])) {  
+          die("Job Reference must be 5 alphanumeric characters.");  
+        }  
+        ```
+        
+    - **Postcode-State Match**:
+        
+        ```php
+        $statePostcodes = [  
+          'VIC' => '/^3|^8/',  
+          'NSW' => '/^1|^2/',  
+          'QLD' => '/^4|^9/',  
+          // ... other states  
+        ];  
+        if (!preg_match($statePostcodes[$_POST["state"]], $_POST["postcode"])) {  
+          die("Postcode invalid for selected state.");  
+        }  
+        ```
+        
+    - **Other Skills**:
+        
+        ```php
+        if (isset($_POST["otherskills_checkbox"]) && empty($_POST["otherskills"])) {  
+          die("Other skills description is required.");  
+        }  
+        ```
+        
+- **Sanitization**:
+    - `trim()`, `stripslashes()`, `htmlspecialchars()` on all inputs.
+- **Database Insertion**:
+    - Use `mysqli_prepare()` and `bind_param()` to prevent SQL injection.
+    - Redirect to `apply.php?error=1` if validation fails.
+
+---
+
+### **A5: manage.php (HR Queries)**
+
+- **Functionality**:
+    - **List All EOIs**:
+        
+        ```php
+        $query = "SELECT * FROM eoi";  
+        $result = mysqli_query($conn, $query);  
+        ```
+        
+    - **Filter by Job Reference**:
+        
+        ```php
+        $query = "SELECT * FROM eoi WHERE JobReference = '$jobref'";  
+        ```
+        
+    - **Search by Name**:
+        
+        ```php
+        $query = "SELECT * FROM eoi WHERE FirstName LIKE '%$name%' OR LastName LIKE '%$name%'";  
+        ```
+        
+    - **Delete EOIs**:
+        
+        ```php
+        $query = "DELETE FROM eoi WHERE JobReference = '$jobref'";  
+        ```
+        
+    - **Update Status**:
+        
+        ```php
+        $query = "UPDATE eoi SET Status = '$status' WHERE EOInumber = $eoi_id";  
+        ```
+        
+- **UI Design**:
+    - Forms with dropdowns for status (New/Current/Final) and input fields for job reference/name.
+    - Display results in an HTML table using `mysqli_fetch_assoc()`.
+
+---
+
+### **A6: about.php Update**
+
+- **Content**:
+    - Add/update team member contributions (e.g., "John: Database design").
+    - Include a development timetable (e.g., "Week 10: Implemented manage.php").
+- **PHP Integration**:
+    - Use includes for consistency (e.g., `<?php include('header.inc'); ?>`).
+
+---
+
+### **A7: Jobs Table**
+
+- **Schema**:
+    
+    ```sql
+    CREATE TABLE jobs (  
+      JobID INT AUTO_INCREMENT PRIMARY KEY,  
+      JobReference VARCHAR(5) UNIQUE NOT NULL,  
+      Title VARCHAR(50) NOT NULL,  
+      Description TEXT,  
+      Requirements TEXT,  
+      ClosingDate DATE  
+    );  
+    ```
+    
+- **Dynamic Rendering**:
+    - Fetch jobs from the database:
+        
+        ```php
+        $query = "SELECT * FROM jobs";  
+        $result = mysqli_query($conn, $query);  
+        while ($row = mysqli_fetch_assoc($result)) {  
+          echo "<h2>{$row['Title']}</h2>";  
+          echo "<p>{$row['Description']}</p>";  
+        }  
+        ```
+        
+
+---
+
+### **A8: Enhancements**
+
+- **Sorting Functionality**:
+    
+    ```php
+    $sortField = $_GET["sort"] ?? "EOInumber"; // Default sort by EOInumber  
+    $validFields = ["EOInumber", "LastName", "Status"]; // Whitelist allowed fields  
+    if (!in_array($sortField, $validFields)) $sortField = "EOInumber";  
+    $query = "SELECT * FROM eoi ORDER BY $sortField";  
+    ```
+    
+    - Add a dropdown in `manage.php` to select the sort field.
+- **Manager Login System**:
+    - **Registration Page**:
+        - Validate username uniqueness and password complexity (e.g., 8+ characters, mix of letters/numbers).
+        - Store credentials in a `managers` table with `password_hash()`.
+    - **Login Security**:
+        - Track failed attempts in the database.
+        - Lock account for 30 minutes after 3 failed attempts.
+    - **Session Management**:
+        
+        ```php
+        session_start();  
+        if (!isset($_SESSION["manager"])) {  
+          header("Location: login.php");  
+          exit();  
+        }  
+        ```
+        
+
+This expansion ensures alignment with the assignment’s technical requirements, including security, validation, and dynamic content generation.

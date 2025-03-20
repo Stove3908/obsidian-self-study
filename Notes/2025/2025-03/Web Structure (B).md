@@ -1,0 +1,140 @@
+[[COS10026. Assignment 2]]
+[[Group Presentation (C)]]
+
+### **B1: Folder Hierarchy**
+
+- **Root Directory**:
+    - Named `project2/` (case-sensitive).
+    - Contains all primary PHP/HTML files (e.g., `index.php`, `jobs.php`).
+- **Subdirectories**:
+    - `images/`: Stores images for page content (e.g., logos, banners).
+        - Example: `<img src="images/logo.png" alt="Company Logo">`.
+    - `styles/`: Holds CSS files (e.g., `style.css`, `forms.css`).
+        - Linked via `<link rel="stylesheet" href="styles/style.css">`.
+    - `styles/images/`: Stores images referenced in CSS (e.g., backgrounds, icons).
+        - Example CSS: `background: url('styles/images/bg-pattern.png');`.
+
+---
+
+### **B2: Required Files**
+
+- **Core Pages**:
+    - `index.php`: Homepage with job listings and navigation.
+    - `jobs.php`: Displays detailed job descriptions (dynamic from `jobs` table).
+    - `apply.php`: Job application form linked to `process_eoi.php`.
+    - `about.php`: Team contributions and project timetable.
+    - `manage.php`: HR interface for EOI management (password-protected).
+    - `phpenhancements.php`: Documents optional features (e.g., sorting, login system).
+- **Support Files**:
+    - `settings.php`: Stores database credentials (e.g., `$host`, `$user`).
+    - `header.inc`, `menu.inc`, `footer.inc`: Reusable components.
+    - `process_eoi.php`: Handles form submission and database insertion.
+
+---
+
+### **B3: Include Files**
+
+- **Header (`header.inc`)**:
+    - Contains `<head>` section:
+        
+        ```html
+        <!DOCTYPE html>  
+        <html lang="en">  
+        <head>  
+          <meta charset="UTF-8">  
+          <title>Company XYZ</title>  
+          <link rel="stylesheet" href="styles/style.css">  
+        </head>  
+        <body>  
+        ```
+        
+- **Menu (`menu.inc`)**:
+    - Navigation bar with relative links:
+        
+        ```html
+        <nav>  
+          <ul>  
+            <li><a href="index.php">Home</a></li>  
+            <li><a href="jobs.php">Jobs</a></li>  
+            <li><a href="apply.php">Apply</a></li>  
+          </ul>  
+        </nav>  
+        ```
+        
+- **Footer (`footer.inc`)**:
+    - Copyright and scripts:
+        
+        ```html
+        <footer>  
+          <p>© 2024 Company XYZ. All rights reserved.</p>  
+        </footer>  
+        <script src="scripts/main.js"></script>  
+        </body>  
+        </html>  
+        ```
+        
+
+---
+
+### **B4: Relative Links**
+
+- **Image Paths**:
+    - Correct: `src="images/banner.jpg"`.
+    - Incorrect: `src="/var/www/project2/images/banner.jpg"` (absolute path).
+- **CSS/JS References**:
+    - Use `href="styles/style.css"` instead of `href="http://example.com/styles/style.css"`.
+- **PHP Includes**:
+    - Reference include files relative to the root:
+        
+        ```php
+        <?php include('menu.inc'); ?>  
+        ```
+        
+
+---
+
+### **B5: Deployment on Mercury**
+
+- **Upload Process**:
+    - Zip the `project2/` folder and upload to Mercury via SFTP.
+    - Unzip on Mercury, ensuring the directory structure is preserved.
+- **Server Configuration**:
+    - Ensure PHP is enabled and `settings.php` has correct permissions (e.g., `chmod 600 settings.php`).
+    - Test all pages on Mercury (e.g., `https://mercury.swin.edu.au/project2/index.php`).
+- **Security Measures**:
+    - Restrict access to `manage.php` via `.htaccess` if enhancements include login:
+        
+        ```apache
+        <Files "manage.php">  
+          AuthType Basic  
+          AuthName "Restricted Access"  
+          AuthUserFile /path/to/.htpasswd  
+          Require valid-user  
+        </Files>  
+        ```
+        
+
+---
+
+### **B6: Validation**
+
+- **Broken Link Check**:
+    - Use tools like W3C Link Checker to verify relative paths.
+- **Cross-Browser Testing**:
+    - Ensure compatibility with Chrome, Firefox, and Safari.
+- **Case Sensitivity**:
+    - Confirm filenames match exactly (e.g., `Header.inc` vs. `header.inc` will fail on Unix servers).
+
+---
+
+### **B7: Critical Notes**
+
+- **Avoid Absolute Paths**:
+    - Hardcoding paths like `C:\xampp\htdocs\project2\images\logo.png` will break on Mercury.
+- **File Naming Conventions**:
+    - Case-sensitive for Linux servers: `manage.php` ≠ `Manage.php`.
+- **Submission Compliance**:
+    - The ZIP file must retain the `project2/` folder structure.
+    - All pages must run from `index.php` without manual file rearrangement.
+
+This expanded structure ensures clarity on file organization, deployment steps, and best practices for maintaining a functional, portable web application.
