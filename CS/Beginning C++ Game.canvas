@@ -225,66 +225,6 @@
       "y": -1440
     },
     {
-      "height": 60,
-      "id": "62c4961c56fea031",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Definition",
-      "type": "text",
-      "width": 140,
-      "x": 2858,
-      "y": -737
-    },
-    {
-      "height": 50,
-      "id": "421b8478c15eb639",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Importance",
-      "type": "text",
-      "width": 200,
-      "x": 2858,
-      "y": -370
-    },
-    {
-      "height": 68,
-      "id": "3a7f0275f17c4eab",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Strong Typing",
-      "type": "text",
-      "width": 180,
-      "x": 2918,
-      "y": 504
-    },
-    {
-      "height": 50,
-      "id": "c444195b9322de89",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "User-Defined Types",
-      "type": "text",
-      "width": 248,
-      "x": 2918,
-      "y": -64
-    },
-    {
-      "height": 68,
-      "id": "19f3be5f3952f279",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "**Explanation**: Blueprints for creating objects (instances of a class).",
-      "type": "text",
-      "width": 385,
-      "x": 3653,
-      "y": -250
-    },
-    {
       "height": 44,
       "id": "97a6fea826c08c3d",
       "styleAttributes": {
@@ -332,184 +272,6 @@
       "width": 260,
       "x": 3653,
       "y": 278
-    },
-    {
-      "height": 50,
-      "id": "12e9674266b9dddb",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Allow for dynamic behavior and interaction",
-      "type": "text",
-      "width": 450,
-      "x": 3218,
-      "y": -310
-    },
-    {
-      "height": 60,
-      "id": "59dfc98caf303eda",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": " The compiler enforces strict type checking.",
-      "type": "text",
-      "width": 380,
-      "x": 3238,
-      "y": 434
-    },
-    {
-      "height": 80,
-      "id": "45eaf51c2350b3f4",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Reduces unexpected behavior by ensuring variables are used consistently with their declared types.",
-      "type": "text",
-      "width": 440,
-      "x": 3238,
-      "y": 582
-    },
-    {
-      "height": 80,
-      "id": "64f289ec3f5e1939",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Requires explicit type conversions when operating between different data types.",
-      "type": "text",
-      "width": 360,
-      "x": 3238,
-      "y": 669
-    },
-    {
-      "height": 44,
-      "id": "4fc0cc2e9e51dc0c",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Classes",
-      "type": "text",
-      "width": 170,
-      "x": 3318,
-      "y": -172
-    },
-    {
-      "height": 60,
-      "id": "163d8a1d7b12a0f0",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "player health",
-      "type": "text",
-      "width": 160,
-      "x": 3658,
-      "y": -807
-    },
-    {
-      "height": 50,
-      "id": "7ae79f59578260ee",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "score",
-      "type": "text",
-      "width": 160,
-      "x": 3658,
-      "y": -590
-    },
-    {
-      "height": 50,
-      "id": "0db5613697956791",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": " etc",
-      "type": "text",
-      "width": 160,
-      "x": 3658,
-      "y": -530
-    },
-    {
-      "height": 90,
-      "id": "088b329f5b13a970",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Essential for tracking game state",
-      "type": "text",
-      "width": 240,
-      "x": 3218,
-      "y": -470
-    },
-    {
-      "height": 68,
-      "id": "b7af3181668057d0",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "C++ is a strongly typed language.",
-      "type": "text",
-      "width": 340,
-      "x": 3238,
-      "y": 356
-    },
-    {
-      "height": 60,
-      "id": "aa81fe7c25244ab3",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Named identifiers for memory locations",
-      "type": "text",
-      "width": 250,
-      "x": 3258,
-      "y": -877
-    },
-    {
-      "height": 67,
-      "id": "b8e128748d211e2e",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": " Used to store and manipulate data in games",
-      "type": "text",
-      "width": 250,
-      "x": 3258,
-      "y": -667
-    },
-    {
-      "height": 92,
-      "id": "a324ef1b5fd293ad",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "Enumerations (Enums)",
-      "type": "text",
-      "width": 170,
-      "x": 3318,
-      "y": 74
-    },
-    {
-      "file": "CS/Operators.md",
-      "height": 140,
-      "id": "668a7c73b95c8909",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 260,
-      "x": 140,
-      "y": 400
-    },
-    {
-      "file": "Chapter 2.md",
-      "height": 314,
-      "id": "f2a4240197e0b2d7",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 804,
-      "x": -1120,
-      "y": 90
     },
     {
       "height": 63,
@@ -572,6 +334,244 @@
       "width": 294,
       "x": 2260,
       "y": -460
+    },
+    {
+      "height": 68,
+      "id": "3a7f0275f17c4eab",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Strong Typing",
+      "type": "text",
+      "width": 180,
+      "x": 2918,
+      "y": 504
+    },
+    {
+      "height": 68,
+      "id": "19f3be5f3952f279",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "**Explanation**: Blueprints for creating objects (instances of a class).",
+      "type": "text",
+      "width": 385,
+      "x": 3653,
+      "y": -250
+    },
+    {
+      "height": 60,
+      "id": "59dfc98caf303eda",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": " The compiler enforces strict type checking.",
+      "type": "text",
+      "width": 380,
+      "x": 3238,
+      "y": 434
+    },
+    {
+      "height": 80,
+      "id": "45eaf51c2350b3f4",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Reduces unexpected behavior by ensuring variables are used consistently with their declared types.",
+      "type": "text",
+      "width": 440,
+      "x": 3238,
+      "y": 582
+    },
+    {
+      "height": 80,
+      "id": "64f289ec3f5e1939",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Requires explicit type conversions when operating between different data types.",
+      "type": "text",
+      "width": 360,
+      "x": 3238,
+      "y": 669
+    },
+    {
+      "height": 60,
+      "id": "163d8a1d7b12a0f0",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "player health",
+      "type": "text",
+      "width": 160,
+      "x": 3658,
+      "y": -807
+    },
+    {
+      "height": 50,
+      "id": "7ae79f59578260ee",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "score",
+      "type": "text",
+      "width": 160,
+      "x": 3658,
+      "y": -590
+    },
+    {
+      "height": 50,
+      "id": "0db5613697956791",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": " etc",
+      "type": "text",
+      "width": 160,
+      "x": 3658,
+      "y": -530
+    },
+    {
+      "file": "CS/Operators.md",
+      "height": 140,
+      "id": "668a7c73b95c8909",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 260,
+      "x": 140,
+      "y": 400
+    },
+    {
+      "file": "Chapter 2.md",
+      "height": 314,
+      "id": "f2a4240197e0b2d7",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 804,
+      "x": -1120,
+      "y": 90
+    },
+    {
+      "height": 60,
+      "id": "62c4961c56fea031",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Definition",
+      "type": "text",
+      "width": 140,
+      "x": 2858,
+      "y": -737
+    },
+    {
+      "height": 50,
+      "id": "421b8478c15eb639",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Importance",
+      "type": "text",
+      "width": 200,
+      "x": 2858,
+      "y": -370
+    },
+    {
+      "height": 50,
+      "id": "c444195b9322de89",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "User-Defined Types",
+      "type": "text",
+      "width": 248,
+      "x": 2918,
+      "y": -64
+    },
+    {
+      "height": 50,
+      "id": "12e9674266b9dddb",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Allow for dynamic behavior and interaction",
+      "type": "text",
+      "width": 450,
+      "x": 3218,
+      "y": -310
+    },
+    {
+      "height": 44,
+      "id": "4fc0cc2e9e51dc0c",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Classes",
+      "type": "text",
+      "width": 170,
+      "x": 3318,
+      "y": -172
+    },
+    {
+      "height": 90,
+      "id": "088b329f5b13a970",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Essential for tracking game state",
+      "type": "text",
+      "width": 240,
+      "x": 3218,
+      "y": -470
+    },
+    {
+      "height": 68,
+      "id": "b7af3181668057d0",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "C++ is a strongly typed language.",
+      "type": "text",
+      "width": 340,
+      "x": 3238,
+      "y": 356
+    },
+    {
+      "height": 60,
+      "id": "aa81fe7c25244ab3",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Named identifiers for memory locations",
+      "type": "text",
+      "width": 250,
+      "x": 3258,
+      "y": -877
+    },
+    {
+      "height": 67,
+      "id": "b8e128748d211e2e",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": " Used to store and manipulate data in games",
+      "type": "text",
+      "width": 250,
+      "x": 3258,
+      "y": -667
+    },
+    {
+      "height": 92,
+      "id": "a324ef1b5fd293ad",
+      "styleAttributes": {
+        "shape": null
+      },
+      "text": "Enumerations (Enums)",
+      "type": "text",
+      "width": 170,
+      "x": 3318,
+      "y": 74
     }
   ]
 }

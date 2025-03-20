@@ -1,1 +1,2 @@
-[[database]]
+[[database manipulation]]
+[[table manipulation]]
