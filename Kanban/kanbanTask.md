@@ -28,7 +28,9 @@ kanban-plugin: board
 
 ## COS10026
 
-- [ ] COS10026 - Lab 9
+- [x] COS10026 - Lab 9
+- [ ] COS10026 - Lab 10
+- [ ] [[CSO10026 - A2]]
 
 
 ## STA10003
