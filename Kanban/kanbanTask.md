@@ -20,10 +20,11 @@ kanban-plugin: board
 ## COS10025
 
 - [ ] Submit before Friday
-- [ ] FIx diagram
-- [ ] Reformat font
 - [ ] Split Tech + Approach
+- [ ] Reformat font
 - [ ] Swin logo
+- [ ] Fix diagram
+- [ ] Firebase UI
 
 
 ## COS10026
