@@ -38,6 +38,11 @@ kanban-plugin: board
 - [ ] STA10003 - Topic Test w9
 
 
+## 🧹Cleaning
+
+- [ ] Beginning C++ Game old files
+
+
 ***
 
 ## Archive
@@ -47,6 +52,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
 ```
 %%

@@ -1,0 +1,8 @@
+- NOTE: the database's name used here is `myDB`
+- create a database
+	- `CREATE DATABASE myDB;`
+- set as default schema (use)
+	- `USE myDB;`
+- drop/remove database
+	- `DROP DATABASE myDB;`
+- 
