@@ -33,13 +33,12 @@
             }
           },
           {
-            "id": "f7a35a208c4aca35",
+            "id": "4b1afbe226d0d0d6",
             "type": "leaf",
-            "pinned": true,
+            "dimension": 20,
             "state": {
               "type": "mindmap-nextgen-plugin",
               "state": {},
-              "pinned": true,
               "icon": "dot-network",
               "title": "Mindmap"
             }
@@ -272,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -295,7 +294,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "373680bc2608a656",
+  "active": "a832bf1d53ced37c",
   "lastOpenFiles": [
     "Classes/COS10025/Presentation (my part).md",
     "Kanban/kanbanTask.md",
