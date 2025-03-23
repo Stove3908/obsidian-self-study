@@ -26,3 +26,5 @@ For a random sample of 177 Australian adults, the average expenditure per week o
 The 95% confidence interval shows that the average expenditure per week on leisure activities of Australian adults who play sport is between $1.42 less and $19.96 more  than for those who do not play sport. 
 
 There is no evidence to suggest any difference in the weekly expenditure on leisure activities of Australian adults who play sport and those who do not play sport. 
+
+![[Pasted image 20250323231318.png]]
