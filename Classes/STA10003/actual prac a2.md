@@ -5,6 +5,8 @@ Research conducted in 2010 suggested that the average food expenditure in Austra
 ---
 An economist hypothesised that current average expenditure on food per week in Australia differs from the average food expenditure in 2010, which was $125.00 per week. 
 
-The 95% confidence interval shows that average hours sleep per night for university students taking the instructor’s unit is between 0.32 and 1.28 hours less than 8 hours. 
+For a random sample of 196 Australian adults, the average amount of food expenditure per week was $116.42 per week (s = $54.42 per week).  This is lower than $125 per week and a one-sample t-test shows this difference in mean hours sleep per night is significant, t(195) = 29.95, p < 0.001 
 
-As expected, the average amount of sleep per night for students taking the instructor’s unit differs from 8 hours, with her students on average sleeping less than 8 hours per night.
+The 95% confidence interval shows that current average amount of food expenditure per week for Australian adults is between $0.91 and $16.25 per week less than $125.00 per week in 2010. 
+
+As expected, the current average expenditure on food per week in Australia differs from the research conducted in 2010, which was $125 per week
