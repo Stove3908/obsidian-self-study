@@ -46,3 +46,14 @@ An economist predicted that Australian adults who play sport spend more money pe
 In a random sample of 177 Australian adults, the average leisure expenditure for people who play sport (M = $100.80, s = $31.85, n = 64) was higher than the average leisure expenditure per week for those who do not play sport (M = $91.53, s = $36.09, n = 113), however an independent samples t-test shows that this difference in mean weekly leisure expenditure is not significant, t(175) = 1.71, p =.089. The 95% confidence interval indicates that the mean weekly leisure expenditure of Australian adults who play sport is between $1.42 per week lower and $19.96 per week higher than for those who do not play sport. 
 
 There is insufficient evidence to suggest that that Australian adults who play sport spend more money per week on leisure activities than those who do not play sport.
+
+---
+It was predicted that Australian adults would spend a different amount of money on food per week than they do on leisure activities. 
+
+In a random sample of 177 Australian adults, on average, the expenditure on food per week (M = $117.19, s = $54.89) was higher than the expenditure on leisure activities (M = $94.88, s = $34.81). A paired samples t-test shows that this difference in the mean 
+amount spent per week ( MD = $22.31, SD = $62.14) is significant, t(176) = 4.78, p < .001. 
+The 95% confidence interval indicates that the mean amount spent on food per week is 
+between $13.10 and $31.53 higher than the amount spent on leisure activities. 
+
+As expected, Australian adults do spend a different amount of money on food and leisure 
+activities, with them spending more on food per week than on leisure activities. 
