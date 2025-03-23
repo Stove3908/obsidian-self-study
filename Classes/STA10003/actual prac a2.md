@@ -27,4 +27,13 @@ The 95% confidence interval shows that the average expenditure per week on leisu
 
 There is no evidence to suggest any difference in the weekly expenditure on leisure activities of Australian adults who play sport and those who do not play sport. 
 
-![[Pasted image 20250323231318.png]]
+----
+Researchers predicted that the level of conflict in relationships for Australian adults is lower than it was in 2020. Previous research indicated that for Australian adults the average level of conflict in relationships in 2020 was 90. The level of conflict in relationships is measured on a scale from 0 to 200, with higher values indicating a higher level of conflict in relationships. Conduct a one-sample t-test to test this prediction. Produce the relevant SPSS output, and write a one-sample t-test report based on your output. Include the relevant output after your report. 
+
+ 
+
+A study was conducted to investigate if weekly food expenditure in Australia is now different to what it was in 2010 [$125.00]. 
+
+In a random sample of 196 Australian adults, the average expenditure on food per week was $116.42 (s = $54.42). This is, in fact, lower than the average weekly food expenditure recorded in 2010 ($125.00), and a one-sample t-test shows that this difference in mean food expenditure per week is significant, t(195) = 2.21, p = .028. The 95% confidence interval indicates that the average weekly food expenditure is between $0.91 and $16.25 less per week than it was in 2010. 
+
+As expected weekly food expenditure in Australia is now different than it was in 2010. Australian adults, on average, now have lower weekly food expenditure than in 2010. 
