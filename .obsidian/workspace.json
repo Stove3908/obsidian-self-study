@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/STA10003/actual prac a2.md",
+                "file": "Classes/COS10025/Presentation (my part).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "actual prac a2"
+              "title": "Presentation (my part)"
             }
           },
           {
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -159,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COS10025/Presentation feedback.md",
+                "file": "Classes/COS10025/Presentation (my part).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Presentation feedback"
+              "title": "Backlinks for Presentation (my part)"
             }
           },
           {
@@ -178,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COS10025/Presentation feedback.md",
+                "file": "Classes/COS10025/Presentation (my part).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Presentation feedback"
+              "title": "Outgoing links from Presentation (my part)"
             }
           },
           {
@@ -207,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COS10025/Presentation feedback.md",
+                "file": "Classes/COS10025/Presentation (my part).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Presentation feedback"
+              "title": "Outline of Presentation (my part)"
             }
           },
           {
@@ -294,12 +295,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b993de941e275b89",
+  "active": "0485343aa891741a",
   "lastOpenFiles": [
-    "Classes/COS10026/COS10026. Assignment 2.md",
-    "Classes/COS10025/Presentation feedback.md",
-    "Classes/STA10003/sample answer for a2.md",
     "Classes/STA10003/actual prac a2.md",
+    "Classes/COS10025/Presentation feedback.md",
+    "Classes/COS10026/COS10026. Assignment 2.md",
+    "Classes/STA10003/sample answer for a2.md",
     "Pasted image 20250323231341.png",
     "Pasted image 20250323231334.png",
     "Pasted image 20250323231318.png",
