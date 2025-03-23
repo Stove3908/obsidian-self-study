@@ -16,3 +16,10 @@ As expected, the current average expenditure on food per week in Australia diffe
 The economist also suggested that Australian adults who play sport will spend 
 more money per week on leisure activities than those who do not play sport
 
+![[Pasted image 20250323215737.png]]
+
+---
+An economist hypothesised that the average weekly expenditure on leisure activities of Australian adults who play sport is higher than those who do not play sport.
+
+- For a random sample of 177 Australian adults, the average expenditure per week on leisure activities of Australian adults who play sport (M = 28.21 kg/m2, s = 5.16 kg/m2, n = 871) was higher than the average BMI of the women (M = 26.12 kg/m2, s = 4.97 kg/m2, n = 845)
+- and an independent samples t-test shows this difference in mean BMI is significant, t(1714) = 8.55, p < .001 

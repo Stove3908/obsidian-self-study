@@ -49,14 +49,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/STA10003/1 sample t-test for a2.md",
+                "file": "Classes/STA10003/sample answer for a2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 sample t-test for a2"
+              "title": "sample answer for a2"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ba4743e6f99f7d08",
+        "type": "tabs",
+        "children": [
           {
             "id": "0485343aa891741a",
             "type": "leaf",
@@ -71,8 +78,7 @@
               "title": "actual prac a2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,8 +289,9 @@
   },
   "active": "0485343aa891741a",
   "lastOpenFiles": [
-    "Classes/STA10003/1 sample t-test for a2.md",
+    "Classes/STA10003/sample answer for a2.md",
     "Classes/STA10003/actual prac a2.md",
+    "Pasted image 20250323215737.png",
     "Pasted image 20250323210028.png",
     "Classes/COS10025/Presentation (my part).md",
     "Notes/2025/2025-03/table manipulation.md",
