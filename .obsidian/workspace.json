@@ -56,14 +56,7 @@
               "icon": "lucide-file",
               "title": "sample answer for a2"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "ba4743e6f99f7d08",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "0485343aa891741a",
             "type": "leaf",
@@ -78,7 +71,8 @@
               "title": "actual prac a2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"

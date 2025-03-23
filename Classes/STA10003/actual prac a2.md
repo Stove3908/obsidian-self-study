@@ -21,6 +21,8 @@ more money per week on leisure activities than those who do not play sport
 ---
 An economist hypothesised that the average weekly expenditure on leisure activities of Australian adults who play sport is higher than those who do not play sport.
 
-For a random sample of 177 Australian adults, the average expenditure per week on leisure activities of Australian adults who play sport (M = $100.80, s = 31.85, n = 64) was higher than the average weekly expenditure on leisure activities of  those who do not play sport (M = 91.53, s = 36.09, n = 113), and an independent samples t-test shows this difference in mean leisure expenditure per week is not significant, t(175) = 1.711, p = 0.89 
+For a random sample of 177 Australian adults, the average expenditure per week on leisure activities of Australian adults who play sport (M = $100.80, s = <span style="background:rgba(205, 244, 105, 0.55)"> $ </span>31.85, n = 64) was higher than the average weekly expenditure on leisure activities of  those who do not play sport (M = <span style="background:rgba(205, 244, 105, 0.55)"> $ </span>91.53, s = <span style="background:rgba(205, 244, 105, 0.55)"> $ </span>36.09, n = 113), and an independent samples t-test shows this difference in mean leisure expenditure per week is not significant, t(175) = 1.71~~1~~, p = 0.89 
 
-The 95% confidence interval shows that the average expenditure per week on leisure activities of Australian adults who play sport is between $1.42 less and $2.57 more  than for those who do not play sport. 
+The 95% confidence interval shows that the average expenditure per week on leisure activities of Australian adults who play sport is between $1.42 less and $19.96 more  than for those who do not play sport. 
+
+There is no evidence to suggest any difference in the weekly expenditure on leisure activities of Australian adults who play sport and those who do not play sport. 
