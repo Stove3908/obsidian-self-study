@@ -37,3 +37,12 @@ A study was conducted to investigate if weekly food expenditure in Australia is 
 In a random sample of 196 Australian adults, the average expenditure on food per week was $116.42 (s = $54.42). This is, in fact, lower than the average weekly food expenditure recorded in 2010 ($125.00), and a one-sample t-test shows that this difference in mean food expenditure per week is significant, t(195) = 2.21, p = .028. The 95% confidence interval indicates that the average weekly food expenditure is between $0.91 and $16.25 less per week than it was in 2010. 
 
 As expected weekly food expenditure in Australia is now different than it was in 2010. Australian adults, on average, now have lower weekly food expenditure than in 2010. 
+
+---
+Researchers predicted that the level of happiness in relationships reported by Australian adults is lower for males than for females. The level of happiness in relationships is measured on a scale from 0 to 100, with higher values indicating a higher level of happiness in relationships. Conduct an independent samples t- test to test this prediction. Produce the relevant SPSS output, and write an independent samples t-test report based on your output. Include the relevant output after your report. 
+
+An economist predicted that Australian adults who play sport spend more money per week on leisure activities than those who do not play sport. 
+
+In a random sample of 177 Australian adults, the average leisure expenditure for people who play sport (M = $100.80, s = $31.85, n = 64) was higher than the average leisure expenditure per week for those who do not play sport (M = $91.53, s = $36.09, n = 113), however an independent samples t-test shows that this difference in mean weekly leisure expenditure is not significant, t(175) = 1.71, p =.089. The 95% confidence interval indicates that the mean weekly leisure expenditure of Australian adults who play sport is between $1.42 per week lower and $19.96 per week higher than for those who do not play sport. 
+
+There is insufficient evidence to suggest that that Australian adults who play sport spend more money per week on leisure activities than those who do not play sport.
