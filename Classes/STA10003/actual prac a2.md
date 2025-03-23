@@ -50,10 +50,8 @@ There is insufficient evidence to suggest that that Australian adults who play s
 ---
 It was predicted that Australian adults would spend a different amount of money on food per week than they do on leisure activities. 
 
-In a random sample of 177 Australian adults, on average, the expenditure on food per week (M = $117.19, s = $54.89) was higher than the expenditure on leisure activities (M = $94.88, s = $34.81). A paired samples t-test shows that this difference in the mean 
-amount spent per week ( MD = $22.31, SD = $62.14) is significant, t(176) = 4.78, p < .001. 
-The 95% confidence interval indicates that the mean amount spent on food per week is 
-between $13.10 and $31.53 higher than the amount spent on leisure activities. 
+In a random sample of 177 Australian adults, on average, the expenditure on food per week (M = $117.19, s = $54.89) was higher than the expenditure on leisure activities (M = $94.88, s = $34.81). A paired samples t-test shows that this difference in the mean amount spent per week ( MD = $22.31, SD = $62.14) is significant, t(176) = 4.78, p < .001. 
 
-As expected, Australian adults do spend a different amount of money on food and leisure 
-activities, with them spending more on food per week than on leisure activities. 
+The 95% confidence interval indicates that the mean amount spent on food per week is between $13.10 and $31.53 higher than the amount spent on leisure activities. 
+
+As expected, Australian adults do spend a different amount of money on food and leisure activities, with them spending more on food per week than on leisure activities. 
