@@ -56,7 +56,8 @@
 - [[8.7. Core Sentence and Family History]]
 - [[8.8. Acknowledging Family Members]]
 - [[8.9. Transforming Fear]]
-- ledoansang2004
+- [[8.10. Core Language Map Construction]]
+- [[8.11. Next Steps]]
 
 ## Chapter 9 – The Core Trauma
 
