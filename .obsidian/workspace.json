@@ -8,43 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3fb193a8e7202c7",
+            "id": "f6d9a21af1b9642d",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban/kanbanTask.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Programming Languages/MySQL.md",
+                "mode": "source",
+                "source": false
               },
-              "pinned": true,
-              "icon": "lucide-trello",
-              "title": "kanbanTask"
+              "icon": "lucide-file",
+              "title": "MySQL"
             }
           },
           {
             "id": "4b1afbe226d0d0d6",
             "type": "leaf",
             "dimension": 20,
+            "pinned": true,
             "state": {
               "type": "mindmap-nextgen-plugin",
               "state": {},
+              "pinned": true,
               "icon": "dot-network",
               "title": "Mindmap"
             }
           },
           {
-            "id": "f6d9a21af1b9642d",
+            "id": "6f02112709c53682",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -72,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -281,12 +273,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "4b1afbe226d0d0d6",
+  "active": "6f02112709c53682",
   "lastOpenFiles": [
-    "Classes/COS10025/Presentation feedback.md",
-    "Notes/2025/2025-03/table manipulation.md",
     "Programming Languages/MySQL.md",
+    "Notes/2025/2025-03/table manipulation.md",
     "Notes/2025/2025-03/database manipulation.md",
+    "Classes/COS10025/Presentation feedback.md",
     "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/11.4. Developmental & Emotional Consequences.md",
     "Notes/2025/2025-03/11.3. Core Language of Separation.md",
