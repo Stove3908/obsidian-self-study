@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/table manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It Didn't Start With You"
+              "title": "table manipulation"
             }
           },
           {
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/table manipulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for table manipulation"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/table manipulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from It Didn't Start With You"
+              "title": "Outgoing links from table manipulation"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/table manipulation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of table manipulation"
             }
           },
           {
@@ -281,13 +281,15 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "f6d9a21af1b9642d",
+  "active": "4b1afbe226d0d0d6",
   "lastOpenFiles": [
+    "Programming Languages/MySQL.md",
+    "Notes/2025/2025-03/database manipulation.md",
+    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/11.4. Developmental & Emotional Consequences.md",
     "Notes/2025/2025-03/11.3. Core Language of Separation.md",
     "Notes/2025/2025-03/11.2.md",
     "Notes/2025/2025-03/11.1. The Mother-Child Bond.md",
-    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
     "Notes/2025/2025-03/9.7. Key Concepts.md",
     "Notes/2025/2025-03/8.11. Next Steps.md",
@@ -308,8 +310,6 @@
     "Pasted image 20250323210028.png",
     "Notes/2025/2025-03/table manipulation.md",
     "Kanban/kanbanTask.md",
-    "Programming Languages/MySQL.md",
-    "Notes/2025/2025-03/database manipulation.md",
     "CS/Beginning C++ Game.canvas",
     "CS/Beginning C++ Programming.md",
     "Notes/2025/2025-03/1. Specified Requirements.md",
