@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "It Didn't Start With You"
+              "title": "10.4. Body Awareness & Physical Integration"
             }
           },
           {
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for It Didn't Start With You"
+              "title": "Backlinks for 10.4. Body Awareness & Physical Integration"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from It Didn't Start With You"
+              "title": "Outgoing links from 10.4. Body Awareness & Physical Integration"
             }
           },
           {
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/It Didn't Start With You.md",
+                "file": "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of It Didn't Start With You"
+              "title": "Outline of 10.4. Body Awareness & Physical Integration"
             }
           },
           {
@@ -283,8 +283,8 @@
   },
   "active": "f6d9a21af1b9642d",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/9.7. Key Concepts.md",
     "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/9.7. Key Concepts.md",
     "Notes/2025/2025-03/8.11. Next Steps.md",
     "Notes/2025/2025-03/8.10. Core Language Map Construction.md",
     "Classes/STA10003/STA10003. lecture note 11.md",
