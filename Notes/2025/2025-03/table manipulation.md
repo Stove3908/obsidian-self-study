@@ -43,5 +43,10 @@
 	ALTER TABLE employees
 	MODIFY email varchar (100)
 	AFTER last_name;
-```
-	- `FIRST`: 
+	```
+	-  `FIRST`: move column to be first
+- drop column
+	```mysql
+	ALTER TABLE employees
+	DROP email;
+	```

@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,7 +273,7 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "6f02112709c53682",
+  "active": "4b1afbe226d0d0d6",
   "lastOpenFiles": [
     "Programming Languages/MySQL.md",
     "Notes/2025/2025-03/table manipulation.md",
