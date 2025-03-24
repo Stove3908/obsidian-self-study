@@ -11,3 +11,4 @@
 	- `ALTER DATABASE myDB READ ONLY = 1;`
 - set database to NOT read only
 	- `ALTER DATABASE myDB READ ONLY = 0;`
+
