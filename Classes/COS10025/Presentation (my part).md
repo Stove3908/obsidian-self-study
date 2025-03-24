@@ -9,6 +9,18 @@
 4. **Smart Irrigation**: IoT sensors (soil moisture, water quality) feed data to ESP32 microcontroller.
 5. **Cloud Dashboard**: Real-time monitoring via Firebase; SMS alerts via Twilio.
 
+**
+
+- Saline water from coastal, groundwater, or surface sources is first pumped into the solar still basin where it is desalinated into potable water. 
+- The purified water then flows into a storage unit and is simultaneously used for irrigation. 
+- IoT sensors continuously monitor water quality and soil moisture; this data is sent to the ESP32-C3 microcontroller, which adjusts water levels and issues commands to valve actuators accordingly.
+- Simultaneously, the sensor data is transmitted via the gateway to the cloud for trend analysis and future predictions.
+- In cases of potential water shortages, SMS alerts and emails (with links to detailed usage charts on the dashboard) are sent. 
+- For system malfunctions, technicians are alerted, while residents provide feedback through the online interface to eventually refine predictive algorithms.
+
+**
+
+
 ---
 
 ## **Slide 2: Three Approaches in Design Stages**
