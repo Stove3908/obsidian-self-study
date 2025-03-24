@@ -21,3 +21,15 @@
 		- `(50)`: maximum 50 characters
 	- `DECIMAL(5, 2)`
 		- `(5, 2)`: 5 maximum digits, decimal precision 2 digits (111.50)
+- select table
+	- `SELECT * FROM employees;`
+		- `*` = all
+- rename table
+	- `RENAME TABLE employees TO workers;`
+- drop table
+	- `DROP TABLE employees;`
+- add phone number
+	```mysql
+	ALTER TABLE employees
+	ADD phone_number VARCHAR(15);
+	```
