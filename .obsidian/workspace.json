@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COS10025/Presentation (my part).md",
+                "file": "Notes/2025/2025-03/xx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentation (my part)"
+              "title": "xx"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -160,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/COS10025/Presentation (my part).md",
+                "file": "Notes/2025/2025-03/xx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Presentation (my part)"
+              "title": "Backlinks for xx"
             }
           },
           {
@@ -179,12 +178,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/COS10025/Presentation (my part).md",
+                "file": "Notes/2025/2025-03/xx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Presentation (my part)"
+              "title": "Outgoing links from xx"
             }
           },
           {
@@ -208,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/COS10025/Presentation (my part).md",
+                "file": "Notes/2025/2025-03/xx.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Presentation (my part)"
+              "title": "Outline of xx"
             }
           },
           {
@@ -297,9 +296,12 @@
   },
   "active": "0485343aa891741a",
   "lastOpenFiles": [
+    "Classes/Vovinam/Untitled.md",
+    "Notes/2025/2025-03/xx.md",
+    "Classes/COS10025/Presentation (my part).md",
+    "Classes/Vovinam",
     "Classes/COS10025/Presentation feedback.md",
     "Notes/2025/2025-03/Untitled 2.md",
-    "Classes/COS10025/Presentation (my part).md",
     "Classes/STA10003/actual prac a2.md",
     "Classes/COS10026/COS10026. Assignment 2.md",
     "Classes/STA10003/sample answer for a2.md",
@@ -328,8 +330,6 @@
     "Classes/COS10026/COS10026. Week 9.md",
     "Notes/2025/2025-03/4. PHP and MySQL Integration.md",
     "Notes/2025/2025-03/3. SQL Basics.md",
-    "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
-    "Notes/2025/2025-03/1. Introduction to Databases.md",
     "Classes/STA10003/Week 8.canvas",
     "Pasted image 20250319185455.png",
     "Books/It Didn't Start With You.canvas",
@@ -349,7 +349,6 @@
     "Books",
     "Classes",
     "Classes/COS10026",
-    "1.D. Initial Actions",
-    "Notes"
+    "1.D. Initial Actions"
   ]
 }
