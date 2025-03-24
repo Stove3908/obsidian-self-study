@@ -63,12 +63,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Vovinam/KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC.md",
+                "file": "Classes/STA10003/STA10003. lecture note 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC"
+              "title": "STA10003. lecture note 11"
             }
           },
           {
@@ -139,12 +139,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Vovinam/KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC.md",
+                "file": "Classes/STA10003/STA10003. lecture note 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC"
+              "title": "Backlinks for STA10003. lecture note 11"
             }
           },
           {
@@ -179,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes/Vovinam/KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC.md",
+                "file": "Classes/STA10003/STA10003. lecture note 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC"
+              "title": "Outgoing links from STA10003. lecture note 11"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes/Vovinam/KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC.md",
+                "file": "Classes/STA10003/STA10003. lecture note 11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC"
+              "title": "Outline of STA10003. lecture note 11"
             }
           },
           {
@@ -298,8 +298,9 @@
   },
   "active": "f6d9a21af1b9642d",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/xx.md",
     "Classes/Vovinam/KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC.md",
+    "Classes/STA10003/STA10003. lecture note 11.md",
+    "Notes/2025/2025-03/xx.md",
     "Classes/COS10025/Presentation (my part).md",
     "Classes/Vovinam",
     "Classes/COS10025/Presentation feedback.md",
@@ -331,7 +332,6 @@
     "Notes/2025/2025-03/2. Web Structure.md",
     "Classes/COS10026/COS10026. Week 9.md",
     "Notes/2025/2025-03/4. PHP and MySQL Integration.md",
-    "Notes/2025/2025-03/3. SQL Basics.md",
     "Classes/STA10003/Week 8.canvas",
     "Pasted image 20250319185455.png",
     "Books/It Didn't Start With You.canvas",
