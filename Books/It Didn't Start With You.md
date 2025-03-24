@@ -76,3 +76,10 @@
 - [[10.4. Body Awareness & Physical Integration]]
 - [[10.5. Healing Parent Relationships]]
 - [[10.6. Transition to Early Separation (Next Chapter Preview)]]
+
+## Chapter 11 -
+- [[11.1. The Mother-Child Bond]]
+- [[11.2]]
+- [[11.3. Core Language of Separation]]
+- [[11.4. Developmental & Emotional Consequences]]
+- anony011026
