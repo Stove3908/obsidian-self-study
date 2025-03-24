@@ -28,8 +28,20 @@
 	- `RENAME TABLE employees TO workers;`
 - drop table
 	- `DROP TABLE employees;`
-- add phone number
+- add column
 	```mysql
 	ALTER TABLE employees
 	ADD phone_number VARCHAR(15);
 	```
+- modify column
+	```mysql
+	ALTER TABLE employees
+	MODIFY email varchar(100);
+	```
+- change column position
+	```mysql
+	ALTER TABLE employees
+	MODIFY email varchar (100)
+	AFTER last_name;
+```
+	- `FIRST`: 
