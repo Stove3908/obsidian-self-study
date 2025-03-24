@@ -11,11 +11,10 @@
 **1. Vovinam là gì?**
 
 - Vovinam = {{c1::Võ Việt Nam}} (đã quốc tế hóa).
-- Còn gọi là Việt Võ Đạo (Võ thuật + Võ đạo Việt Nam).
-- Cách gọi đầy đủ: Vovinam - Việt Võ Đạo.
+- Vovinam còn được gọi là {{c0::Việt Võ Đạo}} ({{c0::Võ thuật}} + {{c0::Võ đạo}} Việt Nam).
+- Cách gọi đầy đủ của Vovinam: {{c0::Vovinam}} - {{c0::Việt Võ Đạo}}.
 
 **2. Ý nghĩa của việc đặt bàn tay lên trái tim khi nghiêm lễ:**
-
 - Bàn tay thép trên trái tim từ ái.
 - Đức dũng đi đôi với lòng nhân.
 - Dùng võ để cảnh báo, cảm hóa, không dùng để trả thù.
