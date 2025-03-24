@@ -67,7 +67,6 @@
 - [[9.4. Genograms]]
 - [[9.5. Case Studies]]
 - [[9.6. Written Exercises]]
-- anony011024
 - [[9.7. Key Concepts]]
 
 ## Chapter 10 - From Insight to Integration
