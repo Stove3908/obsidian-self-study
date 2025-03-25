@@ -21,7 +21,7 @@
 		- `(50)`: maximum 50 characters
 	- `DECIMAL(5, 2)`
 		- `(5, 2)`: 5 maximum digits, decimal precision 2 digits (111.50)
-- select table
+- select table (query)
 	- `SELECT * FROM employees;`
 		- `*` = all
 - rename table
