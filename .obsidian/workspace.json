@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/constraint.md",
+                "file": "Notes/2025/2025-03/unique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "constraint"
+              "title": "unique"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/constraint.md",
+                "file": "Notes/2025/2025-03/unique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for constraint"
+              "title": "Backlinks for unique"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/constraint.md",
+                "file": "Notes/2025/2025-03/unique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from constraint"
+              "title": "Outgoing links from unique"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/constraint.md",
+                "file": "Notes/2025/2025-03/unique.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of constraint"
+              "title": "Outline of unique"
             }
           },
           {
@@ -260,8 +260,8 @@
   },
   "active": "6f02112709c53682",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/unique.md",
     "Notes/2025/2025-03/constraint.md",
+    "Notes/2025/2025-03/unique.md",
     "Programming Languages/MySQL.md",
     "Notes/2025/2025-03/current-date-time.md",
     "Notes/2025/2025-03/table.md",
