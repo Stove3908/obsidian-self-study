@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/MySQL row.md",
+                "file": "Notes/2025/2025-03/select.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MySQL row"
+              "title": "select"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/MySQL row.md",
+                "file": "Notes/2025/2025-03/select.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MySQL row"
+              "title": "Backlinks for select"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/MySQL row.md",
+                "file": "Notes/2025/2025-03/select.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MySQL row"
+              "title": "Outgoing links from select"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/MySQL row.md",
+                "file": "Notes/2025/2025-03/select.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MySQL row"
+              "title": "Outline of select"
             }
           },
           {
@@ -261,6 +261,7 @@
   "active": "6f02112709c53682",
   "lastOpenFiles": [
     "Programming Languages/MySQL.md",
+    "Notes/2025/2025-03/select.md",
     "Notes/2025/2025-03/MySQL row.md",
     "Notes/2025/2025-03/MySQL database.md",
     "Notes/2025/2025-03/MySQL Table.md",
@@ -292,7 +293,6 @@
     "Pasted image 20250323210028.png",
     "Kanban/kanbanTask.md",
     "CS/Beginning C++ Game.canvas",
-    "CS/Beginning C++ Programming.md",
     "Programming Languages",
     "Classes/STA10003/Week 8.canvas",
     "Pasted image 20250319185455.png",

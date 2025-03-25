@@ -8,7 +8,7 @@
     null
   ],
   "settings": {
-    "splitDirection": "horizontal",
+    "splitDirection": "vertical",
     "nodeMinHeight": 32,
     "lineHeight": "1em",
     "spacingVertical": 10,
@@ -17,7 +17,7 @@
     "initialExpandLevel": -1,
     "colorFreezeLevel": 0,
     "animationDuration": 500,
-    "maxWidth": 500,
+    "maxWidth": 600,
     "highlight": true,
     "coloring": "branch",
     "depth1Color": "#cb4b16",
