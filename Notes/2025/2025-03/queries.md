@@ -37,9 +37,11 @@
 			FROM employees
 			WHERE employee_id != 1;
 			```
-		- `!=` operator
+		- `NULL` value
 			```mysql
 			SELECT * 
 			FROM employees
-			WHERE employee_id != 1;
+			WHERE hire_date IS NULL;
 			```
+			- `= NULL` will not work
+			- `IS NOT NULL` will do the opposite (return all rows that DOES contain the value)
