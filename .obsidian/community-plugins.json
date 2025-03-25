@@ -19,7 +19,6 @@
   "quick-latex",
   "obsidian-latex-suite",
   "simple-canvasearch",
-  "obsidian-excalidraw-plugin",
   "search-in-canvas",
   "obsidian42-brat",
   "obsidian-regex-replace",
@@ -31,5 +30,8 @@
   "canvas-mindmap-helper",
   "table-editor-obsidian",
   "canvas-node-screenshot",
-  "flashcards-obsidian"
+  "dataview",
+  "dbfolder",
+  "obsidian-excalidraw-plugin",
+  "obsidian-front-matter-title-plugin"
 ]

@@ -1,0 +1,10 @@
+commands in mysql:
+- [[database]]
+- [[table]]
+- [[row]]
+- [[queries]]
+- [[update-delete]]
+- [[commit-rollback]]
+- [[current-date-time]]
+- [[unique]]
+- [[constraint]]

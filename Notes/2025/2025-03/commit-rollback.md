@@ -1,4 +1,4 @@
-[[MySQL]]
+[[MySQL commands]]
 
 - turn off automatic save
 	```mysql

@@ -1,4 +1,4 @@
-[[MySQL]]
+[[MySQL commands]]
 
 - create table with unique column
 	```mysql

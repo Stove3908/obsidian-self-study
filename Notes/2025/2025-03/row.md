@@ -1,4 +1,4 @@
-[[MySQL]]
+[[MySQL commands]]
 
 - insert row
 	```mySQL

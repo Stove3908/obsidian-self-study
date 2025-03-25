@@ -1,4 +1,4 @@
-[[MySQL]]
+[[MySQL commands]]
 
 - create a time table
 	```mysql

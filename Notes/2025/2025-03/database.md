@@ -1,17 +1,30 @@
-commands for [[MySQL]]
+- database commands for MySQL
+- part of [[MySQL commands]]
 
+---
 - NOTE: the database's name used here is `myDB`
-- create a database
-	- `CREATE DATABASE myDB;`
+- create a database with the name `myDB`
+```mysql
+CREATE DATABASE myDB;
+```
 
-- set as default schema (use)
-	- `USE myDB;`
+- set it as default schema (use)
+```mysql
+USE myDB;
+```
 
 - drop/remove database
-	- `DROP DATABASE myDB;`
+```mysql
+DROP DATABASE myDB;
+```
 
 - set database to read only
-	- `ALTER DATABASE myDB READ ONLY = 1;`
+```mysql
+ALTER DATABASE myDB READ ONLY = 1;
+```
+
 - set database to NOT read only
-	- `ALTER DATABASE myDB READ ONLY = 0;`
+```mysql
+ALTER DATABASE myDB READ ONLY = 0;
+```
 

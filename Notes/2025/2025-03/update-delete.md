@@ -1,4 +1,4 @@
-[[MySQL]]
+[[MySQL commands]]
 - update a field
 	```mysql
 	UPDATE employees
