@@ -5,4 +5,5 @@
 [[update-delete]]
 [[commit-rollback]]
 [[current-date-time]]
-[[Unique]]
+[[unique]]
+[[constraint]]

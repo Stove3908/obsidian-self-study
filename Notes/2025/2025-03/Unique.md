@@ -1,3 +1,5 @@
+[[MySQL]]
+
 - create table with unique column
 	```mysql
 	CREATE TABLE products (
@@ -13,3 +15,4 @@
 	ADD CONSTRAINT
 	UNIQUE(product_name);
 	```
+	- part of `CONSTRAINT` [[constraint]]
