@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/commit-rollback.md",
+                "file": "Notes/2025/2025-03/table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commit-rollback"
+              "title": "table"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/commit-rollback.md",
+                "file": "Notes/2025/2025-03/table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for commit-rollback"
+              "title": "Backlinks for table"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/commit-rollback.md",
+                "file": "Notes/2025/2025-03/table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from commit-rollback"
+              "title": "Outgoing links from table"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/commit-rollback.md",
+                "file": "Notes/2025/2025-03/table.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of commit-rollback"
+              "title": "Outline of table"
             }
           },
           {
@@ -261,11 +261,12 @@
   "active": "4b1afbe226d0d0d6",
   "lastOpenFiles": [
     "Programming Languages/MySQL.md",
+    "Notes/2025/2025-03/database.md",
+    "Notes/2025/2025-03/current-date-time.md",
     "Notes/2025/2025-03/commit-rollback.md",
     "Notes/2025/2025-03/update-delete.md",
     "Notes/2025/2025-03/table.md",
     "Notes/2025/2025-03/row.md",
-    "Notes/2025/2025-03/database.md",
     "Notes/2025/2025-03/queries.md",
     "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
     "Notes/2025/2025-03/1. Introduction to Databases.md",
@@ -286,7 +287,6 @@
     "Classes/Vovinam",
     "Notes/2025/2025-03/Untitled 2.md",
     "Classes/STA10003/actual prac a2.md",
-    "Classes/COS10026/COS10026. Assignment 2.md",
     "Pasted image 20250323231341.png",
     "Pasted image 20250323231334.png",
     "Pasted image 20250323231318.png",
