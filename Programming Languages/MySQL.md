@@ -1,4 +1,5 @@
-[[MySQL database]]
-[[MySQL Table]]
-[[MySQL row]]
+[[database]]
+[[table]]
+[[row]]
 [[queries]]
+[[update-delete]]
