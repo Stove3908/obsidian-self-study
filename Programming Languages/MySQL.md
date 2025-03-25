@@ -1,3 +1,4 @@
+commands in mysql:
 [[database]]
 [[table]]
 [[row]]

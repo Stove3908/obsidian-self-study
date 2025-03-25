@@ -22,34 +22,21 @@
             }
           },
           {
-            "id": "4b1afbe226d0d0d6",
-            "type": "leaf",
-            "dimension": 20,
-            "pinned": true,
-            "state": {
-              "type": "mindmap-nextgen-plugin",
-              "state": {},
-              "pinned": true,
-              "icon": "dot-network",
-              "title": "Mindmap"
-            }
-          },
-          {
             "id": "6f02112709c53682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/unique.md",
+                "file": "Notes/2025/2025-03/database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "unique"
+              "title": "database"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/unique.md",
+                "file": "Notes/2025/2025-03/database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for unique"
+              "title": "Backlinks for database"
             }
           },
           {
@@ -141,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/unique.md",
+                "file": "Notes/2025/2025-03/database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from unique"
+              "title": "Outgoing links from database"
             }
           },
           {
@@ -170,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/unique.md",
+                "file": "Notes/2025/2025-03/database.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of unique"
+              "title": "Outline of database"
             }
           },
           {
@@ -260,12 +247,21 @@
   },
   "active": "6f02112709c53682",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/constraint.md",
-    "Notes/2025/2025-03/unique.md",
     "Programming Languages/MySQL.md",
+    "Notes/2025/2025-03/database.md",
+    "CS/Untitled.md",
+    "CS/Variable Declaration and Initialization in C++.md",
+    "CS/Operators.md",
+    "Notes/2025/2025-03/HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
+    "CS/Untitled.canvas",
+    "CS/C++ Variables.md",
+    "CS/Types of variable table.md",
+    "Notes/2025/2025-03/20250310231211.md",
+    "Notes/2025/2025-03/Note 1.A.2. Harvard Negotiation Course.md",
+    "Notes/2025/2025-03/unique.md",
+    "Notes/2025/2025-03/constraint.md",
     "Notes/2025/2025-03/current-date-time.md",
     "Notes/2025/2025-03/table.md",
-    "Notes/2025/2025-03/database.md",
     "Notes/2025/2025-03/commit-rollback.md",
     "Notes/2025/2025-03/update-delete.md",
     "Notes/2025/2025-03/row.md",
@@ -278,14 +274,6 @@
     "Notes/2025/2025-03/11.4. Developmental & Emotional Consequences.md",
     "Notes/2025/2025-03/11.3. Core Language of Separation.md",
     "Notes/2025/2025-03/11.2.md",
-    "Notes/2025/2025-03/11.1. The Mother-Child Bond.md",
-    "Notes/2025/2025-03/10.4. Body Awareness & Physical Integration.md",
-    "Notes/2025/2025-03/9.7. Key Concepts.md",
-    "Notes/2025/2025-03/8.11. Next Steps.md",
-    "Notes/2025/2025-03/8.10. Core Language Map Construction.md",
-    "Classes/STA10003/STA10003. lecture note 11.md",
-    "Classes/Vovinam/KIẾN THỨC VÕ ĐẠO - TÓM TẮT ÔN THI CẤP TỐC.md",
-    "Classes/COS10025/Presentation (my part).md",
     "Classes/Vovinam",
     "Pasted image 20250323231341.png",
     "Pasted image 20250323231334.png",
@@ -297,7 +285,6 @@
     "Classes/STA10003/Week 8.canvas",
     "Pasted image 20250319185455.png",
     "Books/It Didn't Start With You.canvas",
-    "Notes/2025/2025-03/HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "Kanban",
     "Personal",
     "az thumb - sara.jpg",
@@ -308,7 +295,6 @@
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
     "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
     "Classes/STA10003/Week 8",
-    "CS/Untitled.canvas",
     "Classes/STA10003",
     "Books",
     "Classes",
