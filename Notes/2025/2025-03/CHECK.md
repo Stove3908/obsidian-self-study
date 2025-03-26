@@ -1,3 +1,5 @@
+- `CHECK` commands for MySQL
+- part of [[MySQL commands]]
 
 # `CHECK` to new table
 ```mysql
@@ -26,4 +28,10 @@ create table employees (
 ```mysql
 ALTER TABLE employees
 ADD CONSTRAINT chk_hourly_pay CHECK(hourly_pay >= 10);
+```
+
+# Drop `CHECK`
+```mysql
+ALTER TABLE employees
+DROP CHECK chk_hourly_pay;
 ```

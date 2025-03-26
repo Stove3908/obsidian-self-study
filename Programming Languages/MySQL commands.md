@@ -7,5 +7,6 @@ commands in mysql:
 - [[current-date-time]]
 - [[UNIQUE]]
 - [[constraint]]
-- [[XX]]
+- [[CHECK]]
+- [[DEFAULT]]
 - 
