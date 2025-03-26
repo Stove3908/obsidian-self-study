@@ -1,17 +1,6 @@
 [[MySQL commands]]
 
-- create table with NOT NULL constraint
-	```mysql
-	CREATE TABLE products (
-		product_id INT,
-	    product_name VARCHAR(25),
-	    price DECIMAL (4, 2) NOT NULL
-	);
-	```
-	- `NOT NULL`: column price cannot be NULL (no value)
-- add `NOT NULL` to an already exist table
-	```mysql
-	ALTER TABLE products
-	MODIFY price DECIMAL (4, 2) NOT NULL;
-	```
-- `UNIQUE` constraint: [[unique]]
+# `NOT NULL`
+- NOT NULL contraint [[NOT NULL]]
+
+# `UNIQUE` [[UNIQUE#make an already-created column unique using `CONSTRAINT` (if not unique already)|constraint]]

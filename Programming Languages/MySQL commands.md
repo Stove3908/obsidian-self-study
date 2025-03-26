@@ -5,5 +5,5 @@ commands in mysql:
 - [[queries]]
 - [[manual save point]]
 - [[current-date-time]]
-- [[unique]]
+- [[UNIQUE]]
 - [[constraint]]

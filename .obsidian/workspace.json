@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/current-date-time.md",
+                "file": "Notes/2025/2025-03/NOT NULL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "current-date-time"
+              "title": "NOT NULL"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/current-date-time.md",
+                "file": "Notes/2025/2025-03/NOT NULL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for current-date-time"
+              "title": "Backlinks for NOT NULL"
             }
           },
           {
@@ -145,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/current-date-time.md",
+                "file": "Notes/2025/2025-03/NOT NULL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from current-date-time"
+              "title": "Outgoing links from NOT NULL"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/current-date-time.md",
+                "file": "Notes/2025/2025-03/NOT NULL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of current-date-time"
+              "title": "Outline of NOT NULL"
             }
           },
           {
@@ -265,9 +265,12 @@
   },
   "active": "6f02112709c53682",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/constraint.md",
+    "Notes/2025/2025-03/UNIQUE.md",
+    "Notes/2025/2025-03/NOT NULL.md",
+    "Programming Languages/MySQL commands.md",
     "Notes/2025/2025-03/database.md",
     "Notes/2025/2025-03/current-date-time.md",
-    "Programming Languages/MySQL commands.md",
     "Notes/2025/2025-03/manual save point.md",
     "Notes/2025/2025-03/update-delete.md",
     "Notes/2025/2025-03/table.md",
@@ -281,7 +284,6 @@
     "Notes/2025/2025-03/Pasted image 20250323231334.png",
     "Notes/2025/2025-03/Pasted image 20250323231318.png",
     "Notes/2025/2025-03/Pasted image 20250323231341.png",
-    "Notes/2025/2025-03/constraint.md",
     "CS/Untitled.md",
     "CS/Variable Declaration and Initialization in C++.md",
     "CS/Operators.md",
@@ -291,7 +293,6 @@
     "CS/Types of variable table.md",
     "Notes/2025/2025-03/20250310231211.md",
     "Notes/2025/2025-03/Note 1.A.2. Harvard Negotiation Course.md",
-    "Notes/2025/2025-03/unique.md",
     "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
     "Notes/2025/2025-03/1. Introduction to Databases.md",
     "Notes/2025/2025-03/CSO10026 - A2.md",
