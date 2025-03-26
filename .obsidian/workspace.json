@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/queries.md",
+                "file": "Notes/2025/2025-03/commit-rollback.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "queries"
+              "title": "commit-rollback"
             }
           },
           {
@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/queries.md",
+                "file": "Notes/2025/2025-03/commit-rollback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for queries"
+              "title": "Backlinks for commit-rollback"
             }
           },
           {
@@ -144,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/queries.md",
+                "file": "Notes/2025/2025-03/commit-rollback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from queries"
+              "title": "Outgoing links from commit-rollback"
             }
           },
           {
@@ -173,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/queries.md",
+                "file": "Notes/2025/2025-03/commit-rollback.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of queries"
+              "title": "Outline of commit-rollback"
             }
           },
           {
@@ -265,9 +266,11 @@
   "active": "6f02112709c53682",
   "lastOpenFiles": [
     "Programming Languages/MySQL commands.md",
+    "Notes/2025/2025-03/update-delete.md",
+    "Notes/2025/2025-03/table.md",
+    "Notes/2025/2025-03/queries.md",
     "Notes/2025/2025-03/row.md",
     "Notes/2025/2025-03/database.md",
-    "Notes/2025/2025-03/table.md",
     "Notes/2025/2025-03/Untitled 1 1.md",
     "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/Note_Viewer.md",
@@ -289,8 +292,6 @@
     "Notes/2025/2025-03/unique.md",
     "Notes/2025/2025-03/current-date-time.md",
     "Notes/2025/2025-03/commit-rollback.md",
-    "Notes/2025/2025-03/update-delete.md",
-    "Notes/2025/2025-03/queries.md",
     "Notes/2025/2025-03/2. MySQL, MariaDB Overview.md",
     "Notes/2025/2025-03/1. Introduction to Databases.md",
     "Notes/2025/2025-03/CSO10026 - A2.md",

@@ -3,7 +3,6 @@ commands in mysql:
 - [[table]]
 - [[row]]
 - [[queries]]
-- [[update-delete]]
 - [[commit-rollback]]
 - [[current-date-time]]
 - [[unique]]
