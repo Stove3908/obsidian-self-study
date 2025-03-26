@@ -1,5 +1,7 @@
 - `UNIQUE` commands for MySQL
-- part of [[MySQL commands]], [[constraint|CONSTRAINT commands]]
+- part of
+	- [[MySQL commands]]
+	- [[constraint|CONSTRAINT commands]]
 
 # `UNIQUE` to new table
 - create table with unique column (only accept unique value) called 'products'
