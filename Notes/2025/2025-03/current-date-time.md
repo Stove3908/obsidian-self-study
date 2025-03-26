@@ -1,6 +1,7 @@
-[[MySQL commands]]
+- current-date-time commands for MySQL
+- part of [[MySQL commands]]
 
-- create a time table
+#create a time table
 	```mysql
 	CREATE TABLE test(
 		my_date DATE,
