@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -241,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,10 +265,10 @@
   },
   "active": "6f02112709c53682",
   "lastOpenFiles": [
-    "Programming Languages/MySQL commands.md",
-    "Notes/2025/2025-03/DEFAULT.md",
-    "Notes/2025/2025-03/CHECK.md",
     "Notes/2025/2025-03/database.md",
+    "Notes/2025/2025-03/DEFAULT.md",
+    "Programming Languages/MySQL commands.md",
+    "Notes/2025/2025-03/CHECK.md",
     "Notes/2025/2025-03/table.md",
     "Notes/2025/2025-03/constraint.md",
     "Notes/2025/2025-03/NOT NULL.md",

@@ -1,5 +1,8 @@
-
-# Set `DEFAULT` to a new table
+- DEFAULT commands for MySQL
+- part of [[MySQL commands]]
+- 
+# Set `DEFAULT` to a value 
+## For a new table
 ```mysql
 CREATE TABLE products (
 	product_id INT,
@@ -8,7 +11,7 @@ CREATE TABLE products (
 );
 ```
 - if not stated otherwise, the default price will be `0.00`
-## extra example
+### extra example
 - create transactions table
 ```mysql
 CREATE TABLE transactions(
@@ -24,7 +27,7 @@ INSERT INTO transactions(transaction_id, amount)
 VALUE (1, 4.99);
 ```
 
-# Set `DEFAULT` to a pre-existed table
+## For a pre-existed table
 ```mysql
 ALTER TABLE products
 ALTER price SET DEFAULT 0; #the default price will be `0.00`
