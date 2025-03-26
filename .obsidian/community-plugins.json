@@ -33,5 +33,6 @@
   "dataview",
   "dbfolder",
   "obsidian-excalidraw-plugin",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "shiki-highlighter"
 ]
