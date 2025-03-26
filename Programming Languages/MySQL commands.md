@@ -3,7 +3,7 @@ commands in mysql:
 - [[table]]
 - [[row]]
 - [[queries]]
-- [[commit-rollback]]
+- [[manual save point]]
 - [[current-date-time]]
 - [[unique]]
 - [[constraint]]
