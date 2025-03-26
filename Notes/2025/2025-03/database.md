@@ -3,27 +3,27 @@
 
 ---
 - NOTE: the database's name used here is `myDB`
-- create a database with the name `myDB`
+# create a database with the name `myDB`
 ```mysql
 CREATE DATABASE myDB;
 ```
 
-- set it as default schema (use)
+# set it as default schema (use)
 ```mysql
 USE myDB;
 ```
 
-- drop/remove database
+# drop/remove database
 ```mysql
 DROP DATABASE myDB;
 ```
 
-- set database to read only
+# set database to read only
 ```mysql
 ALTER DATABASE myDB READ ONLY = 1;
 ```
 
-- set database to NOT read only
+# set database to NOT read only
 ```mysql
 ALTER DATABASE myDB READ ONLY = 0;
 ```

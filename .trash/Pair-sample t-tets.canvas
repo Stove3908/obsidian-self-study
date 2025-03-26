@@ -460,7 +460,7 @@
       "text": "Definition & Purpose",
       "type": "text",
       "width": 320,
-      "x": -529,
+      "x": 960,
       "y": -930
     },
     {
@@ -471,7 +471,7 @@
       "text": "Tests \\'**mean differences**\\' between two related conditions.",
       "type": "text",
       "width": 657,
-      "x": -9,
+      "x": 1480,
       "y": -930
     },
     {
@@ -482,8 +482,8 @@
       "text": "Used for **dependent samples** (same participants or matched pairs).",
       "type": "text",
       "width": 657,
-      "x": -9,
-      "y": -850
+      "x": 1480,
+      "y": -820
     },
     {
       "height": 60,
@@ -493,8 +493,8 @@
       "text": "Focuses on **difference scores** (e.g., post-test − pre-test).",
       "type": "text",
       "width": 657,
-      "x": -9,
-      "y": -770
+      "x": 1480,
+      "y": -720
     },
     {
       "height": 60,
@@ -504,8 +504,8 @@
       "text": "More sensitive than independent t-test (controls for individual differences).",
       "type": "text",
       "width": 657,
-      "x": -9,
-      "y": -690
+      "x": 1480,
+      "y": -620
     },
     {
       "height": 60,
@@ -515,8 +515,8 @@
       "text": "Research Designs",
       "type": "text",
       "width": 320,
-      "x": -529,
-      "y": -610
+      "x": 960,
+      "y": -335
     },
     {
       "height": 60,
@@ -526,8 +526,8 @@
       "text": "**Repeated Measures**",
       "type": "text",
       "width": 267,
-      "x": -9,
-      "y": -610
+      "x": 1458,
+      "y": -335
     },
     {
       "height": 60,
@@ -537,8 +537,8 @@
       "text": "Example: Police officers’ license plate recall before vs. after training.",
       "type": "text",
       "width": 636,
-      "x": 458,
-      "y": -530
+      "x": 1890,
+      "y": -240
     },
     {
       "height": 60,
@@ -548,8 +548,8 @@
       "text": "Same participants measured twice (e.g., before/after intervention).",
       "type": "text",
       "width": 636,
-      "x": 458,
-      "y": -610
+      "x": 1890,
+      "y": -335
     },
     {
       "height": 60,
@@ -559,8 +559,8 @@
       "text": "Matched Pairs",
       "type": "text",
       "width": 267,
-      "x": -9,
-      "y": -450
+      "x": 1458,
+      "y": -100
     },
     {
       "height": 60,
@@ -570,8 +570,8 @@
       "text": "Different participants matched on key variables (e.g., age, IQ).",
       "type": "text",
       "width": 632,
-      "x": 458,
-      "y": -450
+      "x": 1890,
+      "y": -100
     },
     {
       "height": 60,
@@ -581,8 +581,8 @@
       "text": "Example: Twins assigned to different treatment groups.",
       "type": "text",
       "width": 632,
-      "x": 458,
-      "y": -370
+      "x": 1887,
+      "y": 20
     },
     {
       "height": 60,
@@ -592,8 +592,8 @@
       "text": "Hypotheses",
       "type": "text",
       "width": 320,
-      "x": -529,
-      "y": -290
+      "x": 960,
+      "y": 307
     },
     {
       "height": 60,
@@ -603,8 +603,8 @@
       "text": "**Null Hypothesis ($H_0$​)**:",
       "type": "text",
       "width": 281,
-      "x": -9,
-      "y": -290
+      "x": 1458,
+      "y": 307
     },
     {
       "height": 60,
@@ -614,8 +614,8 @@
       "text": "Verbal: _\"No difference between conditions.\"_",
       "type": "text",
       "width": 400,
-      "x": 472,
-      "y": -210
+      "x": 1880,
+      "y": 440
     },
     {
       "height": 60,
@@ -625,8 +625,8 @@
       "text": "$\\mu_D = 0$ (no population mean difference).",
       "type": "text",
       "width": 360,
-      "x": 472,
-      "y": -290
+      "x": 1880,
+      "y": 307
     },
     {
       "height": 60,
@@ -636,8 +636,8 @@
       "text": "**Alternative Hypothesis ($H_1$​)**:",
       "type": "text",
       "width": 281,
-      "x": -9,
-      "y": -130
+      "x": 1458,
+      "y": 600
     },
     {
       "height": 60,
@@ -647,8 +647,8 @@
       "text": "Non-directional: $μ_D\\neq0$ (two-tailed test).",
       "type": "text",
       "width": 360,
-      "x": 472,
-      "y": -130
+      "x": 1880,
+      "y": 600
     },
     {
       "height": 60,
@@ -658,8 +658,8 @@
       "text": "Directional: $\\mu_D>0$ or $\\mu_D<0$ (one-tailed test).",
       "type": "text",
       "width": 400,
-      "x": 472,
-      "y": -50
+      "x": 1880,
+      "y": 719
     },
     {
       "height": 60,
@@ -669,8 +669,8 @@
       "text": "Example: _\"Memory training increases license plate recall ($\\mu_D>0$).\"",
       "type": "text",
       "width": 560,
-      "x": 472,
-      "y": 30
+      "x": 1880,
+      "y": 839
     },
     {
       "height": 60,
@@ -691,8 +691,8 @@
       "text": "Observations in each condition are independent (no carryover effects).",
       "type": "text",
       "width": 639,
-      "x": 361,
-      "y": 110
+      "x": 1590,
+      "y": 1001
     },
     {
       "height": 60,
@@ -702,8 +702,8 @@
       "text": "Difference scores ($D$) are approximately normally distributed",
       "type": "text",
       "width": 513,
-      "x": 361,
-      "y": 190
+      "x": 1590,
+      "y": 1209
     },
     {
       "height": 60,
@@ -713,8 +713,8 @@
       "text": "Check via histogram, Q-Q plot, or Shapiro-Wilk test (SPSS).",
       "type": "text",
       "width": 513,
-      "x": 361,
-      "y": 270
+      "x": 1590,
+      "y": 1321
     },
     {
       "height": 60,
@@ -724,8 +724,8 @@
       "text": "Robust for large samples ($>30$) despite skew.",
       "type": "text",
       "width": 406,
-      "x": 361,
-      "y": 350
+      "x": 1590,
+      "y": 1441
     },
     {
       "height": 60,
@@ -735,8 +735,8 @@
       "text": "Independence",
       "type": "text",
       "width": 170,
-      "x": -9,
-      "y": 110
+      "x": 1280,
+      "y": 1000
     },
     {
       "height": 60,
@@ -746,8 +746,8 @@
       "text": "Normality",
       "type": "text",
       "width": 155,
-      "x": -9,
-      "y": 190
+      "x": 1280,
+      "y": 1209
     },
     {
       "height": 60,
@@ -757,8 +757,8 @@
       "text": "Assumptions",
       "type": "text",
       "width": 160,
-      "x": -529,
-      "y": 110
+      "x": 956,
+      "y": 1001
     },
     {
       "height": 86,
@@ -768,8 +768,8 @@
       "text": "$$t = \\frac{M_D - 0}{SE}$$",
       "type": "text",
       "width": 130,
-      "x": 472,
-      "y": 1015
+      "x": 1750,
+      "y": 2581
     },
     {
       "height": 76,
@@ -779,8 +779,8 @@
       "text": "$$df = n - 1$$",
       "type": "text",
       "width": 130,
-      "x": 472,
-      "y": 1121
+      "x": 1767,
+      "y": 2776
     },
     {
       "height": 60,
@@ -790,8 +790,8 @@
       "text": "Use t-table (e.g., $t_{\\text{crit}} = 2.145$ for $df = 14$, $\\alpha = .05$).",
       "type": "text",
       "width": 459,
-      "x": 472,
-      "y": 1217
+      "x": 1815,
+      "y": 2968
     },
     {
       "height": 60,
@@ -801,8 +801,8 @@
       "text": "Compute Difference Scores",
       "type": "text",
       "width": 281,
-      "x": -9,
-      "y": 430
+      "x": 1440,
+      "y": 1693
     },
     {
       "height": 60,
@@ -812,8 +812,8 @@
       "text": "Mean Difference ($M_D$​)",
       "type": "text",
       "width": 252,
-      "x": -9,
-      "y": 537
+      "x": 1440,
+      "y": 1880
     },
     {
       "height": 92,
@@ -823,8 +823,8 @@
       "text": "Variance ($s_D^2)$ & \nStandard Deviation ($s_D$)",
       "type": "text",
       "width": 252,
-      "x": -9,
-      "y": 657
+      "x": 1440,
+      "y": 2048
     },
     {
       "height": 72,
@@ -834,8 +834,8 @@
       "text": "Standard Error ($S_E$)",
       "type": "text",
       "width": 223,
-      "x": -9,
-      "y": 886
+      "x": 1455,
+      "y": 2386
     },
     {
       "height": 60,
@@ -845,8 +845,8 @@
       "text": "t-Statistic",
       "type": "text",
       "width": 167,
-      "x": -9,
-      "y": 1015
+      "x": 1452,
+      "y": 2594
     },
     {
       "height": 60,
@@ -856,8 +856,8 @@
       "text": "Degrees of Freedom",
       "type": "text",
       "width": 223,
-      "x": -9,
-      "y": 1121
+      "x": 1440,
+      "y": 2784
     },
     {
       "height": 60,
@@ -867,8 +867,8 @@
       "text": "Critical Value",
       "type": "text",
       "width": 223,
-      "x": -9,
-      "y": 1217
+      "x": 1452,
+      "y": 2968
     },
     {
       "height": 87,
@@ -878,8 +878,8 @@
       "text": "$$    D = X_{\\text{After}} - X_{\\text{Before}}$$",
       "type": "text",
       "width": 259,
-      "x": 472,
-      "y": 430
+      "x": 1897,
+      "y": 1680
     },
     {
       "height": 100,
@@ -889,8 +889,8 @@
       "text": "$$    M_D = \\frac{\\sum D}{n}$$",
       "type": "text",
       "width": 183,
-      "x": 472,
-      "y": 537
+      "x": 1897,
+      "y": 1860
     },
     {
       "height": 92,
@@ -900,8 +900,8 @@
       "text": "$$s_D^2 = \\frac{\\sum (D - MD)^2}{n - 1}$$",
       "type": "text",
       "width": 199,
-      "x": 472,
-      "y": 657
+      "x": 1897,
+      "y": 2048
     },
     {
       "height": 97,
@@ -911,8 +911,8 @@
       "text": "$$s_D = \\sqrt{s_D^2}$$",
       "type": "text",
       "width": 130,
-      "x": 472,
-      "y": 769
+      "x": 1897,
+      "y": 2211
     },
     {
       "height": 109,
@@ -922,8 +922,8 @@
       "text": "$$S_{E} = \\frac{s_D}{\\sqrt{n}}$$",
       "type": "text",
       "width": 130,
-      "x": 472,
-      "y": 886
+      "x": 1818,
+      "y": 2368
     },
     {
       "height": 60,
@@ -933,8 +933,8 @@
       "text": "Calculation Steps",
       "type": "text",
       "width": 200,
-      "x": -529,
-      "y": 430
+      "x": 956,
+      "y": 1693
     },
     {
       "height": 71,
@@ -944,8 +944,8 @@
       "text": "$$M_D = 1.53$$",
       "type": "text",
       "width": 144,
-      "x": 434,
-      "y": 1564
+      "x": 1946,
+      "y": 3746
     },
     {
       "height": 69,
@@ -955,8 +955,8 @@
       "text": "$$s_D = 2.20$$",
       "type": "text",
       "width": 144,
-      "x": 434,
-      "y": 1655
+      "x": 1946,
+      "y": 3866
     },
     {
       "height": 66,
@@ -966,8 +966,8 @@
       "text": "$$S_{E} = 0.568$$",
       "type": "text",
       "width": 144,
-      "x": 434,
-      "y": 1744
+      "x": 1946,
+      "y": 3986
     },
     {
       "height": 112,
@@ -977,8 +977,8 @@
       "text": "$$t(14) = \\frac{1.53}{0.568} = 2.699$$",
       "type": "text",
       "width": 210,
-      "x": 434,
-      "y": 1830
+      "x": 1935,
+      "y": 4146
     },
     {
       "height": 60,
@@ -988,8 +988,8 @@
       "text": "t-Value",
       "type": "text",
       "width": 143,
-      "x": -9,
-      "y": 1830
+      "x": 1717,
+      "y": 4171
     },
     {
       "height": 60,
@@ -999,8 +999,8 @@
       "text": "95% Confidence Interval",
       "type": "text",
       "width": 243,
-      "x": -9,
-      "y": 2065
+      "x": 1711,
+      "y": 4639
     },
     {
       "height": 60,
@@ -1010,8 +1010,8 @@
       "text": "Conclusion",
       "type": "text",
       "width": 149,
-      "x": -9,
-      "y": 2162
+      "x": 1711,
+      "y": 4806
     },
     {
       "height": 60,
@@ -1021,8 +1021,8 @@
       "text": "Decision",
       "type": "text",
       "width": 156,
-      "x": -9,
-      "y": 1962
+      "x": 1717,
+      "y": 4398
     },
     {
       "height": 83,
@@ -1032,8 +1032,8 @@
       "text": "$$t = 2.699 > t_{\\text{crit}} = 2.145 $$",
       "type": "text",
       "width": 228,
-      "x": 434,
-      "y": 1962
+      "x": 1954,
+      "y": 4386
     },
     {
       "height": 60,
@@ -1043,8 +1043,8 @@
       "text": "Training significantly improved recall ($p = .017$).",
       "type": "text",
       "width": 425,
-      "x": 434,
-      "y": 2162
+      "x": 1970,
+      "y": 4806
     },
     {
       "height": 74,
@@ -1054,8 +1054,8 @@
       "text": "$$M_D \\pm t_{\\text{crit}} \\times SE = 1.53 \\pm 2.145 \\times 0.568$$",
       "type": "text",
       "width": 338,
-      "x": 434,
-      "y": 2065
+      "x": 2049,
+      "y": 4632
     },
     {
       "height": 60,
@@ -1065,8 +1065,8 @@
       "text": "Data",
       "type": "text",
       "width": 98,
-      "x": -9,
-      "y": 1297
+      "x": 1717,
+      "y": 3404
     },
     {
       "height": 69,
@@ -1076,8 +1076,8 @@
       "text": "$$n = 15$$",
       "type": "text",
       "width": 144,
-      "x": 434,
-      "y": 1297
+      "x": 1946,
+      "y": 3400
     },
     {
       "height": 69,
@@ -1087,8 +1087,8 @@
       "text": "$$M_{\\text{Before}} = 5.67$$",
       "type": "text",
       "width": 144,
-      "x": 434,
-      "y": 1386
+      "x": 1946,
+      "y": 3506
     },
     {
       "height": 69,
@@ -1098,8 +1098,8 @@
       "text": "$$M_{\\text{After}} = 7.20$$",
       "type": "text",
       "width": 144,
-      "x": 434,
-      "y": 1475
+      "x": 1946,
+      "y": 3626
     },
     {
       "height": 60,
@@ -1109,8 +1109,8 @@
       "text": "$\\rightarrow$ $H_0$",
       "type": "text",
       "width": 130,
-      "x": 862,
-      "y": 1962
+      "x": 2257,
+      "y": 4398
     },
     {
       "height": 77,
@@ -1120,8 +1120,8 @@
       "text": "$$[0.32, 2.75] \\quad$$",
       "type": "text",
       "width": 120,
-      "x": 972,
-      "y": 2065
+      "x": 2487,
+      "y": 4630
     },
     {
       "height": 60,
@@ -1131,8 +1131,8 @@
       "text": "does not include 0 \n",
       "type": "text",
       "width": 211,
-      "x": 1292,
-      "y": 2065
+      "x": 2697,
+      "y": 4639
     },
     {
       "height": 60,
@@ -1142,8 +1142,8 @@
       "text": "$\\rightarrow$ significant",
       "type": "text",
       "width": 160,
-      "x": 1703,
-      "y": 2065
+      "x": 2994,
+      "y": 4639
     },
     {
       "height": 60,
@@ -1153,8 +1153,8 @@
       "text": "Example: Police Memory Training",
       "type": "text",
       "width": 320,
-      "x": -529,
-      "y": 1297
+      "x": 937,
+      "y": 3400
     },
     {
       "height": 60,
