@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 4.md",
+                "file": "Notes/2025/2025-03/8. Details for Enhancements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 4"
+              "title": "Backlinks for 8. Details for Enhancements"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 4.md",
+                "file": "Notes/2025/2025-03/8. Details for Enhancements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 4"
+              "title": "Outgoing links from 8. Details for Enhancements"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/2025/2025-03/Untitled 4.md",
+                "file": "Notes/2025/2025-03/8. Details for Enhancements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 4"
+              "title": "Outline of 8. Details for Enhancements"
             }
           },
           {
@@ -275,10 +275,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "029dcd9256de966e",
+  "active": "1f7ad3e051d6339a",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/8. Details for Enhancements.md",
     "Notes/2025/2025-03/Untitled 4.md",
+    "Notes/2025/2025-03/8. Details for Enhancements.md",
     "Notes/2025/2025-03/7. Database Design.md",
     "Notes/2025/2025-03/6. Validation & Security.md",
     "Notes/2025/2025-03/5. Group Submission.md",
