@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +262,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9b52dfcf7a5c8a14",
+  "active": "1f7ad3e051d6339a",
   "lastOpenFiles": [
     "Classes/COS10026/COS10026. Assignment 2 Overview.md",
     "Notes/2025/2025-03/CSO10026 - A2 checklist.md",
