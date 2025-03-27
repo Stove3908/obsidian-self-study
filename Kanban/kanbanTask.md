@@ -31,7 +31,7 @@ kanban-plugin: board
 
 - [x] COS10026 - Lab 9
 - [ ] COS10026 - Lab 10
-- [ ] [[CSO10026 - A2]]
+- [ ] [[CSO10026 - A2 checklist]]
 
 
 ## STA10003
