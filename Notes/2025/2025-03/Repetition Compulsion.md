@@ -4,3 +4,4 @@
 - Example: A person abandoned in childhood might repeatedly choose partners who leave them, unconsciously trying to work through the original abandonment.
 
 - This is caused by [[Trauma]]
+- Jung and Freud has some [[Freud and Jung on Trauma|similarities regarding trauma]]

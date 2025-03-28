@@ -1,0 +1,2 @@
+- Both [[Repetition Compulsion#^404bf6|Freud]] and [[Carl Jung’s Perspective on Trauma#^d32383|Jung]] highlight that trauma lingers in the unconscious, influencing life events and behaviors until addressed.
+- 

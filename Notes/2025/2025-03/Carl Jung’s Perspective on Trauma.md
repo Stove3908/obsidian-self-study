@@ -2,5 +2,5 @@
 - Example: Recurring fears or nightmares might stem from an unprocessed traumatic event influencing someone’s present reality
 
 - This is Carl Jung’s Perspective on [[Trauma]]
-- Jung and Freud has some similarities regarding trauma [[xx]]
+- Jung and Freud has some [[Freud and Jung on Trauma|similarities regarding trauma]]
 - 
