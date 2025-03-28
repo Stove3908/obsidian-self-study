@@ -1,8 +1,8 @@
-- Trauma is an overwhelming event that leads to feelings of helplessness and vulnerability
+- Trauma is an overwhelming event that results in feelings of helplessness and vulnerability
+- It’s not just the event itself that defines trauma, but the emotional and psychological impact it has on the individual. The sense of being unable to cope or protect oneself is central to the experience.
+- Example: Events like accidents, abuse, or natural disasters can be traumatic, depending on how they affect the person.
 
-- Trauma can fragment memories, disrupt thought processes, and lead to unconscious reenactment of past events.
 
-- Repetition Compulsion - The unconscious drive to relive unresolved traumas in an attempt to resolve them, as identified by Sigmund Freud.
-
-- Trauma has some effects on Memory and Behavior [[Effects of trauma on Memory and Behavior]]
-- Trauma has some biological impacts [[Biological Impact of Trauma]]
+- Trauma has some [[Effects of trauma on Memory and Behavior|effects on memory and behavior]]
+- Trauma leads to [[Repetition Compulsion]]
+- Trauma has some [[Biological Impact of Trauma|biological impacts]]
