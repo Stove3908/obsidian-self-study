@@ -93,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -303,15 +303,16 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "1f7ad3e051d6339a",
+  "active": "f8d87361061b8ca5",
   "lastOpenFiles": [
+    "Programming Languages/MySQL commands.md",
     "Notes/2025/2025-03/1. Specified Requirements.md",
+    "Books/It Didn't Start With You.md",
     "Classes/COS10026/COS10026. Assignment 2 Overview.md",
     "Notes/2025/2025-03/database.md",
     "Notes/2025/2025-03/2. Web Structure.md",
     "Notes/2025/2025-03/4. Review & Feedback.md",
     "Notes/2025/2025-03/CSO10026 - A2 checklist.md",
-    "Programming Languages/MySQL commands.md",
     "Notes/2025/2025-03/style.css.md",
     "Notes/2025/2025-03/about.html.md",
     "Notes/2025/2025-03/Untitled 4.md",
@@ -330,7 +331,6 @@
     "Notes/2025/2025-03/manual save point.md",
     "Notes/2025/2025-03/update-delete.md",
     "Notes/2025/2025-03/queries.md",
-    "Notes/2025/2025-03/row.md",
     "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/2025-03/Pasted image 20250323210028.png",
     "Notes/2025/2025-03/Pasted image 20250323215737.png",
