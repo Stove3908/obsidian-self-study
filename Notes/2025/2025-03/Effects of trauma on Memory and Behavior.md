@@ -1,20 +1,16 @@
-- Traumatic events often recalled in disjointed pieces of images, sounds, sensations, words,... (**fragmented memories**) rather than as a complete narrative.
+Traumatic events are often not remembered as a complete, step-by-step story. Instead, they are stored as **fragmented memories**—disjointed pieces such as vivid images, sounds, physical sensations, or single words. This scattered recall shapes how survivors experience and process trauma long after the event.
 
-- Ability to organize thoughts impaired 
-	- → difficult to connect fragmented memories to original event 
-	- → hinders the ability to describe or fully remember what happened
-
-- **Speechless Terror**: During a traumatic event, the brain’s speech center and medial prefrontal cortex can shut down, leaving individuals unable to articulate their experience, as noted by Bessel van der Kolk.        
-    - Impaired Memory: The brain struggles to form coherent memories, resulting in fragmented or incomplete recall.
-
-- This difficulty in verbalizing trauma underscores why alternative therapies (like art or body-based approaches) can be vital for recovery.
+### Why Do Fragmented Memories Happen?
+- **Disrupted Thought Organization**: During trauma, the brain’s ability to organize thoughts is impaired. This makes it hard to form a coherent narrative, leaving memories as unconnected fragments that are difficult to link back to the original event.
+- **Speechless Terror**: As trauma expert Bessel van der Kolk has noted, the brain’s speech center and medial prefrontal cortex (responsible for logical thinking) can shut down during a traumatic event. This state, sometimes called "speechless terror," prevents individuals from articulating or fully processing what’s happening. As a result, memories are stored in an incomplete, fragmented form rather than as a unified whole.
+- **Unconscious Storage**: These fragments are often buried in the unconscious mind, making them challenging to access or describe later.
     
-- Example: A survivor of a flood might recall the sound of rushing water or a sense of dread but be unable to narrate the event step-by-step.
-- The fragments stored in unconscious mind, can resurface when triggered by reminders of trauma, influencing behavior without conscious awareness.
--  This explains why trauma survivors may feel confused about their memories/ react strongly to seemingly unrelated triggers in their daily lives.
 
-- Example: Someone in a car accident might feel panic when hearing a loud noise like a horn, even if they don’t consciously link it to the past event.
+### How Fragmented Memories Affect Daily Life
+- **Triggers and Unconscious Reactions**: Fragments of traumatic memories can resurface when triggered by reminders like sights, sounds, or smells. These triggers can spark intense emotional or physical reactions, even if the person doesn’t consciously connect them to the trauma.
+    - *Example*: A flood survivor might feel a surge of dread when hearing rushing water, unable to narrate the full event but vividly recalling the sound.
+    - *Example*: A car accident survivor might panic at the sound of a horn, without immediately linking it to the crash.
+- **Confusion and Difficulty Recalling**: Because memories are disjointed and incomplete, survivors may struggle to fully remember or describe what happened. This can lead to confusion or frustration, as they grapple with gaps in their recollection.
 
 
 - These are effects of [[Trauma]] on Memory and Behavior
-- 
