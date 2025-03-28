@@ -1,11 +1,11 @@
-- Trauma significantly alters how memories are stored and how behaviors emerge:
-    - **Memory Fragmentation**: Traumatic events are often recalled in disjointed pieces—such as images, sounds, sensations, or words—rather than as a complete narrative.
-    - **Disrupted Thought Processes**: The ability to organize thoughts is impaired, making it difficult to connect fragmented memories to the original event.
-    - **Unconscious Reenactment**: These fragments are stored in the unconscious mind and can resurface when triggered by reminders of the trauma, influencing behavior without conscious awareness.
+- Traumatic events often recalled in disjointed pieces of images, sounds, sensations, words,... (**fragmented memories**) rather than as a complete narrative.
+- Ability to organize thoughts impaired → difficult to connect fragmented memories to original event.
+- The fragments stored in unconscious mind, can resurface when triggered by reminders of trauma, influencing behavior without conscious awareness.
 
-- fragment memories
-- disrupt thought processes
-- lead to unconscious reenactment of past events
+-  This explains why trauma survivors may feel confused about their memories/ react strongly to seemingly unrelated triggers in their daily lives.
 
-- These are effects of [[Trauma]]
+- Example: Someone in a car accident might feel panic when hearing a loud noise like a horn, even if they don’t consciously link it to the past event.
+
+
+- These are effects of [[Trauma]] on Memory and Behavior
 - 
