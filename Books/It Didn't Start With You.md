@@ -1,3 +1,5 @@
+# Linked Notes
+
 # It Didn't Start With You
 ## Chapter 1 - Trauma Lost and Found
 - [[1.1. Theoretical Foundations]]
