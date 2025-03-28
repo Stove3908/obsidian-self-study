@@ -1,4 +1,13 @@
-- Brain Function: Trauma impairs the speech center and medial prefrontal cortex, making it difficult to articulate experiences or stay present, according to Bessel van der Kolk.
-- Cortisol and Stress Response: Low cortisol levels are linked to ***chronic PTSD***, contributing to symptoms like depression and anxiety, as researched by Rachel Yehuda.
+- During a traumatic event, the speech center and medial prefrontal cortex shut down.
+    - Speech Center Shutdown → Leads to speechless terror, where individuals struggle to articulate their experiences.
+    - Medial Prefrontal Cortex Shutdown → Impairs present-moment awareness, as this area helps people stay grounded in the "here and now."
+        
+- Impact: This explains why trauma survivors often feel disconnected or unable to describe what happened during and after the event.
+
+
+
+
+
+
 
 - These are biological impacts of [[Trauma]]

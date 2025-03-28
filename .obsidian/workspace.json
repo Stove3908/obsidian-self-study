@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
+                "file": "Notes/2025/2025-03/Biological Impact of Trauma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Effects of trauma on Memory and Behavior"
+              "title": "Biological Impact of Trauma"
             }
           }
         ],
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
+                "file": "Notes/2025/2025-03/Biological Impact of Trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Effects of trauma on Memory and Behavior"
+              "title": "Backlinks for Biological Impact of Trauma"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
+                "file": "Notes/2025/2025-03/Biological Impact of Trauma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Effects of trauma on Memory and Behavior"
+              "title": "Outgoing links from Biological Impact of Trauma"
             }
           },
           {
@@ -280,10 +280,10 @@
   "lastOpenFiles": [
     "Notes/2025/2025-03/Trauma.md",
     "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
+    "Notes/2025/2025-03/Biological Impact of Trauma.md",
     "Notes/2025/2025-03/Carl Jung’s Perspective on Trauma.md",
     "Notes/2025/2025-03/Freud and Jung on Trauma.md",
     "Notes/2025/2025-03/Repetition Compulsion.md",
-    "Notes/2025/2025-03/Biological Impact of Trauma.md",
     "Books/It Didn't Start With You.md",
     "Programming Languages/MySQL commands.md",
     "Notes/2025/2025-03/1.4.process_eoi.php.md",
