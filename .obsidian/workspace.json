@@ -68,12 +68,14 @@
             "id": "bd890ec67c4f7c5e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Pasted image 20250328161420.png"
+                "file": "Workshop/AWS Observability Workshop.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250328161420"
+              "icon": "lucide-file",
+              "title": "AWS Observability Workshop"
             }
           }
         ],
@@ -134,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -150,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Pasted image 20250328161420.png",
+                "file": "Workshop/AWS Observability Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250328161420"
+              "title": "Backlinks for AWS Observability Workshop"
             }
           },
           {
@@ -169,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Pasted image 20250328161420.png",
+                "file": "Workshop/AWS Observability Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250328161420"
+              "title": "Outgoing links from AWS Observability Workshop"
             }
           },
           {
@@ -286,22 +289,24 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "f28249ae7d9b0f84",
+  "active": "bd890ec67c4f7c5e",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/Logs Insights.md",
     "Workshop/AWS Observability Workshop.md",
+    "Notes/2025/2025-03/Starting Live Tail.md",
+    "Notes/2025/2025-03/image-25.png",
+    "Notes/2025/2025-03/image-24.png",
+    "Notes/2025/2025-03/image-23.png",
+    "Notes/2025/2025-03/image-22.png",
+    "Notes/2025/2025-03/image-21.png",
+    "Notes/2025/2025-03/image-20.png",
+    "Notes/2025/2025-03/image-19.png",
+    "Notes/2025/2025-03/Pasted image 20250328161420.png",
     "Clippings/Transform and Enrich CloudWatch Logs.md",
     "Notes/2025/2025-03/Logs Infrequent Access.md",
     "Notes/2025/2025-03/image-18.png",
     "Notes/2025/2025-03/image-17.png",
-    "Notes/2025/2025-03/image-16.png",
-    "Notes/2025/2025-03/image-15.png",
     "Clippings",
-    "Notes/2025/2025-03/image-14.png",
-    "Notes/2025/2025-03/image-13.png",
-    "Notes/2025/2025-03/image-12.png",
-    "Notes/2025/2025-03/image-11.png",
-    "Notes/2025/2025-03/image-10.png",
-    "Notes/2025/2025-03/image-9.png",
     "Notes/2025/2025-03/Getting started with logs ingestion.md",
     "Notes/2025/2025-03/Logs.md",
     "Notes/2025/2025-03/AWS native Observability.md",
@@ -324,7 +329,6 @@
     "Notes/2025/2025-03/4. Review & Feedback.md",
     "Notes/2025/2025-03/CSO10026 - A2 checklist.md",
     "Notes/2025/2025-03/style.css.md",
-    "Notes/2025/2025-03/about.html.md",
     "Notes/Pair-sample t-tets.canvas",
     "CS/Untitled.canvas",
     "Classes/Vovinam",

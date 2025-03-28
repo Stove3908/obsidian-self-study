@@ -11,4 +11,6 @@
 		- [[Getting started with logs ingestion]]
 			- [[Logs Infrequent Access]]
 			- [[Transform and Enrich CloudWatch Logs]]
+			- [[Starting Live Tail|Starting Live Tail]]
+		- [[Logs Insights]]
 			- 
