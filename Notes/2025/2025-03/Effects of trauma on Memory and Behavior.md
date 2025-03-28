@@ -1,0 +1,3 @@
+- fragment memories
+- disrupt thought processes
+- lead to unconscious reenactment of past events

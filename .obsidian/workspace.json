@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Workshop/AWS Observability Workshop.md",
+                "file": "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS Observability Workshop"
+              "title": "Effects of trauma on Memory and Behavior"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workshop/AWS Observability Workshop.md",
+                "file": "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS Observability Workshop"
+              "title": "Backlinks for Effects of trauma on Memory and Behavior"
             }
           },
           {
@@ -172,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workshop/AWS Observability Workshop.md",
+                "file": "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS Observability Workshop"
+              "title": "Outgoing links from Effects of trauma on Memory and Behavior"
             }
           },
           {
@@ -291,6 +291,11 @@
   },
   "active": "bd890ec67c4f7c5e",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/Trauma.md",
+    "Notes/2025/2025-03/Effects of trauma on Memory and Behavior.md",
+    "Notes/2025/2025-03/Biological Impact of Trauma.md",
+    "Books/It Didn't Start With You.md",
+    "Workshop/AWS Observability Workshop.md",
     "Notes/2025/2025-03/Displaying results.md",
     "Notes/2025/2025-03/Pasted image 20250328194557.png",
     "Notes/2025/2025-03/Pasted image 20250328194548.png",
@@ -302,7 +307,6 @@
     "Notes/2025/2025-03/Pasted image 20250328194241.png",
     "Notes/2025/2025-03/Pasted image 20250328194232.png",
     "Notes/2025/2025-03/Pasted image 20250328194220.png",
-    "Workshop/AWS Observability Workshop.md",
     "Notes/2025/2025-03/Creating field indexes.md",
     "Notes/2025/2025-03/Querying - getting started.md",
     "Notes/2025/2025-03/Navigating the Interface.md",
@@ -325,9 +329,6 @@
     "Notes/2025/2025-03/1.4.process_eoi.php.md",
     "Workshop",
     "Notes/2025/2025-03/1. Specified Requirements.md",
-    "Classes/COS10026/COS10026. Assignment 2 Overview.md",
-    "Programming Languages/MySQL commands.md",
-    "Books/It Didn't Start With You.md",
     "Notes/Pair-sample t-tets.canvas",
     "CS/Untitled.canvas",
     "Classes/Vovinam",

@@ -1,4 +1,6 @@
 # Linked Notes
+Ch1
+[[Trauma]]
 
 # It Didn't Start With You
 ## Chapter 1 - Trauma Lost and Found
