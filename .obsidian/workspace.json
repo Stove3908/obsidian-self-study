@@ -70,16 +70,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Using pre-provisioned AWS accounts.md",
+                "file": "Notes/2025/2025-03/Workshop pre-requisites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using pre-provisioned AWS accounts"
-            }
+              "title": "Workshop pre-requisites"
+            },
+            "group": "350e7ad93e8a2aac"
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "fdf4b0c90f2647e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b7b40975504059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2025/2025-03/Workshop pre-requisites.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workshop pre-requisites"
+            },
+            "group": "350e7ad93e8a2aac"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Using pre-provisioned AWS accounts.md",
+                "file": "Notes/2025/2025-03/Workshop pre-requisites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Using pre-provisioned AWS accounts"
+              "title": "Backlinks for Workshop pre-requisites"
             }
           },
           {
@@ -172,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Using pre-provisioned AWS accounts.md",
+                "file": "Notes/2025/2025-03/Workshop pre-requisites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Using pre-provisioned AWS accounts"
+              "title": "Outgoing links from Workshop pre-requisites"
             }
           },
           {
@@ -264,8 +286,7 @@
               "title": "Notes Review Queue"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -292,19 +313,23 @@
   },
   "active": "bd890ec67c4f7c5e",
   "lastOpenFiles": [
+    "image-3.png",
+    "image-2.png",
+    "image-1.png",
+    "Notes/2025/2025-03/Getting started.md",
+    "Notes/2025/2025-03/Using your own AWS account.md",
+    "Notes/2025/2025-03/Using pre-provisioned AWS accounts.md",
+    "image.png",
     "Pasted image 20250328161520.png",
     "Pasted image 20250328161506.png",
     "Pasted image 20250328161454.png",
     "Pasted image 20250328161432.png",
     "Pasted image 20250328161420.png",
-    "Notes/2025/2025-03/Getting started.md",
     "Workshop/AWS Observability Workshop.md",
     "Notes/2025/2025-03/Introduction to AWS Observability.md",
     "Notes/2025/2025-03/One Observability Workshop.md",
     "Notes/2025/2025-03/Application architecture.md",
     "Notes/2025/2025-03/Workshop pre-requisites.md",
-    "Notes/2025/2025-03/Using your own AWS account.md",
-    "Notes/2025/2025-03/Using pre-provisioned AWS accounts.md",
     "Notes/2025/2025-03/1.4.process_eoi.php.md",
     "Workshop",
     "Notes/2025/2025-03/1. Specified Requirements.md",
@@ -326,10 +351,6 @@
     "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/2025-03/Pasted image 20250323210028.png",
     "Notes/2025/2025-03/Pasted image 20250323215737.png",
-    "Notes/2025/2025-03/Pasted image 20250323231334.png",
-    "Notes/2025/2025-03/Pasted image 20250323231318.png",
-    "Notes/2025/2025-03/Pasted image 20250323231341.png",
-    "Notes/2025/2025-03/HIERARCHICAL ORGANIZATION OF THE HUMAN BRAIN.png",
     "CS/Untitled.canvas",
     "Classes/Vovinam",
     "CS/Beginning C++ Game.canvas",

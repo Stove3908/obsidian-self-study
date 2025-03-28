@@ -55,7 +55,7 @@ The “AWS console” link will open the AWS Management Console home page. This 
 
 Ensure that you are logged in as `WSParticipantRole`, as can be verified on the top right of the screen.
 
-![Workshop Studio](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/workshopstudio/ws_wsparticipantrole.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[image.png]]
 
 [
 
