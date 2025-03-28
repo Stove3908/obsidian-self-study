@@ -51,45 +51,17 @@
             }
           },
           {
-            "id": "c86f200e12549eb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/COS10026/COS10026. Assignment 2 Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "COS10026. Assignment 2 Overview"
-            }
-          },
-          {
             "id": "4d8a488a0fb536bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/1. Specified Requirements.md",
+                "file": "Notes/2025/2025-03/1.4.process_eoi.php.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Specified Requirements"
-            }
-          },
-          {
-            "id": "1f7ad3e051d6339a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/It Didn't Start With You.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "It Didn't Start With You"
+              "title": "1.4.process_eoi.php"
             }
           }
         ],
@@ -150,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -305,10 +278,11 @@
   },
   "active": "f8d87361061b8ca5",
   "lastOpenFiles": [
-    "Programming Languages/MySQL commands.md",
     "Notes/2025/2025-03/1. Specified Requirements.md",
-    "Books/It Didn't Start With You.md",
+    "Notes/2025/2025-03/1.4.process_eoi.php.md",
     "Classes/COS10026/COS10026. Assignment 2 Overview.md",
+    "Programming Languages/MySQL commands.md",
+    "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/database.md",
     "Notes/2025/2025-03/2. Web Structure.md",
     "Notes/2025/2025-03/4. Review & Feedback.md",
@@ -330,7 +304,6 @@
     "Notes/2025/2025-03/current-date-time.md",
     "Notes/2025/2025-03/manual save point.md",
     "Notes/2025/2025-03/update-delete.md",
-    "Notes/2025/2025-03/queries.md",
     "Notes/Pair-sample t-tets.canvas",
     "Notes/2025/2025-03/Pasted image 20250323210028.png",
     "Notes/2025/2025-03/Pasted image 20250323215737.png",
