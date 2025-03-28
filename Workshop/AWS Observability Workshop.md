@@ -14,4 +14,5 @@
 			- [[Starting Live Tail|Starting Live Tail]]
 		- [[Logs Insights]]
 			- [[Navigating the Interface|Navigating the Interface]]
+			-  [[Querying - getting started|Querying - getting started]]
 			- 
