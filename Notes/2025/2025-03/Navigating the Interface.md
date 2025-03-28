@@ -48,7 +48,7 @@ Fields that begin with an "@" are fields that [CloudWatch automatically generate
 
 This allows you to pick and include the fields that you want to use in the query using auto-completion.
 
-![Logs Insights autocompletion](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/discovery-fields-auto-complete-01.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328180642.png]]
 
 These fields are automatically discovered because the logs are in JSON format.
 
@@ -66,7 +66,7 @@ JSON format is a great choice for Log data as CloudWatch supports auto discover 
 
 In the Discovery Fields section of the right menu, you'll find petid and pettype listed as indexed fields with a value of 1. These discovered fields are automatically indexed by CloudWatch Logs, enabling faster and more efficient queries when filtering or searching through your log data.
 
-![Logs Insights indexes](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/log-indexes.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328180655.png]]
 
 Note
 
@@ -88,7 +88,7 @@ Select a query and click **Apply** on the query you are interested in. The query
 
 > Note: This query might not return any results for the log group(s) you have currently selected as it assumes the underlying data format.
 
-![Logs Insights sample queries](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/queries-01.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328180705.png]]
 
 [
 
@@ -104,7 +104,7 @@ You can save queries in Logs Insights for later access. Simply click the **Save*
 3. Enter `Sample1` for **Query name**.
 4. Select **Save**.
 
-![Logs Insights saved queries](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/save-new-query-01.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328180718.png]]
 
 > Note: You can also organise the queries similar to a directory structure using the option "Folder" from above.
 
@@ -112,7 +112,7 @@ You can save queries in Logs Insights for later access. Simply click the **Save*
 
 You should now have a query called `Sample1` listed under **Saved queries**.
 
-![Logs Insights save query successfully](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/saved-query-01.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328180727.png]]
 
 [
 
@@ -121,9 +121,8 @@ You should now have a query called `Sample1` listed under **Saved queries**.
 ](https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/aws-native/logs/logsinsights/#saved-queries-actions)
 1. For better managing the queries, there are several actions that can be performed from the interface. As can be found from below GIF, options such as `Save as`, `Edit`, `Delete`, `Reset` can be found by clicking on `Actions`.
 
-![Logs Insights saved query actions](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/query-actions-01.gif?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
 
-For example, from Edit option, query can be modified further or added to a relevant folder.
+![[query-actions-01.gif]]For example, from Edit option, query can be modified further or added to a relevant folder.
 
 [
 
@@ -137,8 +136,7 @@ Here you can view the history of all executed queries. You will be able to see q
 The first method is to select the query and click `Apply` from the `Actions`. You can then click on \`Run query' to run. This way, you will get an option to make any changes to the query before running the query.
 
 Another way to run from queries from history is to select the query and then click `Run` to run the query directly without having the click the `Run query` button.
-
-![Logs Insights query history](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/query-history.gif?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[query-history.gif]]
 
 [
 
@@ -146,5 +144,4 @@ Another way to run from queries from history is to select the query and then cli
 
 ](https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/aws-native/logs/logsinsights/#query-help)
 1. See the GIF below for details on how additional information or commands can be found for building the queries for getting logs insights.
-
-![Logs Insights query help](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logsinsights/query-commands.gif?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[query-commands.gif]]
