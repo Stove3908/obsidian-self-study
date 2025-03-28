@@ -1,5 +1,3 @@
-
-
 We recently moved all code instructions from AWS Cloud9 to AWS CloudShell. Please report to your facilitator or to [aws-bd-observability@amazon.com](mailto:aws-bd-observability@amazon.com) , if you encounter any related error or outdated instructions.
 
 Some sections of the workshop will require you to run shell commands. For this, you will need access to a terminal environemnt. We will generally call out any section that needs the pre-requisites with an alert banner. This section provides instructions to use AWS CloudShell, a browser-based shell where you can quickly run scripts with the AWS Command Line Interface (CLI) and other tools.
@@ -46,7 +44,7 @@ kubectl get nodes
 
 Your output should look like the following:
 
-![[image-3.png]])
+![[image-4.png]]
 
 [
 
