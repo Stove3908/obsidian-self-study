@@ -2,7 +2,7 @@
 
 - [ ] [[1. Specified Requirements]]
 	- [x] 1.1. PHP Includes
-	- [ ] 1.2. settings.php
+	- [ ] 1.2. settings.php (edit host, name, pwd, db for porting to mercury)
 	- [ ] 1.3. EOI Table
 	- [ ] 1.4: process_eoi.php
 	- [ ] 1.5: manage.php (HR Queries)
