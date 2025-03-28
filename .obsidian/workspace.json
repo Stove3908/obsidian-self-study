@@ -68,14 +68,12 @@
             "id": "bd890ec67c4f7c5e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/2025/2025-03/Logs Infrequent Access.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/2025/2025-03/Pasted image 20250328161420.png"
               },
-              "icon": "lucide-file",
-              "title": "Logs Infrequent Access"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250328161420"
             }
           }
         ],
@@ -152,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Logs Infrequent Access.md",
+                "file": "Notes/2025/2025-03/Pasted image 20250328161420.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logs Infrequent Access"
+              "title": "Backlinks for Pasted image 20250328161420"
             }
           },
           {
@@ -171,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Logs Infrequent Access.md",
+                "file": "Notes/2025/2025-03/Pasted image 20250328161420.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logs Infrequent Access"
+              "title": "Outgoing links from Pasted image 20250328161420"
             }
           },
           {
@@ -288,28 +286,29 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "bd890ec67c4f7c5e",
+  "active": "f28249ae7d9b0f84",
   "lastOpenFiles": [
-    "image-14.png",
-    "image-13.png",
-    "image-12.png",
-    "image-11.png",
-    "image-10.png",
-    "image-9.png",
-    "Notes/2025/2025-03/Getting started with logs ingestion.md",
+    "Workshop/AWS Observability Workshop.md",
+    "Clippings/Transform and Enrich CloudWatch Logs.md",
     "Notes/2025/2025-03/Logs Infrequent Access.md",
+    "Notes/2025/2025-03/image-18.png",
+    "Notes/2025/2025-03/image-17.png",
+    "Notes/2025/2025-03/image-16.png",
+    "Notes/2025/2025-03/image-15.png",
+    "Clippings",
+    "Notes/2025/2025-03/image-14.png",
+    "Notes/2025/2025-03/image-13.png",
+    "Notes/2025/2025-03/image-12.png",
+    "Notes/2025/2025-03/image-11.png",
+    "Notes/2025/2025-03/image-10.png",
+    "Notes/2025/2025-03/image-9.png",
+    "Notes/2025/2025-03/Getting started with logs ingestion.md",
     "Notes/2025/2025-03/Logs.md",
     "Notes/2025/2025-03/AWS native Observability.md",
-    "Workshop/AWS Observability Workshop.md",
     "Notes/2025/2025-03/Getting started.md",
     "Notes/2025/2025-03/Workshop pre-requisites.md",
     "Notes/2025/2025-03/Application architecture.md",
     "Notes/2025/2025-03/Explore the web application (optional).md",
-    "play-1.gif",
-    "play.gif",
-    "image-8.png",
-    "image-7.png",
-    "image-6.png",
     "Notes/2025/2025-03/Using your own AWS account.md",
     "Notes/2025/2025-03/Using pre-provisioned AWS accounts.md",
     "Notes/2025/2025-03/Introduction to AWS Observability.md",
@@ -326,7 +325,6 @@
     "Notes/2025/2025-03/CSO10026 - A2 checklist.md",
     "Notes/2025/2025-03/style.css.md",
     "Notes/2025/2025-03/about.html.md",
-    "Notes/2025/2025-03/Untitled 4.md",
     "Notes/Pair-sample t-tets.canvas",
     "CS/Untitled.canvas",
     "Classes/Vovinam",
@@ -344,7 +342,6 @@
     "Classes/STA10003/Week 8",
     "Classes/STA10003",
     "Books",
-    "Classes",
-    "Classes/COS10026"
+    "Classes"
   ]
 }

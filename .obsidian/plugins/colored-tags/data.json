@@ -102,7 +102,8 @@
     "-": 90,
     "flashcard": 91,
     "flashcards": 92,
-    "Central": 93
+    "Central": 93,
+    "clippings": 94
   },
   "_version": 3
 }
