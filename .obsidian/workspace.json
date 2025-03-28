@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2025/2025-03/Creating field indexes.md",
+                "file": "Workshop/AWS Observability Workshop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Creating field indexes"
+              "title": "AWS Observability Workshop"
             }
           }
         ],
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/2025/2025-03/Creating field indexes.md",
+                "file": "Workshop/AWS Observability Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creating field indexes"
+              "title": "Backlinks for AWS Observability Workshop"
             }
           },
           {
@@ -172,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/2025/2025-03/Creating field indexes.md",
+                "file": "Workshop/AWS Observability Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Creating field indexes"
+              "title": "Outgoing links from AWS Observability Workshop"
             }
           },
           {
@@ -291,21 +291,21 @@
   },
   "active": "bd890ec67c4f7c5e",
   "lastOpenFiles": [
-    "Notes/2025/2025-03/Pasted image 20250328193708.png",
-    "Notes/2025/2025-03/Pasted image 20250328193653.png",
-    "Notes/2025/2025-03/Pasted image 20250328193614.png",
-    "Notes/2025/2025-03/Pasted image 20250328193552.png",
+    "Notes/2025/2025-03/Displaying results.md",
+    "Notes/2025/2025-03/Pasted image 20250328194557.png",
+    "Notes/2025/2025-03/Pasted image 20250328194548.png",
+    "Notes/2025/2025-03/Pasted image 20250328194538.png",
+    "Notes/2025/2025-03/Pasted image 20250328194526.png",
+    "Notes/2025/2025-03/Pasted image 20250328194517.png",
+    "Notes/2025/2025-03/Pasted image 20250328194303.png",
+    "Notes/2025/2025-03/Pasted image 20250328194252.png",
+    "Notes/2025/2025-03/Pasted image 20250328194241.png",
+    "Notes/2025/2025-03/Pasted image 20250328194232.png",
+    "Notes/2025/2025-03/Pasted image 20250328194220.png",
     "Workshop/AWS Observability Workshop.md",
     "Notes/2025/2025-03/Creating field indexes.md",
     "Notes/2025/2025-03/Querying - getting started.md",
-    "Notes/2025/2025-03/Pasted image 20250328193237.png",
-    "Notes/2025/2025-03/Pasted image 20250328193158.png",
-    "Notes/2025/2025-03/Pasted image 20250328193145.png",
     "Notes/2025/2025-03/Navigating the Interface.md",
-    "Notes/2025/2025-03/query-commands.gif",
-    "Notes/2025/2025-03/query-history.gif",
-    "Notes/2025/2025-03/query-actions-01.gif",
-    "Notes/2025/2025-03/Pasted image 20250328180727.png",
     "Notes/2025/2025-03/Logs Insights.md",
     "Notes/2025/2025-03/Starting Live Tail.md",
     "Clippings/Transform and Enrich CloudWatch Logs.md",
@@ -328,7 +328,6 @@
     "Classes/COS10026/COS10026. Assignment 2 Overview.md",
     "Programming Languages/MySQL commands.md",
     "Books/It Didn't Start With You.md",
-    "Notes/2025/2025-03/database.md",
     "Notes/Pair-sample t-tets.canvas",
     "CS/Untitled.canvas",
     "Classes/Vovinam",

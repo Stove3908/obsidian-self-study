@@ -73,7 +73,7 @@ On the **Log group details** page for the log group **/aws/containerinsights/Pet
 
 After a brief period, refresh the page to see new events that are now indexed by the log group field indexes.
 
-![Log field index event time](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logindexes/log-group-field-index-event-time.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328193720.png]]
 
 [
 
@@ -101,17 +101,16 @@ Now that the log group `/aws/containerinsights/PetSite/performance` is being ind
 
 This will run a CloudWatch log query against all log groups and search for logs related to the Kubernetes service name like **aws-load-balancer-webhook-service**. In the **Logs** section, you can see the performance of the query and logs discovered by the query.
 
-![Query performance after creating field indexes](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logindexes/query-performance-after.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328193731.png]]
 
 In the example screenshot above, **217,161 records (192.7 MB)** were scanned in **3.2s** with **412 records** matched.
 
 Did you know?
 
-You can select the information option next to ***Powered by field indexes*** to see the estimated records skipped by using field indexes.![Estimated records skipped by using field indexes](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logindexes/powered-by-field-indexes.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+You can select the information option next to ***Powered by field indexes*** to see the estimated records skipped by using field indexes. ![[Pasted image 20250328193751.png]]
 
 Optionally, repeat the same query except change **Select log groups by** to **Log group name** and for **Selection criteria**, enter `/aws/containerinsights/PetSite/performance`.
-
-![Query performance for one log group after creating field indexes](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logindexes/query-performance-after-one-log-group.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328193815.png]]
 
 In the example screenshot above, **71,082 records (63.8 MB)** were scanned in **1.4s** with **413 records** matched.
 
@@ -132,6 +131,6 @@ fields @timestamp, @message, @logStream, @log
 | limit 10000
 ```
 
-![Query performance for one log group using only field indexes](https://static.us-east-1.prod.workshops.aws/72c80ac7-9423-4bc3-9bde-25479f8ef882/static/images/logindexes/query-performance-after-fieldindex.png?Key-Pair-Id=K36Q2WVO3JP7QD&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdGF0aWMudXMtZWFzdC0xLnByb2Qud29ya3Nob3BzLmF3cy83MmM4MGFjNy05NDIzLTRiYzMtOWJkZS0yNTQ3OWY4ZWY4ODIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Mzc1NjI2OH19fV19&Signature=XRBsAedHYWxOtTFVK2z%7EYS7QJoAjx7Jwgqq9wh-iZOUO3nsFbjIZRdpzKlptpU%7En310o1uNIYMtNIs-n32q%7EYN5XVUwZQ1W-UNbx1N6RXwWEVLR2NgIfnI0s0PnYFddhozSuqVOcv1ZOwdZYJvbKR8xqKX2BA7sjDvjX55Uk0OphGVv%7EkPfy4zJCnh-IS74bTIYmMKgcWbiiQPp8Y8oJormYhcdliD9vCck3VG8ZHHNc-SmM7ys64tkSeC8SjbHwTGh4fIed0XzIwACV4M07vvVb20Kf%7EgqslEFHqvCbV6C2zI5HzrFhfv1Um8hzh8J820GIgnNINGSDc-qeZRKMRg__)
+![[Pasted image 20250328193827.png]]
 
 In the example screenshot above, CloudWatch Log Insights queried only records indexed by the field `kubernetes.service_name` resulting in **12,286 records (11.6 MB)** scanned in **1.4s** with **100 records** matched. By using the `field index`, we reduced the records scanned by approximately **181.1 MB** or a reduction of records scanned by **95%**!

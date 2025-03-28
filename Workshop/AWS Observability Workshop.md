@@ -15,4 +15,5 @@
 		- [[Logs Insights]]
 			- [[Navigating the Interface|Navigating the Interface]]
 			-  [[Querying - getting started|Querying - getting started]]
-			- 
+			- [[Creating field indexes|Creating field indexes]]
+			- [[Displaying results|Displaying results]]
