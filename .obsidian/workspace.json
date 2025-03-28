@@ -85,30 +85,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/COS10026/COS10026. Assignment 2 Overview.md",
+                "file": "Notes/2025/2025-03/1. Specified Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COS10026. Assignment 2 Overview"
-            }
-          },
-          {
-            "id": "b8e93a2546dc0cca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/2025/2025-03/database.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "database"
+              "title": "1. Specified Requirements"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -320,14 +306,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9b52dfcf7a5c8a14",
+  "active": "1f7ad3e051d6339a",
   "lastOpenFiles": [
     "Classes/COS10026/COS10026. Assignment 2 Overview.md",
-    "Notes/2025/2025-03/2. Web Structure.md",
+    "Notes/2025/2025-03/database.md",
     "Notes/2025/2025-03/1. Specified Requirements.md",
+    "Notes/2025/2025-03/2. Web Structure.md",
     "Notes/2025/2025-03/4. Review & Feedback.md",
     "Notes/2025/2025-03/CSO10026 - A2 checklist.md",
-    "Notes/2025/2025-03/database.md",
     "Programming Languages/MySQL commands.md",
     "Notes/2025/2025-03/style.css.md",
     "Notes/2025/2025-03/about.html.md",
