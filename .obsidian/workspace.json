@@ -63,19 +63,9 @@
               "icon": "lucide-file",
               "title": "1.4.process_eoi.php"
             }
-          },
-          {
-            "id": "bd890ec67c4f7c5e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f07f1a7e4c97da9",
@@ -148,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/2025/2025-03/1.4.process_eoi.php.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1.4.process_eoi.php"
             }
           },
           {
@@ -166,11 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/2025/2025-03/1.4.process_eoi.php.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1.4.process_eoi.php"
             }
           },
           {
@@ -261,7 +254,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,8 +276,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bd890ec67c4f7c5e",
+  "active": "4d8a488a0fb536bf",
   "lastOpenFiles": [
+    "Notes/2025/2025-03/7.6. Case Studies, Examples.md",
     "Books/It Didn't Start With You.md",
     "Notes/2025/2025-03/Trauma.md",
     "Notes/2025/2025-03/Carl Jung’s Perspective on Trauma.md",
@@ -320,7 +315,6 @@
     "Notes/2025/2025-03/Using your own AWS account.md",
     "Notes/2025/2025-03/Using pre-provisioned AWS accounts.md",
     "Notes/2025/2025-03/Introduction to AWS Observability.md",
-    "Notes/2025/2025-03/One Observability Workshop.md",
     "Workshop",
     "Notes/Pair-sample t-tets.canvas",
     "CS/Untitled.canvas",
