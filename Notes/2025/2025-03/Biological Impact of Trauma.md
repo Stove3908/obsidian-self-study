@@ -10,4 +10,4 @@
 
 
 
-- These are biological impacts of [[Trauma]]
+- These are biological impacts of [[1. Trauma]]
