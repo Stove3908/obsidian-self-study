@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You/6. Biological Markers.md",
+                "file": "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Biological Markers"
+              "title": "6a. Epigenetics and Trauma"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You/6. Biological Markers.md",
+                "file": "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Biological Markers"
+              "title": "Backlinks for 6a. Epigenetics and Trauma"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/It Didn't Start With You/6. Biological Markers.md",
+                "file": "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Biological Markers"
+              "title": "Outgoing links from 6a. Epigenetics and Trauma"
             }
           },
           {
@@ -284,16 +284,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4ec0481b30e24903",
+  "active": "f28249ae7d9b0f84",
   "lastOpenFiles": [
+    "Media/2025/2025-03",
+    "Media/2025",
+    "Media",
+    "Books/It Didn't Start With You/6b. Rachel Yehuda's Research.md",
+    "Books/It Didn't Start With You/6. Biological Markers.md",
     "Books/It Didn't Start With You/1c. Case Study - Gretchen's Suicidal Urges.md",
     "Books/It Didn't Start With You/1b. Case Study - Jesse's Insomnia.md",
     "Books/It Didn't Start With You/1a1. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1a. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1. Inherited Trauma.md",
-    "Books/It Didn't Start With You/6. Biological Markers.md",
     "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
-    "Books/It Didn't Start With You/6b. Rachel Yehuda's Research.md",
     "template/Untitled.md",
     "template/Chapter_Note..md",
     "Books/It Didn't Start With You/It Didn't Start With You - Chapter 1.md",
@@ -322,7 +325,6 @@
     "Notes/2025/2025-03/Pasted image 20250328194232.png",
     "Notes/2025/2025-03/Pasted image 20250328194220.png",
     "Notes/2025/2025-03/Creating field indexes.md",
-    "Notes/2025/2025-03/Querying - getting started.md",
     "Clippings",
     "Workshop",
     "Notes/Pair-sample t-tets.canvas",
@@ -339,8 +341,6 @@
     "Notes/2025/2025-03/Untitled 3.canvas",
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
     "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
-    "Classes/STA10003/Week 8",
-    "Classes/STA10003",
-    "Books"
+    "Classes/STA10003/Week 8"
   ]
 }
