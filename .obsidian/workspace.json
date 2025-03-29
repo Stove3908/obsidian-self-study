@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You/1. Trauma.md",
+                "file": "Books/It Didn't Start With You/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Trauma"
+              "title": "Untitled"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You/1. Trauma.md",
+                "file": "Books/It Didn't Start With You/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Trauma"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/It Didn't Start With You/1. Trauma.md",
+                "file": "Books/It Didn't Start With You/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Trauma"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -286,11 +286,14 @@
   },
   "active": "4ec0481b30e24903",
   "lastOpenFiles": [
+    "Books/It Didn't Start With You/1a1..md",
+    "Books/It Didn't Start With You/Untitled.md",
+    "Books/It Didn't Start With You/1a..md",
+    "Books/It Didn't Start With You/1..md",
     "Books/It Didn't Start With You/It Didn't Start With You.md",
     "Programming Languages/MySQL commands.md",
     "Books/It Didn't Start With You",
     "Notes/2025/2025-03/database.md",
-    "Books/It Didn't Start With You/1. Trauma.md",
     "Notes/2025/2025-03/Biological Impact of Trauma.md",
     "Notes/2025/2025-03/1.a. Effects of trauma on Memory and Behavior.md",
     "Notes/2025/2025-03/Pasted image 20250328194557.png",
@@ -321,8 +324,6 @@
     "Notes/2025/2025-03/Logs Infrequent Access.md",
     "Clippings",
     "Notes/2025/2025-03/Getting started with logs ingestion.md",
-    "Notes/2025/2025-03/Logs.md",
-    "Notes/2025/2025-03/AWS native Observability.md",
     "Workshop",
     "Notes/Pair-sample t-tets.canvas",
     "CS/Untitled.canvas",
