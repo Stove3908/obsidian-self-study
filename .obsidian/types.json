@@ -46,6 +46,7 @@
     "TQ_show_urgency": "checkbox",
     "book": "multitext",
     "type": "multitext",
-    "unlinked": "checkbox"
+    "unlinked": "checkbox",
+    "unlinked?": "checkbox"
   }
 }

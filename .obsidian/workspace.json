@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
+                "file": "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6a. Epigenetics and Trauma"
+              "title": "8. Resilience - A Legacy of Strength"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
+                "file": "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6a. Epigenetics and Trauma"
+              "title": "Backlinks for 8. Resilience - A Legacy of Strength"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
+                "file": "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6a. Epigenetics and Trauma"
+              "title": "Outgoing links from 8. Resilience - A Legacy of Strength"
             }
           },
           {
@@ -284,22 +284,26 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f28249ae7d9b0f84",
+  "active": "4ec0481b30e24903",
   "lastOpenFiles": [
-    "Media/2025/2025-03",
-    "Media/2025",
-    "Media",
-    "Books/It Didn't Start With You/6b. Rachel Yehuda's Research.md",
+    "Books/It Didn't Start With You/5. Healing Generational Trauma - Awareness and Visceral Experience.md",
+    "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
+    "Books/It Didn't Start With You/1b. Case Study - Jesse's Insomnia.md",
+    "Books/It Didn't Start With You/7. PTSD.md",
+    "Books/It Didn't Start With You/0a. Chapter 1 - Trauma Lost and Found.md",
+    "Books/It Didn't Start With You/2. Trauma and Memory - Disrupted Recall.md",
+    "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
     "Books/It Didn't Start With You/6. Biological Markers.md",
     "Books/It Didn't Start With You/1c. Case Study - Gretchen's Suicidal Urges.md",
-    "Books/It Didn't Start With You/1b. Case Study - Jesse's Insomnia.md",
     "Books/It Didn't Start With You/1a1. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1a. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1. Inherited Trauma.md",
-    "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
-    "template/Untitled.md",
+    "Books/It Didn't Start With You/6b. Rachel Yehuda's Research.md",
+    "template/LinkedNote.md",
+    "Media/2025/2025-03",
+    "Media/2025",
+    "Media",
     "template/Chapter_Note..md",
-    "Books/It Didn't Start With You/It Didn't Start With You - Chapter 1.md",
     "Programming Languages/MySQL commands.md",
     "Books/It Didn't Start With You",
     "Notes/2025/2025-03/database.md",
@@ -313,8 +317,6 @@
     "Notes/2025/2025-03/Repetition Compulsion.md",
     "Notes/2025/2025-03/1.4.process_eoi.php.md",
     "Notes/2025/2025-03/7.6. Case Studies, Examples.md",
-    "Workshop/AWS Observability Workshop.md",
-    "Notes/2025/2025-03/Displaying results.md",
     "Notes/2025/2025-03/Pasted image 20250328194548.png",
     "Notes/2025/2025-03/Pasted image 20250328194538.png",
     "Notes/2025/2025-03/Pasted image 20250328194526.png",
@@ -324,7 +326,6 @@
     "Notes/2025/2025-03/Pasted image 20250328194241.png",
     "Notes/2025/2025-03/Pasted image 20250328194232.png",
     "Notes/2025/2025-03/Pasted image 20250328194220.png",
-    "Notes/2025/2025-03/Creating field indexes.md",
     "Clippings",
     "Workshop",
     "Notes/Pair-sample t-tets.canvas",
@@ -340,7 +341,6 @@
     "Notes/2025/2025-03/SPSS Output & Report Writing.canvas",
     "Notes/2025/2025-03/Untitled 3.canvas",
     "Notes/2025/2025-03/Untitled 2 Grouped Canvas.canvas",
-    "Notes/2025/2025-03/Untitled 2 Canvas.canvas",
-    "Classes/STA10003/Week 8"
+    "Notes/2025/2025-03/Untitled 2 Canvas.canvas"
   ]
 }
