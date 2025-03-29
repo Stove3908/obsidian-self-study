@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "5b677633586cdc85",
+            "id": "e33e4918ff248b35",
             "type": "leaf",
             "dimension": 25,
             "state": {
@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You/20250329110348.md",
+                "file": "Classes/COS10026/COS10026. Assignment 2 Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250329110348"
+              "title": "COS10026. Assignment 2 Overview"
             }
           }
         ],
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "1. Specified Requirements",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,8 @@
               "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You/20250329110348.md",
+                "file": "Classes/COS10026/COS10026. Assignment 2 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20250329110348"
+              "title": "Backlinks for COS10026. Assignment 2 Overview"
             }
           },
           {
@@ -285,8 +286,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d3c86f577018755d",
+  "active": "93f6ea29aaea63ba",
   "lastOpenFiles": [
+    "8. Details for Enhancements.md",
+    "7. Advanced Concepts.md",
+    "7. Database Design.md",
+    "6. Validation & Security.md",
+    "6. Tools and Resources.md",
+    "5. Group Submission.md",
+    "4. Review & Feedback.md",
+    "3. SQL Basics.md",
+    "4. PHP and MySQL Integration.md",
+    "3. Group Presentation.md",
+    "2. Web Structure.md",
+    "2. MySQL, MariaDB Overview.md",
+    "1. Specified Requirements.md",
+    "1. Introduction to Databases.md",
     "Books/It Didn't Start With You/20250329110348.md",
     "Books/It Didn't Start With You/11. Beyond Dramatic Trauma - Subtle Disruptions.md",
     "Books/It Didn't Start With You/10. Societal Limitations - Inadequate Support Systems.md",
@@ -299,25 +314,11 @@
     "Books/It Didn't Start With You/5. Healing Generational Trauma - Awareness and Visceral Experience.md",
     "Books/It Didn't Start With You/2. Trauma and Memory - Disrupted Recall.md",
     "Books/It Didn't Start With You/1c. Case Study - Gretchen's Suicidal Urges.md",
-    "Books/It Didn't Start With You/1b. Case Study - Jesse's Insomnia.md",
-    "Books/It Didn't Start With You/1a1. Unconscious Reenactment.md",
-    "Books/It Didn't Start With You/1a. Unconscious Reenactment.md",
-    "Books/It Didn't Start With You/1. Inherited Trauma.md",
-    "template/LinkedNote.md",
-    "Classes/COS10025/COS10025. Lecture 9.md",
-    "Books/It Didn't Start With You/0a. Chapter 1 - Trauma Lost and Found.md",
     "Media/2025/2025-03",
     "Media/2025",
     "Media",
-    "template/Chapter_Note..md",
-    "Programming Languages/MySQL commands.md",
     "Books/It Didn't Start With You",
-    "Notes/2025/2025-03/database.md",
-    "Notes/2025/2025-03/Biological Impact of Trauma.md",
-    "Notes/2025/2025-03/1.a. Effects of trauma on Memory and Behavior.md",
     "Notes/2025/2025-03/Pasted image 20250328194557.png",
-    "Notes/2025/2025-03/1.1. Theoretical Foundations.md",
-    "Notes/2025/2025-03/to-change folder location.md",
     "Notes/2025/2025-03/Pasted image 20250328194548.png",
     "Notes/2025/2025-03/Pasted image 20250328194538.png",
     "Notes/2025/2025-03/Pasted image 20250328194526.png",
