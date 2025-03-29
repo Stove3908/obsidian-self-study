@@ -40,9 +40,9 @@
             }
           },
           {
-            "id": "d6afcd93ea8bcd4f",
+            "id": "2d9f28954a042133",
             "type": "leaf",
-            "dimension": 25,
+            "dimension": 16.666666666666668,
             "state": {
               "type": "mindmap-nextgen-plugin",
               "state": {},
@@ -278,7 +278,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -294,7 +294,6 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-trash-explorer:Open trash explorer": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "canvas:Create new canvas": false,
       "obsidian42-brat:BRAT": false,
@@ -303,7 +302,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ec2e3ffbc7bdc241",
+  "active": "a832bf1d53ced37c",
   "lastOpenFiles": [
     "Books/It Didn't Start With You/20250329110348.md",
     "Books/It Didn't Start With You/Untitled.md",
