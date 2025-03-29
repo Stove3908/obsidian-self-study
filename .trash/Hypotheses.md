@@ -1,7 +1,0 @@
-- **Null Hypothesis ($H_0$​)**:
-    - $\mu_D = 0$ (no population mean difference).
-    - Verbal: _"No difference between conditions."_
-- **Alternative Hypothesis ($H_1$​)**:
-    - Non-directional: $μ_D\neq0$ (two-tailed test).
-    - Directional: $\mu_D>0$ or $\mu_D<0$ (one-tailed test).
-    - Example: _"Memory training increases license plate recall ($\mu_D>0$)."

@@ -1,6 +1,0 @@
-- Situation went "sideways" almost immediately
-- Everything assumed was wrong
-- "Lead" hostage-taker running a "counterintelligence operation" (misinformation)
-- Only one other robber (plus getaway driver)
-- Co-conspirators were also hostages (thought they were burglarizing an ATM)
-- Getaway driver fled the scene early on

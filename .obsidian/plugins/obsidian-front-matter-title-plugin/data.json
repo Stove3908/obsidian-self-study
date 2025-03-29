@@ -110,7 +110,7 @@
       }
     },
     "noteLink": {
-      "enabled": true,
+      "enabled": false,
       "strategy": "all",
       "approval": false,
       "templates": {

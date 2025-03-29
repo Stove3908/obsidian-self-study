@@ -1,2 +1,0 @@
-- Smart people _can_ have trouble negotiating.
-- They think they don't have anything to discover.

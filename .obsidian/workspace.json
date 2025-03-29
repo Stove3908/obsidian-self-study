@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:flashcard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,8 @@
               "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -284,21 +285,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4ec0481b30e24903",
+  "active": "93f6ea29aaea63ba",
   "lastOpenFiles": [
-    "Books/It Didn't Start With You/5. Healing Generational Trauma - Awareness and Visceral Experience.md",
+    "Classes/COS10025/COS10025. Lecture 9.md",
     "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
-    "Books/It Didn't Start With You/1b. Case Study - Jesse's Insomnia.md",
-    "Books/It Didn't Start With You/7. PTSD.md",
-    "Books/It Didn't Start With You/0a. Chapter 1 - Trauma Lost and Found.md",
-    "Books/It Didn't Start With You/2. Trauma and Memory - Disrupted Recall.md",
-    "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
     "Books/It Didn't Start With You/6. Biological Markers.md",
+    "Books/It Didn't Start With You/5. Healing Generational Trauma - Awareness and Visceral Experience.md",
+    "Books/It Didn't Start With You/2. Trauma and Memory - Disrupted Recall.md",
     "Books/It Didn't Start With You/1c. Case Study - Gretchen's Suicidal Urges.md",
+    "Books/It Didn't Start With You/1b. Case Study - Jesse's Insomnia.md",
     "Books/It Didn't Start With You/1a1. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1a. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1. Inherited Trauma.md",
+    "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
     "Books/It Didn't Start With You/6b. Rachel Yehuda's Research.md",
+    "Books/It Didn't Start With You/7. PTSD.md",
+    "Books/It Didn't Start With You/0a. Chapter 1 - Trauma Lost and Found.md",
     "template/LinkedNote.md",
     "Media/2025/2025-03",
     "Media/2025",
@@ -316,7 +318,6 @@
     "Notes/2025/2025-03/Freud and Jung on Trauma.md",
     "Notes/2025/2025-03/Repetition Compulsion.md",
     "Notes/2025/2025-03/1.4.process_eoi.php.md",
-    "Notes/2025/2025-03/7.6. Case Studies, Examples.md",
     "Notes/2025/2025-03/Pasted image 20250328194548.png",
     "Notes/2025/2025-03/Pasted image 20250328194538.png",
     "Notes/2025/2025-03/Pasted image 20250328194526.png",

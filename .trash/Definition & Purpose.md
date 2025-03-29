@@ -1,4 +1,0 @@
-- Tests **mean differences** between two related conditions.
-- Used for **dependent samples** (same participants or matched pairs).
-- Focuses on **difference scores** (e.g., post-test − pre-test).
-- More sensitive than independent t-test (controls for individual differences).

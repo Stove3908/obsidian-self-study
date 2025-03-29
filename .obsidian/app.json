@@ -6,7 +6,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "trashOption": "local",
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "newFileFolderPath": "Notes/2025/2025-03",
   "attachmentFolderPath": "Media/2025/2025-03"
 }
