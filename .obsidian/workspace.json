@@ -40,9 +40,9 @@
             }
           },
           {
-            "id": "f8d87361061b8ca5",
+            "id": "5b677633586cdc85",
             "type": "leaf",
-            "dimension": 16.666666666666668,
+            "dimension": 25,
             "state": {
               "type": "mindmap-nextgen-plugin",
               "state": {},
@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
+                "file": "Books/It Didn't Start With You/11. Beyond Dramatic Trauma - Subtle Disruptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Resilience - A Legacy of Strength"
+              "title": "11. Beyond Dramatic Trauma - Subtle Disruptions"
             }
           }
         ],
@@ -128,8 +128,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
+                "file": "Books/It Didn't Start With You/11. Beyond Dramatic Trauma - Subtle Disruptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 8. Resilience - A Legacy of Strength"
+              "title": "Backlinks for 11. Beyond Dramatic Trauma - Subtle Disruptions"
             }
           },
           {
@@ -260,7 +259,8 @@
               "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -285,10 +285,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "93f6ea29aaea63ba",
+  "active": "4ec0481b30e24903",
   "lastOpenFiles": [
-    "Classes/COS10025/COS10025. Lecture 9.md",
+    "Books/It Didn't Start With You/10. Societal Limitations - Inadequate Support Systems.md",
+    "Books/It Didn't Start With You/11. Beyond Dramatic Trauma - Subtle Disruptions.md",
+    "Books/It Didn't Start With You/9. The Unspeakable - Trauma and Silence.md",
     "Books/It Didn't Start With You/8. Resilience - A Legacy of Strength.md",
+    "Books/It Didn't Start With You/7. PTSD.md",
+    "Books/It Didn't Start With You/6b. Rachel Yehuda's Research.md",
+    "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
     "Books/It Didn't Start With You/6. Biological Markers.md",
     "Books/It Didn't Start With You/5. Healing Generational Trauma - Awareness and Visceral Experience.md",
     "Books/It Didn't Start With You/2. Trauma and Memory - Disrupted Recall.md",
@@ -297,11 +302,9 @@
     "Books/It Didn't Start With You/1a1. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1a. Unconscious Reenactment.md",
     "Books/It Didn't Start With You/1. Inherited Trauma.md",
-    "Books/It Didn't Start With You/6a. Epigenetics and Trauma.md",
-    "Books/It Didn't Start With You/6b. Rachel Yehuda's Research.md",
-    "Books/It Didn't Start With You/7. PTSD.md",
-    "Books/It Didn't Start With You/0a. Chapter 1 - Trauma Lost and Found.md",
     "template/LinkedNote.md",
+    "Classes/COS10025/COS10025. Lecture 9.md",
+    "Books/It Didn't Start With You/0a. Chapter 1 - Trauma Lost and Found.md",
     "Media/2025/2025-03",
     "Media/2025",
     "Media",
@@ -315,9 +318,6 @@
     "Notes/2025/2025-03/1.1. Theoretical Foundations.md",
     "Notes/2025/2025-03/to-change folder location.md",
     "Notes/2025/2025-03/Carl Jung’s Perspective on Trauma.md",
-    "Notes/2025/2025-03/Freud and Jung on Trauma.md",
-    "Notes/2025/2025-03/Repetition Compulsion.md",
-    "Notes/2025/2025-03/1.4.process_eoi.php.md",
     "Notes/2025/2025-03/Pasted image 20250328194548.png",
     "Notes/2025/2025-03/Pasted image 20250328194538.png",
     "Notes/2025/2025-03/Pasted image 20250328194526.png",

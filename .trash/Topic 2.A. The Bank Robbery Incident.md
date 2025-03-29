@@ -1,8 +1,0 @@
-chapter note:: [[Note 2.A.1. Date and Time]]
-chapter note:: [[Note 2.A.2. Location]]
-chapter note:: [[Note 2.A.3.The Robbers]]
-chapter note:: [[Note 2.A.4. Initial Actions, Violence]]
-chapter note:: [[Note 2.A.5. Significance of the Event]]
-chapter note:: [[Note 2.A.6. Initial Misinformation, Assumptions]]
-chapter note:: [[Note 2.A.7. FBI, NYPD Response]]
-chapter note:: [[Note 2.A.8. Complications, Reality]]

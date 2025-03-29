@@ -1,3 +1,0 @@
-- [ ] unique note
-- [ ] canvas
-- [ ] new note

@@ -1,6 +1,0 @@
-- **Repeated Measures**:
-    - Same participants measured twice (e.g., before/after intervention).
-    - Example: Police officers’ license plate recall before vs. after training.
-- **Matched Pairs**:
-    - Different participants matched on key variables (e.g., age, IQ).
-    - Example: Twins assigned to different treatment groups.

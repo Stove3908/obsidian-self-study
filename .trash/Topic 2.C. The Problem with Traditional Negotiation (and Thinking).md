@@ -1,5 +1,0 @@
-chapter note:: [[Note 2.C.1. Selective Listening]]
-chapter note:: [[Note 2.C.2. Cognitive Bias]]
-chapter note:: [[Note 2.C.3. Limited Processing Capacity]]
-chapter note:: [[Note 2.C.4. Negotiation as Battle]]
-chapter note:: [[Note 2.C.5. State of Schizophrenia]]
